@@ -1,0 +1,670 @@
+# Wordlist
+
+# META
+@vowels:T V _
+
+# DATA
+ID	﻿ID	CONCEPT	TOKENS	DOCULECT	COGNACY	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	CUSTOMID	ALIGNMENT
+#
+173	173	"bad, evil"	kino	Maori	9	1	A	K	2	2.K.C	2.0	kino	0	1	kino
+407	407	"bad, evil"	cÄ	Fijian	1	1	A	C	1	1.C.C	2.0	cÄ	0	1	cÄ
+#
+174	174	"correct, true"	tika	Maori	9	1	A	T	2	2.T.C	2.0	tika	0	2	tika
+408	408	"correct, true"	dina	Fijian	40	1	A	T	1	1.T.C	2.0	dina	0	2	dina
+409	409	"correct, true"	donu	Fijian	8	1	A	T	1	1.T.C	2.0	donu	0	2	donu
+#
+84	84	"dull, blunt"	puuhuki	Maori	18	1	A	P	2	2.P.C	2.0	puuhuki	0	3	puuhuki
+#
+185	185	"in, inside"	i roto	Maori	5	7 5	XN	IR	2	2.I.V 2.R.c	1.5 0.8	iroto	0	5	i roto
+417	417	"in, inside"	e loÉ­ma	Fijian	1	7 5	XN	EL	1	1.E.V 1.L.c	1.5 0.8	eloÉ­ma	0	4	e loÉ­ma
+#
+213	213	"no, not"	kaahore	Maori	11	1	A	K	2	2.K.C	2.0	kaahore	0	7	kaahore
+444	444	"no, not"	sega	Fijian	42	3	A	S	1	1.S.C	2.0	sega	0	6	sega
+#
+168	168	"painful, sick"	maauiui	Maori	"1,12"	4	A	M	2	2.M.C	2.0	maauiui	0	9	maauiui
+402	402	"painful, sick"	rarawa	Fijian		5	A	R	1	1.R.C	2.0	rarawa	0	8	rarawa
+#
+169	169	"shy, ashamed"	whaka|maa	Maori	1	6	A	W	2	2.W.C	2.0	whaka|maa	0	11	whaka|maa
+403	403	"shy, ashamed"	mÄduÄ	Fijian	31	4	A	M	1	1.M.C	2.0	mÄduÄ	0	10	mÄduÄ
+#
+80	80	"to cut, hack"	taa	Maori	1	1	A	T	2	2.T.C	2.0	taa	0	12	taa
+316	316	"to cut, hack"	tatÄ	Fijian	1	1	A	T	1	1.T.C	2.0	tatÄ	0	12	tatÄ
+#
+77	77	"to die, be dead"	mate	Maori	1	4	A	M	2	2.M.C	2.0	mate	0	13	mate
+312	312	"to die, be dead"	mate	Fijian	1	4	A	M	1	1.M.C	2.0	mate	0	13	mate
+#
+22	22	"to know, be knowledgeable"	moohio	Maori	52	4	A	M	2	2.M.C	2.0	moohio	0	15	moohio
+250	250	"to know, be knowledgeable"	kila-a	Fijian	18	1	A	K	1	1.K.C	2.0	kila-a	0	14	kila-a
+#
+78	78	"to live, be alive"	ora	Maori	6	7	X	U	2	2.U.V	1.5	ora	0	17	ora
+313	313	"to live, be alive"	bula	Fijian	28	1	A	P	1	1.P.C	2.0	bula	0	16	bula
+#
+94	94	"to open, uncover"	huaki	Maori	8	3	A	H	2	2.H.C	2.0	huaki	0	19	huaki
+331	331	"to open, uncover"	dola-va	Fijian	35	1	A	T	1	1.T.C	2.0	dola-va	0	18	dola-va
+#
+95	95	"to pound, beat"	tuki	Maori	"20, 2"	1	A	T	2	2.T.C	2.0	tuki	0	20	tuki
+332	332	"to pound, beat"	tuki-a	Fijian	"20, 2"	1	A	T	1	1.T.C	2.0	tuki-a	0	20	tuki-a
+#
+31	31	"to sniff, smell"	hongi	Maori	9	3	A	H	2	2.H.C	2.0	hongi	0	22	hongi
+259	259	"to sniff, smell"	regu-ca	Fijian		5	A	R	1	1.R.C	2.0	regu-ca	0	21	regu-ca
+#
+73	73	"to stab, pierce"	oka	Maori	67	7	X	U	2	2.U.V	1.5	oka	0	24	oka
+306	306	"to stab, pierce"	sua-ka	Fijian	54	3	A	S	1	1.S.C	2.0	sua-ka	0	23	sua-ka
+#
+68	68	"to tie up, fasten"	herehere	Maori	43	3	A	H	2	2.H.C	2.0	herehere	0	26	herehere
+299	299	"to tie up, fasten"	vau-ca	Fijian	11	3	A	B	1	1.B.C	2.0	vau-ca	0	25	vau-ca
+300	300	"to tie up, fasten"	buki-a	Fijian	41	1	A	P	1	1.P.C	2.0	buki-a	0	25	buki-a
+#
+222	222	Eight	waru	Maori	3	6	A	W	2	2.W.C	2.0	waru	0	27	waru
+453	453	Eight	walu	Fijian	3	6	A	W	1	1.W.C	2.0	walu	0	27	walu
+#
+228	228	Fifty	rima tekau	Maori		5 1	AN	RT	2	2.R.C 2.T.c	2.0 0.8	rimatekau	0	29	rima tekau
+457	457	Fifty	lima-sagavulu	Fijian	"1, 2"	5	A	L	1	1.L.C	2.0	lima-sagavulu	0	28	lima-sagavulu
+#
+219	219	Five	rima	Maori	1	5	A	R	2	2.R.C	2.0	rima	0	31	rima
+450	450	Five	lima	Fijian	1	5	A	L	1	1.L.C	2.0	lima	0	30	lima
+#
+218	218	Four	whaa	Maori	"1,66"	6	A	W	2	2.W.C	2.0	whaa	0	33	whaa
+449	449	Four	e vÄ	Fijian	"1,66"	7 3	XN	EB	1	1.E.V 1.B.c	1.5 0.8	evÄ	0	32	e vÄ
+#
+194	194	I	au	Maori	"1,21"	7	X	A	2	2.A.V	1.5	au	0	34	au
+427	427	I	iau	Fijian	"1,21"	7	X	I	1	1.I.V	1.5	iau	0	34	iau
+#
+223	223	Nine	iwa	Maori	"5,66"	7	X	I	2	2.I.V	1.5	iwa	0	36	iwa
+454	454	Nine	ciwa	Fijian	5	1	A	C	1	1.C.C	2.0	ciwa	0	35	ciwa
+#
+215	215	One	tahi	Maori	"14,48"	1	A	T	2	2.T.C	2.0	tahi	0	37	- tahi
+446	446	One	e dua	Fijian	18	7 1	XN	ET	1	1.E.V 1.T.c	1.5 0.8	edua	0	37	e dua
+#
+229	229	One Hundred	rau	Maori	2	5	A	R	2	2.R.C	2.0	rau	0	39	rau
+458	458	One Hundred	drau	Fijian	2	1	A	T	1	1.T.C	2.0	drau	0	38	drau
+#
+230	230	One Thousand	mano	Maori	2	4	A	M	2	2.M.C	2.0	mano	0	41	mano
+459	459	One Thousand	dua na dolu	Fijian	12	1 4 1	AXN	TNT	1	1.T.C 1.N.V 1.T.c	2.0 1.5 0.8	duanadolu	0	40	dua na dolu
+#
+221	221	Seven	whitu	Maori	1	6	A	W	2	2.W.C	2.0	whitu	0	42	whitu
+452	452	Seven	vitu	Fijian	1	3	A	B	1	1.B.C	2.0	vitu	0	42	vitu
+#
+220	220	Six	ono	Maori	1	7	X	U	2	2.U.V	1.5	ono	0	43	ono
+451	451	Six	ono	Fijian	1	7	X	U	1	1.U.V	1.5	ono	0	43	ono
+#
+224	224	Ten	ngahuru	Maori	5	4	A	N	2	2.N.C	2.0	ngahuru	0	45	ngahuru
+225	225	Ten	hangahuru	Maori	5	3	A	H	2	2.H.C	2.0	hangahuru	0	44	hangahuru
+226	226	Ten	tekau	Maori	30?	1	A	T	2	2.T.C	2.0	tekau	0	47	tekau
+455	455	Ten	sagavulu	Fijian	5	3	A	S	1	1.S.C	2.0	sagavulu	0	44	sagavulu
+#
+217	217	Three	toru	Maori	1	1	A	T	2	2.T.C	2.0	toru	0	48	- toru
+448	448	Three	e tolu	Fijian	1	7 1	XN	ET	1	1.E.V 1.T.c	1.5 0.8	etolu	0	48	e tolu
+#
+227	227	Twenty	rua tekau	Maori	"3,4"	5 1	AN	RT	2	2.R.C 2.T.c	2.0 0.8	ruatekau	0	49	rua tekau
+456	456	Twenty	rua-sagavulu	Fijian	"3,6"	5	A	R	1	1.R.C	2.0	rua-sagavulu	0	49	rua-sagavulu -
+#
+216	216	Two	rua	Maori	1	5	A	R	2	2.R.C	2.0	rua	0	50	- rua
+447	447	Two	e rua	Fijian	1	7 5	XN	ER	1	1.E.V 1.R.c	1.5 0.8	erua	0	50	e rua
+#
+186	186	above	i runga	Maori	9	7 5	XN	IR	2	2.I.V 2.R.c	1.5 0.8	irunga	0	52	i runga
+418	418	above	e cake	Fijian	25	7 1	XN	EC	1	1.E.V 1.C.c	1.5 0.8	ecake	0	51	e cake
+#
+208	208	all	katoa	Maori	13	1	A	K	2	2.K.C	2.0	katoa	0	53	katoa
+438	438	all	kece	Fijian	48	1	A	K	1	1.K.C	2.0	kece	0	53	kece
+#
+209	209	and	me	Maori	"2, 46"	4	A	M	2	2.M.C	2.0	me	0	55	me
+210	210	and	hoki	Maori		3	A	H	2	2.H.C	2.0	hoki	0	57	hoki
+439	439	and	kei	Fijian	1	1	A	K	1	1.K.C	2.0	kei	0	54	kei
+440	440	and	ka	Fijian	1	1	A	K	1	1.K.C	2.0	ka	0	54	ka
+#
+153	153	ash	pungarehu	Maori	67	1	A	P	2	2.P.C	2.0	pungarehu	0	59	pungarehu
+388	388	ash	dravu	Fijian	67	1	A	T	1	1.T.C	2.0	dravu	0	58	dravu
+#
+182	182	at	i	Maori	1	7	X	I	2	2.I.V	1.5	i	0	60	i
+183	183	at	kei	Maori	5	1	A	K	2	2.K.C	2.0	kei	0	62	kei
+184	184	at	hei	Maori	5	3	A	H	2	2.H.C	2.0	hei	0	63	hei
+416	416	at	e	Fijian	1	7	X	E	1	1.E.V	1.5	e	0	60	e
+#
+15	15	back	tuaraa	Maori	11	1	A	T	2	2.T.C	2.0	tuaraa	0	64	tuaraa
+243	243	back	daku-na	Fijian	12	1	A	T	1	1.T.C	2.0	daku-na	0	64	daku-na
+#
+16	16	belly	puku	Maori		1	A	P	2	2.P.C	2.0	puku	0	66	puku
+244	244	belly	kete-na	Fijian	7	1	A	K	1	1.K.C	2.0	kete-na	0	65	kete-na
+#
+187	187	below	i raro	Maori	8	7 5	XN	IR	2	2.I.V 2.R.c	1.5 0.8	iraro	0	67	i raro
+419	419	below	e rÄ	Fijian	8	7 5	XN	ER	1	1.E.V 1.R.c	1.5 0.8	erÄ	0	67	e rÄ
+#
+160	160	big	nui	Maori	11	4	A	N	2	2.N.C	2.0	nui	0	69	nui
+395	395	big	levu	Fijian	10	5	A	L	1	1.L.C	2.0	levu	0	68	levu
+#
+99	99	bird	manu	Maori	1	4	A	M	2	2.M.C	2.0	manu	0	70	manu
+336	336	bird	manumanu	Fijian	1	4	A	M	1	1.M.C	2.0	manumanu	0	70	manumanu
+#
+154	154	black	mangu	Maori		4	A	M	2	2.M.C	2.0	mangu	0	72	mangu
+389	389	black	loaloa	Fijian	40	5	A	L	1	1.L.C	2.0	loaloa	0	71	loaloa
+#
+25	25	blood	toto	Maori	4	1	A	T	2	2.T.C	2.0	toto	0	73	toto
+253	253	blood	drÄ	Fijian	1	1	A	T	1	1.T.C	2.0	drÄ	0	73	drÄ
+#
+17	17	bone	iwi	Maori	"52,5"	7	X	I	2	2.I.V	1.5	iwi	0	75	iwi
+245	245	bone	sui-na	Fijian	52	3	A	S	1	1.S.C	2.0	sui-na	0	74	sui-na
+#
+116	116	branch	manga	Maori	"2,35"	4	A	M	2	2.M.C	2.0	manga	0	77	manga
+353	353	branch	taba-na	Fijian	13	1	A	T	1	1.T.C	2.0	taba-na	0	76	taba-na
+#
+20	20	breast	uu	Maori	1	7	X	Y	2	2.Y.V	1.5	uu	0	79	uu
+248	248	breast	sucu-na	Fijian	1	3	A	S	1	1.S.C	2.0	sucu-na	0	78	sucu-na
+#
+58	58	child	tamaiti	Maori	"6,64"	1	A	T	2	2.T.C	2.0	tamaiti	0	81	tamaiti
+288	288	child	gone	Fijian	27	1	A	K	1	1.K.C	2.0	gone	0	80	gone
+#
+137	137	cloud	kapua	Maori	"12, 67"	1	A	K	2	2.K.C	2.0	kapua	0	82	kapua
+#
+146	146	cold	makariri	Maori	"1,52"	4	A	M	2	2.M.C	2.0	makariri	0	84	makariri
+381	381	cold	batabatÄ	Fijian	42	1	A	P	1	1.P.C	2.0	batabatÄ	0	83	batabatÄ
+#
+176	176	day	ao	Maori	"1, 54"	7	X	A	2	2.A.V	1.5	ao	0	86	ao
+177	177	day	raa	Maori	7	5	A	R	2	2.R.C	2.0	raa	0	87	raa
+411	411	day	siga	Fijian	23	3	A	S	1	1.S.C	2.0	siga	0	85	siga
+#
+11	11	dirty	paru	Maori	7	1	A	P	2	2.P.C	2.0	paru	0	89	paru
+240	240	dirty	duka	Fijian	17	1	A	T	1	1.T.C	2.0	duka	0	88	duka
+#
+98	98	dog	kurii	Maori	7	1	A	K	2	2.K.C	2.0	kurii	0	90	kurii
+335	335	dog	koli	Fijian	7	1	A	K	1	1.K.C	2.0	koli	0	90	koli
+#
+147	147	dry	maroke	Maori	13	4	A	M	2	2.M.C	2.0	maroke	0	91	maroke
+382	382	dry	maca	Fijian	11	4	A	M	1	1.M.C	2.0	maca	0	91	maca
+#
+12	12	dust	pu|ehu	Maori	"1, 74"	1	A	P	2	2.P.C	2.0	pu|ehu	0	93	pu|ehu
+13	13	dust	puehu	Maori	"1, 74"	1	A	P	2	2.P.C	2.0	puehu	0	93	puehu
+241	241	dust	kuvu ni qele	Fijian	24	1 4 1	AXN	KNK	1	1.K.C 1.N.V 1.K.c	2.0 1.5 0.8	kuvuniqele	0	92	kuvu ni qele
+#
+45	45	ear	taringa	Maori	1	1	A	T	2	2.T.C	2.0	taringa	0	94	taringa
+275	275	ear	daliga-na	Fijian	1	1	A	T	1	1.T.C	2.0	daliga-na	0	94	daliga-na
+#
+122	122	earth/soil	oneone	Maori	35	7	X	U	2	2.U.V	1.5	oneone	0	96	oneone
+123	123	earth/soil	repo	Maori	11	5	A	R	2	2.R.C	2.0	repo	0	97	repo
+124	124	earth/soil	kere-	Maori	10	1	A	K	2	2.K.C	2.0	kere-	0	95	kere-
+360	360	earth/soil	qele	Fijian	10	1	A	K	1	1.K.C	2.0	qele	0	95	qele
+#
+100	100	egg	heeki	Maori		3	A	H	2	2.H.C	2.0	heeki	0	99	heeki -
+101	101	egg	hua manu	Maori	5	3 4	AC	HM	2	2.H.C 2.M.C	2.0 1.5	huamanu	0	99	hua manu
+337	337	egg	yaloka	Fijian	30	7	X	Y	1	1.Y.V	1.5	yaloka	0	98	yaloka
+#
+47	47	eye	mata	Maori	1	4	A	M	2	2.M.C	2.0	mata	0	100	mata
+277	277	eye	mata-na	Fijian	1	4	A	M	1	1.M.C	2.0	mata-na	0	100	mata-na
+#
+192	192	far	tawhiti	Maori		1	A	T	2	2.T.C	2.0	tawhiti	0	102	tawhiti
+425	425	far	yawa	Fijian	4	7	X	Y	1	1.Y.V	1.5	yawa	0	101	yawa
+#
+107	107	fat/grease	ngako	Maori	14	4	A	N	2	2.N.C	2.0	ngako	0	104	ngako
+343	343	fat/grease	uro	Fijian	44	7	X	Y	1	1.Y.V	1.5	uro	0	103	uro
+#
+62	62	father	matua	Maori	"1,9"	4	A	M	2	2.M.C	2.0	matua	0	106	matua
+292	292	father	tama-na	Fijian	1	1	A	T	1	1.T.C	2.0	tama-na	0	105	tama-na
+#
+102	102	feather	huru-manu	Maori	1	3	A	H	2	2.H.C	2.0	huru-manu	0	108	huru-manu
+338	338	feather	vuti-na	Fijian		3	A	B	1	1.B.C	2.0	vuti-na	0	107	vuti-na
+#
+150	150	fire	ahi	Maori	1	7	X	A	2	2.A.V	1.5	ahi	0	110	ahi
+385	385	fire	bukawaqa	Fijian	17	1	A	P	1	1.P.C	2.0	bukawaqa	0	109	bukawaqa
+#
+114	114	fish	ika	Maori	1	7	X	I	2	2.I.V	1.5	ika	0	111	ika
+350	350	fish	ika	Fijian	1	7	X	I	1	1.I.V	1.5	ika	0	111	ika
+#
+119	119	flower	puaawai	Maori	1	1	A	P	2	2.P.C	2.0	puaawai	0	113	puaawai
+357	357	flower	sÄ“ ni kau	Fijian	"9,18,14"	3 4 1	AXN	SNK	1	1.S.C 1.N.V 1.K.c	2.0 1.5 0.8	sÄ“nikau	0	112	sÄ“ ni kau
+#
+138	138	fog	kohu	Maori	"1, 47"	1	A	K	2	2.K.C	2.0	kohu	0	114	kohu
+373	373	fog	kabukabu	Fijian	"1, 54"	1	A	K	1	1.K.C	2.0	kabukabu	0	114	kabukabu
+#
+120	120	fruit	hua	Maori	1	3	A	H	2	2.H.C	2.0	hua	0	116	hua
+358	358	fruit	vua-na	Fijian	1	3	A	B	1	1.B.C	2.0	vua-na	0	115	vua-na
+#
+172	172	good	pai	Maori	76	1	A	P	2	2.P.C	2.0	pai	0	117	pai
+406	406	good	vinaka	Fijian	21	3	A	B	1	1.B.C	2.0	vinaka	0	117	vinaka
+#
+121	121	grass	karaaihe	Maori	56	1	A	K	2	2.K.C	2.0	karaaihe	0	118	karaaihe
+359	359	grass	cÅ	Fijian		1	A	C	1	1.C.C	2.0	cÅ	0	118	cÅ
+#
+158	158	green	kaakaariki	Maori		1	A	K	2	2.K.C	2.0	kaakaariki	0	119	kaakaariki
+393	393	green	karakarawa	Fijian	"13, 52"	1	A	K	1	1.K.C	2.0	karakarawa	0	119	karakarawa
+#
+28	28	hair	makawe	Maori		4	A	M	2	2.M.C	2.0	makawe	0	121	makawe
+256	256	hair	drau ni ulu-na	Fijian	40	1 4 7	ACX	TNY	1	1.T.C 1.N.C 1.Y.V	2.0 1.5 1.5	drauniulu-na	0	120	drau ni ulu-na
+#
+1	1	hand	ringa(ringa)	Maori	1	5	A	R	2	2.R.C	2.0	ringa(ringa)	0	123	ringa(ringa)
+231	231	hand	liga-na	Fijian	1	5	A	L	1	1.L.C	2.0	liga-na	0	122	liga-na
+#
+196	196	he/she	ia	Maori	1	7	X	I	2	2.I.V	1.5	ia	0	125	ia
+429	429	he/she	koya	Fijian	1	1	A	K	1	1.K.C	2.0	koya	0	124	koya
+#
+26	26	head	upoko	Maori	10	7	X	Y	2	2.Y.V	1.5	upoko	0	126	upoko
+254	254	head	ulu-na	Fijian	1	7	X	Y	1	1.Y.V	1.5	ulu-na	0	126	ulu-na
+#
+149	149	heavy	taimaha	Maori	"46,66"	1	A	T	2	2.T.C	2.0	taimaha	0	128	taimaha
+384	384	heavy	bÄ«bÄ«	Fijian	37	1	A	P	1	1.P.C	2.0	bÄ«bÄ«	0	127	bÄ«bÄ«
+#
+63	63	house	whare	Maori	14	6	A	W	2	2.W.C	2.0	whare	0	129	whare
+293	293	house	vale	Fijian	14	3	A	B	1	1.B.C	2.0	vale	0	129	vale
+#
+212	212	how?	peehea	Maori	11	1	A	P	2	2.P.C	2.0	peehea	0	130	peehea
+443	443	how?	vaka-cava	Fijian	35	3	A	B	1	1.B.C	2.0	vaka-cava	0	130	vaka-cava
+#
+59	59	husband	taane	Maori	14	1	A	T	2	2.T.C	2.0	taane	0	132	taane
+289	289	husband	wati-na	Fijian		6	A	W	1	1.W.C	2.0	wati-na	0	131	wati-na
+#
+441	441	if	ke	Fijian	1	1	A	K	1	1.K.C	2.0	ke	0	133	ke
+442	442	if	se	Fijian		3	A	S	1	1.S.C	2.0	se	0	134	se
+#
+18	18	intestines	wheekau	Maori	12	6	A	W	2	2.W.C	2.0	wheekau	0	135	wheekau
+246	246	intestines	wÄwÄ	Fijian	11	6	A	W	1	1.W.C	2.0	wÄwÄ	0	135	wÄwÄ
+#
+132	132	lake	roto	Maori	6	5	A	R	2	2.R.C	2.0	roto	0	137	roto
+367	367	lake	drano	Fijian	1	1	A	T	1	1.T.C	2.0	drano	0	136	drano
+#
+117	117	leaf	rau	Maori	1	5	A	R	2	2.R.C	2.0	rau	1	139	rau
+354	354	leaf	drau ni kau	Fijian	1	1 4 1	AXN	TNK	1	1.T.C 1.N.V 1.K.c	2.0 1.5 0.8	draunikau	0	138	drau ni kau
+#
+2	2	left	mauii	Maori	"1,59"	4	A	M	2	2.M.C	2.0	mauii	0	140	- mauii
+232	232	left	i mawÄ«	Fijian	"1,59"	7 4	XN	IM	1	1.I.V 1.M.c	1.5 0.8	imawÄ«	0	140	i mawÄ«
+#
+5	5	leg/foot	waewae	Maori	"1, 100"	6	A	W	2	2.W.C	2.0	waewae	0	142	waewae
+234	234	leg/foot	yava-na	Fijian	25	7	X	Y	1	1.Y.V	1.5	yava-na	0	141	yava-na
+#
+141	141	lightning	uira	Maori	2	7	X	Y	2	2.Y.V	1.5	uira	0	144	uira
+376	376	lightning	livaliva	Fijian	35	5	A	L	1	1.L.C	2.0	livaliva	0	143	livaliva
+#
+19	19	liver	ate	Maori	1	7	X	A	2	2.A.V	1.5	ate	0	145	ate
+247	247	liver	yate-na	Fijian	1	7	X	Y	1	1.Y.V	1.5	yate-na	0	145	yate-na
+#
+163	163	long	roa	Maori	12	5	A	R	2	2.R.C	2.0	roa	0	147	roa
+397	397	long	balavu	Fijian	16	1	A	P	1	1.P.C	2.0	balavu	0	146	balavu
+#
+111	111	louse	kutu	Maori	1	1	A	K	2	2.K.C	2.0	kutu	0	148	kutu
+347	347	louse	kutu	Fijian	1	1	A	K	1	1.K.C	2.0	kutu	0	148	kutu
+#
+56	56	man/male	taane	Maori	"1,11"	1	A	T	2	2.T.C	2.0	taane	1	149	taane
+286	286	man/male	tagane	Fijian	"1,11?"	1	A	T	1	1.T.C	2.0	tagane	0	149	tagane
+#
+106	106	meat/flesh	kiko	Maori	10	1	A	K	2	2.K.C	2.0	kiko	0	151	kiko
+342	342	meat/flesh	viciko	Fijian	10	3	A	B	1	1.B.C	2.0	viciko	0	150	viciko
+#
+135	135	moon	marama	Maori	7	4	A	M	2	2.M.C	2.0	marama	0	153	marama
+370	370	moon	vula	Fijian	1	3	A	B	1	1.B.C	2.0	vula	0	152	vula
+#
+112	112	mosquito	waeroa	Maori	54	6	A	W	2	2.W.C	2.0	waeroa	0	155	waeroa
+348	348	mosquito	namu	Fijian	1	4	A	N	1	1.N.C	2.0	namu	0	154	namu
+#
+61	61	mother	whaea	Maori	6	6	A	W	2	2.W.C	2.0	whaea	0	157	whaea
+291	291	mother	tina-na	Fijian	1	1	A	T	1	1.T.C	2.0	tina-na	0	156	tina-na
+#
+32	32	mouth	waha	Maori	"1,8"	6	A	W	2	2.W.C	2.0	waha	0	159	waha
+260	260	mouth	gusu-na	Fijian	2	1	A	K	1	1.K.C	2.0	gusu-na	0	158	gusu-na
+#
+65	65	name	ingoa	Maori	6	7	X	I	2	2.I.V	1.5	ingoa	0	160	ingoa
+295	295	name	yaca-na	Fijian	"1,18"	7	X	Y	1	1.Y.V	1.5	yaca-na	0	160	yaca-na
+#
+166	166	narrow	whaaiti	Maori	84	6	A	W	2	2.W.C	2.0	whaaiti	0	162	whaaiti
+400	400	narrow	qiqÅ	Fijian	27	1	A	K	1	1.K.C	2.0	qiqÅ	0	161	qiqÅ
+#
+191	191	near	tata	Maori	9	1	A	T	2	2.T.C	2.0	tata	0	164	tata
+424	424	near	vÅleka	Fijian	38	3	A	B	1	1.B.C	2.0	vÅleka	0	163	vÅleka
+#
+27	27	neck	ua	Maori	18	7	X	Y	2	2.Y.V	1.5	ua	0	166	ua
+255	255	neck	domo-na	Fijian	46	1	A	T	1	1.T.C	2.0	domo-na	0	165	domo-na
+#
+70	70	needle	ngira	Maori	16	4	A	N	2	2.N.C	2.0	ngira	0	168	ngira
+302	302	needle	i-cula	Fijian	21	7	X	I	1	1.I.V	1.5	i-cula	0	167	i-cula
+303	303	needle	sau[laca]	Fijian	1	3	A	S	1	1.S.C	2.0	sau[laca]	0	169	sau[laca]
+#
+171	171	new	hoou	Maori	1	3	A	H	2	2.H.C	2.0	hoou	0	171	hoou
+405	405	new	vou	Fijian	1	3	A	B	1	1.B.C	2.0	vou	0	170	vou
+#
+175	175	night	poo	Maori	1	1	A	P	2	2.P.C	2.0	poo	0	172	poo
+410	410	night	bogi	Fijian	1	1	A	P	1	1.P.C	2.0	bogi	0	172	bogi
+#
+29	29	nose	ihu	Maori	1	7	X	I	2	2.I.V	1.5	ihu	0	173	ihu
+257	257	nose	ucu-na	Fijian	1	7	X	Y	1	1.Y.V	1.5	ucu-na	0	173	ucu-na
+#
+170	170	old	pakeke	Maori		1	A	P	2	2.P.C	2.0	pakeke	0	175	pakeke
+404	404	old	qase	Fijian	53	1	A	K	1	1.K.C	2.0	qase	0	174	qase
+#
+207	207	other	atu	Maori	19	7	X	A	2	2.A.V	1.5	atu	0	177	atu
+437	437	other	dua tale	Fijian		1 1	AN	TT	1	1.T.C 1.T.c	2.0 0.8	duatale	0	176	dua tale
+#
+55	55	person/human being	tangata	Maori	"1,66"	1	A	T	2	2.T.C	2.0	tangata	0	178	tangata
+285	285	person/human being	tamata	Fijian	"1,66"	1	A	T	1	1.T.C	2.0	tamata	0	178	tamata
+#
+139	139	rain	ua	Maori	1	7	X	Y	2	2.Y.V	1.5	ua	1	179	ua
+374	374	rain	uca	Fijian	1	7	X	Y	1	1.Y.V	1.5	uca	0	179	uca
+#
+105	105	rat	kiore	Maori	12	1	A	K	2	2.K.C	2.0	kiore	0	180	kiore
+341	341	rat	kalavo	Fijian	1	1	A	K	1	1.K.C	2.0	kalavo	0	180	kalavo
+#
+156	156	red	whero	Maori	36	6	A	W	2	2.W.C	2.0	whero	0	182	whero
+391	391	red	damudamu	Fijian		1	A	T	1	1.T.C	2.0	damudamu	0	181	damudamu
+#
+3	3	right	katau	Maori	"5, 40"	1	A	K	2	2.K.C	2.0	katau	0	184	katau
+4	4	right	matau	Maori	"5,13"	4	A	M	2	2.M.C	2.0	matau	0	183	- matau
+233	233	right	i matau	Fijian	"5,13"	7 4	XN	IM	1	1.I.V 1.M.c	1.5 0.8	imatau	0	183	i matau
+#
+7	7	road/path	ara	Maori	1	7	X	A	2	2.A.V	1.5	ara	0	186	ara
+236	236	road/path	sala	Fijian	1	3	A	S	1	1.S.C	2.0	sala	0	185	sala
+#
+118	118	root	paki|aka	Maori	2	1	A	P	2	2.P.C	2.0	paki|aka	0	187	paki|aka
+355	355	root	vÅ«-na	Fijian		3	A	B	1	1.B.C	2.0	vÅ«-na	0	187	vÅ«-na
+356	356	root	waka-na	Fijian	2	6	A	W	1	1.W.C	2.0	waka-na	0	189	waka-na
+#
+67	67	rope	taura	Maori	9	1	A	T	2	2.T.C	2.0	taura	0	190	taura
+297	297	rope	dali	Fijian	1	1	A	T	1	1.T.C	2.0	dali	0	190	dali
+298	298	rope	tÃ ly	Fijian		1	A	T	1	1.T.C	2.0	tÃ ly	0	190	tÃ ly
+#
+115	115	rotten	pirau	Maori	15	1	A	P	2	2.P.C	2.0	pirau	0	191	pirau
+351	351	rotten	vuca	Fijian	9	3	A	B	1	1.B.C	2.0	vuca	0	191	vuca
+352	352	rotten	midra	Fijian		4	A	M	1	1.M.C	2.0	midra	0	193	midra
+#
+131	131	salt	tote	Maori	20?	1	A	T	2	2.T.C	2.0	tote	0	195	tote
+366	366	salt	mÄsima	Fijian	47	4	A	M	1	1.M.C	2.0	mÄsima	0	194	mÄsima
+#
+126	126	sand	one	Maori	1	7	X	U	2	2.U.V	1.5	one	0	197	one
+362	362	sand	nuku	Fijian	41	4	A	N	1	1.N.C	2.0	nuku	0	196	nuku
+#
+129	129	sea	moana	Maori	10	4	A	M	2	2.M.C	2.0	moana	0	199	moana
+130	130	sea	tai	Maori	1	1	A	T	2	2.T.C	2.0	tai	0	200	tai
+365	365	sea	wasawasa	Fijian	12	6	A	W	1	1.W.C	2.0	wasawasa	0	198	wasawasa
+#
+83	83	sharp	koi(koi)	Maori	"14,66"	1	A	K	2	2.K.C	2.0	koi(koi)	0	201	koi(koi)
+319	319	sharp	gata	Fijian	36	1	A	K	1	1.K.C	2.0	gata	0	201	gata
+#
+161	161	short	hakahaka	Maori	10	3	A	H	2	2.H.C	2.0	hakahaka	0	203	hakahaka
+162	162	short	poto	Maori	9	1	A	P	2	2.P.C	2.0	poto	0	204	poto
+396	396	short	lekaleka	Fijian	8	5	A	L	1	1.L.C	2.0	lekaleka	0	202	lekaleka
+#
+21	21	shoulder	pakihiwi	Maori	8	1	A	P	2	2.P.C	2.0	pakihiwi	0	206	pakihiwi
+249	249	shoulder	vÅ« ni taba-na	Fijian		3 4 1	AXN	BNT	1	1.B.C 1.N.V 1.T.c	2.0 1.5 0.8	vÅ«nitaba-na	0	205	vÅ« ni taba-na
+#
+14	14	skin	kiri	Maori	1	1	A	K	2	2.K.C	2.0	kiri	0	207	kiri
+242	242	skin	kuli-na	Fijian	1	1	A	K	1	1.K.C	2.0	kuli-na	0	207	kuli-na
+#
+134	134	sky	rangi	Maori	1	5	A	R	2	2.R.C	2.0	rangi	0	209	rangi
+369	369	sky	lomÄlagi	Fijian	1	5	A	L	1	1.L.C	2.0	lomÄlagi	0	208	lomÄlagi
+#
+159	159	small	iti	Maori	121	7	X	I	2	2.I.V	1.5	iti	0	211	iti
+394	394	small	lailai	Fijian	32	5	A	L	1	1.L.C	2.0	lailai	0	210	lailai
+#
+152	152	smoke	au|ahi	Maori	2	7	X	A	2	2.A.V	1.5	au|ahi	0	213	au|ahi
+387	387	smoke	kubou	Fijian	57	1	A	K	1	1.K.C	2.0	kubou	0	212	kubou
+#
+109	109	snake	naakahi	Maori		4	A	N	2	2.N.C	2.0	naakahi	0	215	naakahi
+345	345	snake	gata	Fijian	12	1	A	K	1	1.K.C	2.0	gata	1	214	gata
+#
+113	113	spider	pungaawerewere	Maori	"1,57"	1	A	P	2	2.P.C	2.0	pungaawerewere	0	217	pungaawerewere
+349	349	spider	tina ni viritÄlawalawa	Fijian	1	1 4 3	AXN	TNB	1	1.T.C 1.N.V 1.B.c	2.0 1.5 0.8	tinaniviritÄlawalawa	0	216	tina ni viritÄlawalawa
+#
+136	136	star	whetuu	Maori	1	6	A	W	2	2.W.C	2.0	whetuu	0	219	whetuu
+371	371	star	kalokalo	Fijian	28	1	A	K	1	1.K.C	2.0	kalokalo	0	218	kalokalo
+#
+81	81	stick/wood	raa|kau	Maori	1	5	A	R	2	2.R.C	2.0	raa|kau	0	221	raa|kau
+317	317	stick/wood	kau	Fijian	1	1	A	K	1	1.K.C	2.0	kau	0	220	kau
+#
+125	125	stone	koowhatu	Maori	"1,39"	1	A	K	2	2.K.C	2.0	koowhatu	0	223	koowhatu
+361	361	stone	vatu	Fijian	1	3	A	B	1	1.B.C	2.0	vatu	0	222	vatu
+#
+108	108	tail	whiore	Maori	10?	6	A	W	2	2.W.C	2.0	whiore	0	225	whiore
+344	344	tail	bui-na	Fijian	38	1	A	P	1	1.P.C	2.0	bui-na	0	224	bui-na
+#
+189	189	that	teenaa	Maori	1	1	A	T	2	2.T.C	2.0	teenaa	0	227	teenaa
+190	190	that	teeraa	Maori		1	A	T	2	2.T.C	2.0	teeraa	0	227	teeraa
+421	421	that	oqori	Fijian		7	X	U	1	1.U.V	1.5	oqori	0	226	oqori
+422	422	that	koyÄ	Fijian		1	A	K	1	1.K.C	2.0	koyÄ	0	228	koyÄ
+423	423	that	ayÄ	Fijian		7	X	A	1	1.A.V	1.5	ayÄ	0	226	ayÄ
+#
+64	64	thatch/roof	raurau	Maori	55?	5	A	R	2	2.R.C	2.0	raurau	0	230	raurau
+294	294	thatch/roof	i tibitibi	Fijian		7 1	XN	IT	1	1.I.V 1.T.c	1.5 0.8	itibitibi	0	229	i tibitibi
+#
+203	203	they	raaua	Maori	x	5	A	R	2	2.R.C	2.0	raaua	0	232	raaua
+204	204	they	raatou	Maori	"1, 72"	5	A	R	2	2.R.C	2.0	raatou	0	232	raatou
+434	434	they	ira	Fijian	"1, 70"	7	X	I	1	1.I.V	1.5	ira	0	231	ira
+#
+165	165	thick	matotoru	Maori	3	4	A	M	2	2.M.C	2.0	matotoru	0	234	matotoru
+399	399	thick	vÄvaku	Fijian	36	3	A	B	1	1.B.C	2.0	vÄvaku	0	233	vÄvaku
+#
+164	164	thin	rahirahi	Maori	5	5	A	R	2	2.R.C	2.0	rahirahi	0	236	rahirahi
+398	398	thin	mamare	Fijian	13	4	A	M	1	1.M.C	2.0	mamare	0	235	mamare
+#
+188	188	this	teenei	Maori	"7,1"	1	A	T	2	2.T.C	2.0	teenei	0	238	teenei
+420	420	this	oqÅ	Fijian	17	7	X	U	1	1.U.V	1.5	oqÅ	0	237	oqÅ
+#
+195	195	thou	koe	Maori	1	1	A	K	2	2.K.C	2.0	koe	0	240	koe
+428	428	thou	iko	Fijian	1	7	X	I	1	1.I.V	1.5	iko	0	239	iko
+#
+140	140	thunder	whatitiri	Maori	14	6	A	W	2	2.W.C	2.0	whatitiri	0	242	whatitiri
+375	375	thunder	kurukuru	Fijian	"2, 63"	1	A	K	1	1.K.C	2.0	kurukuru	0	241	kurukuru
+#
+43	43	to bite	ngau	Maori	7	4	A	N	2	2.N.C	2.0	ngau	0	244	ngau
+272	272	to bite	kati-a	Fijian	1	1	A	K	1	1.K.C	2.0	kati-a	0	243	kati-a
+#
+143	143	to blow	hua	Maori	5?	3	A	H	2	2.H.C	2.0	hua	1	246	hua
+144	144	to blow	pupuhi	Maori	6	1	A	P	2	2.P.C	2.0	pupuhi	0	248	pupuhi
+378	378	to blow	uvu-ca	Fijian	"4,57"	7	X	Y	1	1.Y.V	1.5	uvu-ca	0	245	uvu-ca
+379	379	to blow	liwa	Fijian	36	5	A	L	1	1.L.C	2.0	liwa	0	247	liwa
+#
+30	30	to breathe	whakataa	Maori	11	6	A	W	2	2.W.C	2.0	whakataa	0	250	whakataa
+258	258	to breathe	cegu-va	Fijian	40	1	A	C	1	1.C.C	2.0	cegu-va	0	249	cegu-va
+#
+151	151	to burn	tahu	Maori	8	1	A	T	2	2.T.C	2.0	tahu	0	252	tahu
+386	386	to burn	vaka-caudre-va	Fijian		3	A	B	1	1.B.C	2.0	vaka-caudre-va	0	251	vaka-caudre-va
+#
+93	93	to buy	hoko	Maori	7	3	A	H	2	2.H.C	2.0	hoko	0	254	hoko
+330	330	to buy	voli-a	Fijian	1	3	A	B	1	1.B.C	2.0	voli-a	0	253	voli-a
+#
+40	40	to chew	katikati	Maori		1	A	K	2	2.K.C	2.0	katikati	0	256	katikati
+268	268	to chew	mama-a	Fijian	1	4	A	M	1	1.M.C	2.0	mama-a	0	255	mama-a
+269	269	to chew	namu-ta	Fijian	7?	4	A	N	1	1.N.C	2.0	namu-ta	0	257	namu-ta
+#
+87	87	to choose	whiri	Maori	1	6	A	W	2	2.W.C	2.0	whiri	0	259	whiri
+324	324	to choose	digi-a	Fijian	41	1	A	T	1	1.T.C	2.0	digi-a	0	258	digi-a
+#
+181	181	to climb	piki	Maori	6	1	A	P	2	2.P.C	2.0	piki	0	261	piki
+415	415	to climb	cabe	Fijian	2	1	A	C	1	1.C.C	2.0	cabe	0	260	cabe
+#
+8	8	to come	haere mai	Maori	"1,42"	3 4	AC	HM	2	2.H.C 2.M.C	2.0 1.5	haeremai	0	263	haere mai
+237	237	to come	lako mai	Fijian	"1,85"	5 4	AN	LM	1	1.L.C 1.M.c	2.0 0.8	lakomai	0	262	lako mai
+#
+41	41	to cook	tao	Maori	10	1	A	T	2	2.T.C	2.0	tao	0	264	tao
+#
+214	214	to count	tatau	Maori	8	1	A	T	2	2.T.C	2.0	tatau	0	266	tatau
+445	445	to count	oka-ta	Fijian		7	X	U	1	1.U.V	1.5	oka-ta	0	265	oka-ta
+#
+36	36	to cry	tangi	Maori	1	1	A	T	2	2.T.C	2.0	tangi	0	267	tangi
+264	264	to cry	tagi	Fijian	1	1	A	T	1	1.T.C	2.0	tagi	0	267	tagi
+#
+92	92	to dig	keri	Maori	1	1	A	K	2	2.K.C	2.0	keri	0	268	keri
+329	329	to dig	keli-a	Fijian	1	1	A	K	1	1.K.C	2.0	keli-a	0	268	keli-a
+#
+52	52	to dream	moemoeaa	Maori	"7,27"	4	A	M	2	2.M.C	2.0	moemoeaa	0	270	moemoeaa
+282	282	to dream	tadra-a	Fijian	16	1	A	T	1	1.T.C	2.0	tadra-a	0	269	tadra-a
+#
+42	42	to drink	inu	Maori	1	7	X	I	2	2.I.V	1.5	inu	0	272	inu
+271	271	to drink	gunu-va	Fijian	1	1	A	K	1	1.K.C	2.0	gunu-va	0	271	gunu-va
+#
+39	39	to eat	kai	Maori	"1,44"	1	A	K	2	2.K.C	2.0	kai	0	273	kai
+267	267	to eat	kani-a	Fijian	1	1	A	K	1	1.K.C	2.0	kani-a	0	273	kani-a
+#
+97	97	to fall	makere	Maori	10	4	A	M	2	2.M.C	2.0	makere	0	275	makere
+334	334	to fall	lutu-ka	Fijian	58	5	A	L	1	1.L.C	2.0	lutu-ka	0	274	lutu-ka
+#
+24	24	to fear	mataku	Maori	1	4	A	M	2	2.M.C	2.0	mataku	0	277	mataku
+252	252	to fear	rere-vaka	Fijian	29	5	A	R	1	1.R.C	2.0	rere-vaka	0	276	rere-vaka
+#
+128	128	to flow	tere	Maori	10	1	A	T	2	2.T.C	2.0	tere	0	278	tere
+364	364	to flow	drÅdrÅ-va	Fijian	32	1	A	T	1	1.T.C	2.0	drÅdrÅ-va	0	278	drÅdrÅ-va
+#
+104	104	to fly	rere	Maori	11	5	A	R	2	2.R.C	2.0	rere	0	280	rere
+340	340	to fly	vuka	Fijian	45	3	A	B	1	1.B.C	2.0	vuka	0	279	vuka
+#
+88	88	to grow	tupu	Maori	1	1	A	T	2	2.T.C	2.0	tupu	0	281	tupu
+325	325	to grow	tubu	Fijian	1	1	A	T	1	1.T.C	2.0	tubu	0	281	tubu
+#
+46	46	to hear	rongo	Maori	1	5	A	R	2	2.R.C	2.0	rongo	0	282	rongo
+276	276	to hear	rogo-ca	Fijian	1	5	A	R	1	1.R.C	2.0	rogo-ca	0	282	rogo-ca
+#
+180	180	to hide	huna	Maori	"1,16"	3	A	H	2	2.H.C	2.0	huna	0	284	huna
+414	414	to hide	vuni-a	Fijian	1	3	A	B	1	1.B.C	2.0	vuni-a	0	283	vuni-a
+#
+74	74	to hit	patu	Maori	7	1	A	P	2	2.P.C	2.0	patu	0	285	patu
+307	307	to hit	vacu-a	Fijian		3	A	B	1	1.B.C	2.0	vacu-a	0	285	vacu-a
+308	308	to hit	yavi-ta	Fijian		7	X	Y	1	1.Y.V	1.5	yavi-ta	0	287	yavi-ta
+#
+91	91	to hold	pupuri	Maori		1	A	P	2	2.P.C	2.0	pupuri	0	289	pupuri
+328	328	to hold	taura	Fijian	35	1	A	T	1	1.T.C	2.0	taura	0	288	taura
+#
+71	71	to hunt	whaiwhai	Maori	6	6	A	W	2	2.W.C	2.0	whaiwhai	0	290	whaiwhai
+304	304	to hunt	vaka-sasa-a	Fijian		3	A	B	1	1.B.C	2.0	vaka-sasa-a	0	290	vaka-sasa-a
+#
+76	76	to kill	patu	Maori	9	1	A	P	2	2.P.C	2.0	patu	1	292	patu
+310	310	to kill	moku-ta	Fijian		4	A	M	1	1.M.C	2.0	moku-ta	0	291	moku-ta
+311	311	to kill	vaka-mate-a	Fijian	2	3	A	B	1	1.B.C	2.0	vaka-mate-a	0	292	vaka-mate-a
+#
+35	35	to laugh	kata	Maori	7	1	A	K	2	2.K.C	2.0	kata	0	294	kata
+263	263	to laugh	dredre	Fijian	50	1	A	T	1	1.T.C	2.0	dredre	0	293	dredre
+#
+51	51	to lie down	takoto	Maori	7	1	A	T	2	2.T.C	2.0	takoto	0	295	takoto
+281	281	to lie down	davo	Fijian	40	1	A	T	1	1.T.C	2.0	davo	0	295	davo
+#
+86	86	to plant	too	Maori	4	1	A	T	2	2.T.C	2.0	too	0	296	too
+323	323	to plant	te-a	Fijian		1	A	T	1	1.T.C	2.0	te-a	0	296	te-a
+#
+66	66	to say	koorero	Maori	11	1	A	K	2	2.K.C	2.0	koorero	0	297	koorero
+296	296	to say	kaya	Fijian		1	A	K	1	1.K.C	2.0	kaya	0	297	kaya
+#
+79	79	to scratch	rakuraku	Maori	9	5	A	R	2	2.R.C	2.0	rakuraku	0	299	rakuraku
+314	314	to scratch	kadru-va	Fijian	44	1	A	K	1	1.K.C	2.0	kadru-va	0	298	kadru-va
+315	315	to scratch	mila-a	Fijian	31	4	A	M	1	1.M.C	2.0	mila-a	0	300	mila-a
+#
+48	48	to see	kite	Maori	1	1	A	K	2	2.K.C	2.0	kite	0	302	kite
+278	278	to see	rai-ca	Fijian	37	5	A	R	1	1.R.C	2.0	rai-ca	0	301	rai-ca
+#
+69	69	to sew	tui	Maori	13	1	A	T	2	2.T.C	2.0	tui	0	303	tui
+301	301	to sew	cula-a	Fijian	31	1	A	C	1	1.C.C	2.0	cula-a	0	303	cula-a
+#
+72	72	to shoot	whana	Maori	1	6	A	W	2	2.W.C	2.0	whana	0	304	whana
+305	305	to shoot	vana	Fijian	1	3	A	B	1	1.B.C	2.0	vana	0	304	vana
+#
+53	53	to sit	noho	Maori	16	4	A	N	2	2.N.C	2.0	noho	0	306	noho
+283	283	to sit	dabe-ca	Fijian	62	1	A	T	1	1.T.C	2.0	dabe-ca	0	305	dabe-ca
+#
+50	50	to sleep	moe	Maori	10	4	A	M	2	2.M.C	2.0	moe	0	307	moe
+280	280	to sleep	moce	Fijian	10	4	A	M	1	1.M.C	2.0	moce	0	307	moce
+#
+38	38	to spit	tuha	Maori	"19,34?"	1	A	T	2	2.T.C	2.0	tuha	0	309	tuha
+266	266	to spit	kasivi-ta	Fijian	"19, 55"	1	A	K	1	1.K.C	2.0	kasivi-ta	0	308	kasivi-ta
+#
+82	82	to split	waawaahi	Maori	4	6	A	W	2	2.W.C	2.0	waawaahi	0	311	waawaahi
+318	318	to split	tase-a	Fijian		1	A	T	1	1.T.C	2.0	tase-a	0	310	tase-a
+#
+90	90	to squeeze	kotee	Maori		1	A	K	2	2.K.C	2.0	kotee	0	313	kotee
+327	327	to squeeze	boo	Fijian	42	1	A	P	1	1.P.C	2.0	boo	0	312	boo
+#
+54	54	to stand	tuu	Maori	2	1	A	T	2	2.T.C	2.0	tuu	0	314	tuu
+284	284	to stand	tÅ«	Fijian	2	1	A	T	1	1.T.C	2.0	tÅ«	0	314	tÅ«
+#
+75	75	to steal	taahae	Maori	5?	1	A	T	2	2.T.C	2.0	taahae	0	316	taahae
+309	309	to steal	butako-ca	Fijian	1	1	A	P	1	1.P.C	2.0	butako-ca	0	315	butako-ca
+#
+44	44	to suck	ngote	Maori	9	4	A	N	2	2.N.C	2.0	ngote	0	318	ngote
+273	273	to suck	sucu-ma	Fijian	51	3	A	S	1	1.S.C	2.0	sucu-ma	0	317	sucu-ma
+274	274	to suck	domi-ca	Fijian	50	1	A	T	1	1.T.C	2.0	domi-ca	0	319	domi-ca
+#
+89	89	to swell	puku	Maori	24	1	A	P	2	2.P.C	2.0	puku	1	320	puku
+326	326	to swell	vuce	Fijian		3	A	B	1	1.B.C	2.0	vuce	0	320	vuce
+#
+10	10	to swim	kauhoe	Maori	5	1	A	K	2	2.K.C	2.0	kauhoe	0	321	kauhoe
+239	239	to swim	qalo	Fijian	11	1	A	K	1	1.K.C	2.0	qalo	0	321	qalo
+#
+23	23	to think	whakaaro	Maori		6	A	W	2	2.W.C	2.0	whakaaro	0	323	whakaaro
+251	251	to think	nanu-ma	Fijian	28	4	A	N	1	1.N.C	2.0	nanu-ma	0	322	nanu-ma
+#
+96	96	to throw	panga	Maori		1	A	P	2	2.P.C	2.0	panga	0	324	panga
+333	333	to throw	viri-taka	Fijian	30	3	A	B	1	1.B.C	2.0	viri-taka	0	324	viri-taka
+#
+9	9	to turn	huri	Maori	15	3	A	H	2	2.H.C	2.0	huri	0	326	huri
+238	238	to turn	gole-a	Fijian		1	A	K	1	1.K.C	2.0	gole-a	0	325	gole-a
+#
+37	37	to vomit	ruaki	Maori	"8,31"	5	A	R	2	2.R.C	2.0	ruaki	0	328	ruaki
+265	265	to vomit	lua-ca	Fijian	8	5	A	L	1	1.L.C	2.0	lua-ca	0	327	lua-ca
+#
+6	6	to walk	haere-a-waewae	Maori	6	3	A	H	2	2.H.C	2.0	haere-a-waewae	0	330	haere-a-waewae
+235	235	to walk	lako	Fijian	1	5	A	L	1	1.L.C	2.0	lako	0	329	lako
+#
+85	85	to work	mahi	Maori	54	4	A	M	2	2.M.C	2.0	mahi	0	332	mahi
+321	321	to work	cakacaka	Fijian	33	1	A	C	1	1.C.C	2.0	cakacaka	0	331	cakacaka
+322	322	to work	mi-Ã sa	Fijian		4	A	M	1	1.M.C	2.0	mi-Ã sa	0	332	mi-Ã sa
+#
+49	49	to yawn	haamama(mama)	Maori	"19,28"	3	A	H	2	2.H.C	2.0	haamama(mama)	0	333	haamama(mama)
+#
+34	34	tongue	arero	Maori	15	7	X	A	2	2.A.V	1.5	arero	0	334	arero
+262	262	tongue	yame-na	Fijian	7	7	X	Y	1	1.Y.V	1.5	yame-na	0	334	yame-na
+#
+33	33	tooth	niho	Maori	1	4	A	N	2	2.N.C	2.0	niho	0	336	niho
+261	261	tooth	bati-na	Fijian	6	1	A	P	1	1.P.C	2.0	bati-na	0	335	bati-na
+#
+145	145	warm	mahana	Maori	"1, 72"	4	A	M	2	2.M.C	2.0	mahana	0	338	mahana
+380	380	warm	katakata	Fijian	36	1	A	K	1	1.K.C	2.0	katakata	0	337	katakata
+#
+127	127	water	wai	Maori	2	6	A	W	2	2.W.C	2.0	wai	0	339	wai
+363	363	water	wai	Fijian	2	6	A	W	1	1.W.C	2.0	wai	0	339	wai
+#
+197	197	we	taaua	Maori	"1, 29"	1	A	T	2	2.T.C	2.0	taaua	0	341	taaua
+198	198	we	taatou	Maori	"1, 39"	1	A	T	2	2.T.C	2.0	taatou	0	341	taatou
+199	199	we	maaua	Maori	"2, 29"	4	A	M	2	2.M.C	2.0	maaua	0	345	maaua
+200	200	we	maatou	Maori	"2, 39"	4	A	M	2	2.M.C	2.0	maatou	0	345	maatou
+430	430	we	e[da]	Fijian	1	7	X	E	1	1.E.V	1.5	e[da]	0	340	e[da]
+431	431	we	keda	Fijian	1	1	A	K	1	1.K.C	2.0	keda	0	342	keda
+432	432	we	keimami	Fijian	2	1	A	K	1	1.K.C	2.0	keimami	0	342	keimami
+#
+148	148	wet	maakuu	Maori	10	4	A	M	2	2.M.C	2.0	maakuu	0	347	maakuu
+383	383	wet	suasua	Fijian	11	3	A	S	1	1.S.C	2.0	suasua	0	346	suasua
+#
+205	205	what?	aha	Maori	1	7	X	A	2	2.A.V	1.5	aha	0	349	aha
+435	435	what?	cava	Fijian	1	1	A	C	1	1.C.C	2.0	cava	0	348	cava
+#
+179	179	when?	aahea	Maori	5	7	X	A	2	2.A.V	1.5	aahea	0	351	aahea
+413	413	when?	ninaica	Fijian	"1,43"	4	A	N	1	1.N.C	2.0	ninaica	0	350	ninaica
+#
+193	193	where?	whea	Maori	"3,35"	6	A	W	2	2.W.C	2.0	whea	0	353	whea
+426	426	where?	e vei	Fijian	3	7 3	XN	EB	1	1.E.V 1.B.c	1.5 0.8	evei	0	352	e vei
+#
+155	155	white	maa	Maori		4	A	M	2	2.M.C	2.0	maa	0	355	maa
+390	390	white	vulavula	Fijian	42	3	A	B	1	1.B.C	2.0	vulavula	0	354	vulavula
+#
+206	206	who?	wai	Maori	"1,19"	6	A	W	2	2.W.C	2.0	wai	1	356	wai
+#
+167	167	wide	whaanui	Maori		6	A	W	2	2.W.C	2.0	whaanui	0	358	whaanui
+401	401	wide	raba	Fijian	51	5	A	R	1	1.R.C	2.0	raba	0	357	raba
+#
+60	60	wife	wahine	Maori	"5,68"	6	A	W	2	2.W.C	2.0	wahine	0	359	wahine
+290	290	wife	wati-na	Fijian	30	6	A	W	1	1.W.C	2.0	wati-na	1	359	wati-na
+#
+142	142	wind	hau	Maori	10	3	A	H	2	2.H.C	2.0	hau	0	361	hau
+377	377	wind	cagi	Fijian	1	1	A	C	1	1.C.C	2.0	cagi	0	360	cagi
+#
+103	103	wing	parirau	Maori	9	1	A	P	2	2.P.C	2.0	parirau	0	363	parirau
+339	339	wing	taba-na	Fijian	35	1	A	T	1	1.T.C	2.0	taba-na	1	362	taba-na
+#
+57	57	woman/female	wahine	Maori	"1,106, 116"	6	A	W	2	2.W.C	2.0	wahine	1	365	wahine
+287	287	woman/female	yalewa	Fijian	55	7	X	Y	1	1.Y.V	1.5	yalewa	0	364	yalewa
+#
+133	133	woods/forest	ngahere	Maori	16	4	A	N	2	2.N.C	2.0	ngahere	0	367	ngahere
+368	368	woods/forest	veikau	Fijian	13	3	A	B	1	1.B.C	2.0	veikau	0	366	veikau
+#
+110	110	worm (earthworm)	noke	Maori	7	4	A	N	2	2.N.C	2.0	noke	0	369	noke
+346	346	worm (earthworm)	baca ni qele	Fijian	16	1 4 1	AXN	PNK	1	1.P.C 1.N.V 1.K.c	2.0 1.5 0.8	bacaniqele	0	368	baca ni qele
+#
+178	178	year	tau	Maori	1	1	A	T	2	2.T.C	2.0	tau	0	371	tau
+412	412	year	yabaki	Fijian	27	7	X	Y	1	1.Y.V	1.5	yabaki	0	370	yabaki
+#
+157	157	yellow	koowhai	Maori		1	A	K	2	2.K.C	2.0	koowhai	0	373	koowhai
+392	392	yellow	dromodromoa	Fijian	46	1	A	T	1	1.T.C	2.0	dromodromoa	0	372	dromodromoa
+#
+201	201	you	koorua	Maori	x	1	A	K	2	2.K.C	2.0	koorua	0	374	koorua
+202	202	you	koutou	Maori	16	1	A	K	2	2.K.C	2.0	koutou	0	374	koutou
+433	433	you	kemunÄ«	Fijian	1?	1	A	K	1	1.K.C	2.0	kemunÄ«	0	374	kemunÄ«

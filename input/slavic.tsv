@@ -1,0 +1,3314 @@
+#
+COGNACY	CONCEPT	COUNTERPART	IPA	DOCULECT
+0	I	I	aɪ	English
+0	I	азъ	None	Old Church Slavonic
+0	I	já	jaː	Czech
+0	I	ja	jaː	Polish
+0	I	ja	jaː	Slovak
+0	I	ja	jaː	Lower Sorbian
+0	I	ja	jaː	Upper Sorbian
+0	I	аз	as	Bulgarian
+0	I	јас	jas	Macedonian
+0	I	ja	jaː	Serbo-Croatian Latin
+0	I	ја	ja	Serbo-Croatian Cyrillic
+0	I	jaz	jas	Slovene
+0	I	я	ja	Belarusian
+0	I	я	ja	Russian
+0	I	я	ja	Rusyn
+0	I	я	ja	Ukrainian
+1	you	you	juː	English
+1	you	тꙑ	None	Old Church Slavonic
+1	you	ty	tɪ	Czech
+1	you	ty	tɪ	Polish
+1	you	ty	tɪ	Slovak
+1	you	ty	tɪ	Lower Sorbian
+1	you	ty	tɪ	Upper Sorbian
+1	you	ти	ti	Bulgarian
+1	you	ти	ti	Macedonian
+1	you	ti	tiː	Serbo-Croatian Latin
+1	you	ти	ti	Serbo-Croatian Cyrillic
+1	you	ti	tiː	Slovene
+1	you	ты	tə	Belarusian
+1	you	ты	tə	Russian
+1	you	ты	tə	Rusyn
+1	you	ти	ti	Ukrainian
+2	he	he	ˈhiː	English
+2	he	онъ	on	Old Church Slavonic
+2	he	on	ɒn	Czech
+2	he	on	ɒn	Polish
+2	he	on	ɒn	Slovak
+2	he	wón	wɨn	Lower Sorbian
+2	he	wón	wɨn	Upper Sorbian
+2	he	той	tɔj	Bulgarian
+2	he	тој	tɔj	Macedonian
+2	he	on	ɒn	Serbo-Croatian Latin
+2	he	он	wan	Serbo-Croatian Cyrillic
+2	he	on	ɒn	Slovene
+2	he	ён	None	Belarusian
+2	he	он	wan	Russian
+2	he	он	wan	Rusyn
+2	he	він	ˈʋʲin	Ukrainian
+3	we	we	wiː	English
+3	we	мꙑ	None	Old Church Slavonic
+3	we	my	maɪ	Czech
+3	we	my	maɪ	Polish
+3	we	my	maɪ	Slovak
+3	we	my	maɪ	Lower Sorbian
+3	we	my	maɪ	Upper Sorbian
+3	we	ние	ˈniɛ	Bulgarian
+3	we	ние	ˈniɛ	Macedonian
+3	we	mi	miː	Serbo-Croatian Latin
+3	we	ми	mi	Serbo-Croatian Cyrillic
+3	we	mi	miː	Slovene
+3	we	мы	mə	Belarusian
+3	we	мы	mə	Russian
+3	we	мы	mə	Rusyn
+3	we	ми	mi	Ukrainian
+4	you	you	juː	English
+4	you	вꙑ	None	Old Church Slavonic
+4	you	vy	vɪ	Czech
+4	you	wy	vəi	Polish
+4	you	vy	vɪ	Slovak
+4	you	wy	vəi	Lower Sorbian
+4	you	wy	vəi	Upper Sorbian
+4	you	вие	ˈviɛ	Bulgarian
+4	you	вие	ˈviɛ	Macedonian
+4	you	vi	βi	Serbo-Croatian Latin
+4	you	ви	vi	Serbo-Croatian Cyrillic
+4	you	vi	βi	Slovene
+4	you	вы	və	Belarusian
+4	you	вы	və	Russian
+4	you	вы	və	Rusyn
+4	you	ви	vi	Ukrainian
+5	they	they	ðeɪ	English
+5	they	они	ɐˈnʲi	Old Church Slavonic
+5	they	oni	ˈoʊniː	Czech
+5	they	oni	ˈoʊniː	Polish
+5	they	oni	ˈoʊniː	Slovak
+5	they	wóni	ˈwɨnʲi	Lower Sorbian
+5	they	woni	None	Upper Sorbian
+5	they	те	tɛ	Bulgarian
+5	they	тие	tiɛ	Macedonian
+5	they	oni	ˈoʊniː	Serbo-Croatian Latin
+5	they	они	ɐˈnʲi	Serbo-Croatian Cyrillic
+5	they	oni	ˈoʊniː	Slovene
+5	they	яны	None	Belarusian
+5	they	они	ɐˈnʲi	Russian
+5	they	они	ɐˈnʲi	Rusyn
+5	they	вони	ˈvonʲɪ	Ukrainian
+6	this	this	ðɪs	English
+6	this	овъ	None	Old Church Slavonic
+6	this	tento	ˈtɛnto	Czech
+6	this	ten	tɛn	Polish
+6	this	tento	ˈtɛnto	Slovak
+6	this	to	tuː	Lower Sorbian
+6	this	tón	tʰouːn	Upper Sorbian
+6	this	този	ˈtɔzi	Bulgarian
+6	this	ова	ˈɔva	Macedonian
+6	this	ovaj	ǒʋaːj	Serbo-Croatian Latin
+6	this	овај	ǒʋaːj	Serbo-Croatian Cyrillic
+6	this	ta	tɑː	Slovene
+6	this	гэты	None	Belarusian
+6	this	этот	ˈɛtət	Russian
+6	this	тот	tot	Rusyn
+6	this	цей	None	Ukrainian
+7	that	that	ˈðæt	English
+7	that	тъ	tʼ	Old Church Slavonic
+7	that	tamten	ˈtamtɛn	Czech
+7	that	tamten	ˈtamtɛn	Polish
+7	that	ten	tɛn	Slovak
+7	that	to	tuː	Lower Sorbian
+7	that	tamny	None	Upper Sorbian
+7	that	онзи	ˈɔnzi	Bulgarian
+7	that	она	ɐˈna	Macedonian
+7	that	taj	tɑːdʒ	Serbo-Croatian Latin
+7	that	тај	tâːj	Serbo-Croatian Cyrillic
+7	that	tisti	ˈtíːsti	Slovene
+7	that	той	tɔj	Belarusian
+7	that	тот	tot	Russian
+7	that	тамтот	None	Rusyn
+7	that	той	tɔj	Ukrainian
+8	here	here	hɪəɹ	English
+8	here	сьдє	None	Old Church Slavonic
+8	here	zde	None	Czech
+8	here	tutaj	ˈtutɒj	Polish
+8	here	tu	ˈtu	Slovak
+8	here	how	haʊ	Lower Sorbian
+8	here	jow	None	Upper Sorbian
+8	here	тук	ˈtuk	Bulgarian
+8	here	овде	ˈɔvdɛ	Macedonian
+8	here	ovdje	ǒːʋdje	Serbo-Croatian Latin
+8	here	овдје	ǒːʋdje	Serbo-Croatian Cyrillic
+8	here	tu	ˈtu	Slovene
+8	here	тут	tut	Belarusian
+8	here	тут	tut	Russian
+8	here	ту	tu	Rusyn
+8	here	тут	tut	Ukrainian
+9	there	there	ðɛəɹ	English
+9	there	тоу	None	Old Church Slavonic
+9	there	tam	tam	Czech
+9	there	tam	tam	Polish
+9	there	tam	tam	Slovak
+9	there	tam	tam	Lower Sorbian
+9	there	tam	tam	Upper Sorbian
+9	there	там	tam	Bulgarian
+9	there	таму	ˈtamu	Macedonian
+9	there	tamo	tâmo	Serbo-Croatian Latin
+9	there	тамо	tâmo	Serbo-Croatian Cyrillic
+9	there	tam	tam	Slovene
+9	there	там	tam	Belarusian
+9	there	там	tam	Russian
+9	there	там	tam	Rusyn
+9	there	там	tam	Ukrainian
+10	who	who	hw	English
+10	who	къто	None	Old Church Slavonic
+10	who	kdo	gdo	Czech
+10	who	kto	ktɔ	Polish
+10	who	kto	ktɔ	Slovak
+10	who	chto	xtɔ	Lower Sorbian
+10	who	štó	None	Upper Sorbian
+10	who	кой	kʷaj	Bulgarian
+10	who	кој	kɔj	Macedonian
+10	who	ko	kô	Serbo-Croatian Latin
+10	who	ко	kʷa	Serbo-Croatian Cyrillic
+10	who	kdo	gdo	Slovene
+10	who	хто	xto	Belarusian
+10	who	кто	kto	Russian
+10	who	хто	xto	Rusyn
+10	who	хто	xto	Ukrainian
+11	what	what	wɔt	English
+11	what	чьто	None	Old Church Slavonic
+11	what	co	koʊ	Czech
+11	what	co	koʊ	Polish
+11	what	čo	ˈtʃɔ	Slovak
+11	what	co	koʊ	Lower Sorbian
+11	what	što	ʃtô	Upper Sorbian
+11	what	какво	kɐkˈvɔ	Bulgarian
+11	what	што	ʂto	Macedonian
+11	what	šta	ʃtâ	Serbo-Croatian Latin
+11	what	шта	ʃtâ	Serbo-Croatian Cyrillic
+11	what	kaj	kai	Slovene
+11	what	што	ʂto	Belarusian
+11	what	что	ʂto	Russian
+11	what	што	ʂto	Rusyn
+11	what	що	ʃtɔ	Ukrainian
+12	where	where	wɛə	English
+12	where	къдє	None	Old Church Slavonic
+12	where	kde	gdɛ	Czech
+12	where	gdzie	ɡdʑɛ	Polish
+12	where	kde	gdɛ	Slovak
+12	where	źo	None	Lower Sorbian
+12	where	hdźe	None	Upper Sorbian
+12	where	къде	None	Bulgarian
+12	where	каде	ˈkadɛ	Macedonian
+12	where	gde	None	Serbo-Croatian Latin
+12	where	где	ɡdʲe	Serbo-Croatian Cyrillic
+12	where	kje	çə	Slovene
+12	where	дзе	None	Belarusian
+12	where	где	ɡdʲe	Russian
+12	where	де	dʲe	Rusyn
+12	where	де	dʲe	Ukrainian
+13	when	when	ʍɛn	English
+13	when	къгда	None	Old Church Slavonic
+13	when	kdy	gdɪ	Czech
+13	when	kiedy	ˈkʲɛdɨ	Polish
+13	when	kedy	None	Slovak
+13	when	gdy	dɨ	Lower Sorbian
+13	when	hdy	None	Upper Sorbian
+13	when	кога	ˈkɔɡa	Bulgarian
+13	when	кога	ˈkɔɡa	Macedonian
+13	when	kad	kad	Serbo-Croatian Latin
+13	when	кад	kâd	Serbo-Croatian Cyrillic
+13	when	kdaj	ˈɡdaːj	Slovene
+13	when	калі	None	Belarusian
+13	when	когда	kɐɡˈda	Russian
+13	when	коли	ˈkolʲɪ	Rusyn
+13	when	коли	ˈkolʲɪ	Ukrainian
+14	how	how	haʊ	English
+14	how	како	kâko	Old Church Slavonic
+14	how	jak	jak	Czech
+14	how	jak	jak	Polish
+14	how	ako	ako	Slovak
+14	how	kak	ɑk	Lower Sorbian
+14	how	kak	ɑk	Upper Sorbian
+14	how	как	kak	Bulgarian
+14	how	како	kâko	Macedonian
+14	how	kako	kâko	Serbo-Croatian Latin
+14	how	како	kâko	Serbo-Croatian Cyrillic
+14	how	kako	kâko	Slovene
+14	how	як	jak	Belarusian
+14	how	как	kak	Russian
+14	how	як	jak	Rusyn
+14	how	як	jak	Ukrainian
+15	not	not	nɒt	English
+15	not	нє	nɛ	Old Church Slavonic
+15	not	ne	nə	Czech
+15	not	nie	ni	Polish
+15	not	nie	ni	Slovak
+15	not	nje-	None	Lower Sorbian
+15	not	nje-	None	Upper Sorbian
+15	not	не	nʲe	Bulgarian
+15	not	не	nʲe	Macedonian
+15	not	ne	nə	Serbo-Croatian Latin
+15	not	не	nʲe	Serbo-Croatian Cyrillic
+15	not	ne	nə	Slovene
+15	not	не	nʲe	Belarusian
+15	not	не	nʲe	Russian
+15	not	не	nʲe	Rusyn
+15	not	не	nʲe	Ukrainian
+16	all	all	ɔːl	English
+16	all	вьсь	None	Old Church Slavonic
+16	all	vše	None	Czech
+16	all	wszystko	ˈfʂɨstkɔ	Polish
+16	all	všetký	None	Slovak
+16	all	wšyken	ˈʃɨkʲɛn	Lower Sorbian
+16	all	wšo	None	Upper Sorbian
+16	all	всичко	None	Bulgarian
+16	all	се	sɛ	Macedonian
+16	all	sve	sʋê	Serbo-Croatian Latin
+16	all	све	sʋê	Serbo-Croatian Cyrillic
+16	all	vse	None	Slovene
+16	all	увесь	None	Belarusian
+16	all	весь	vʲesʲ	Russian
+16	all	ушытко	None	Rusyn
+16	all	увесь	None	Ukrainian
+17	many	many	ˈmɛni	English
+17	many	мъногъ	None	Old Church Slavonic
+17	many	mnoho	ˈmnoɦo	Czech
+17	many	mnóstwo	None	Polish
+17	many	mnoho	ˈmnoɦo	Slovak
+17	many	wjele	ˈvʲelɛ	Lower Sorbian
+17	many	wjele	ˈvʲelɛ	Upper Sorbian
+17	many	много	ˈmnoɡə	Bulgarian
+17	many	многу	ˈmnɔɡu	Macedonian
+17	many	mnogo	mnôɡo	Serbo-Croatian Latin
+17	many	много	ˈmnoɡə	Serbo-Croatian Cyrillic
+17	many	mnogo	mnôɡo	Slovene
+17	many	шмат	None	Belarusian
+17	many	много	ˈmnoɡə	Russian
+17	many	много	ˈmnoɡə	Rusyn
+17	many	багато	bɐˈɦɑtɔ	Ukrainian
+18	some	some	sʌm	English
+18	some	нѣколико	None	Old Church Slavonic
+18	some	několik	ˈɲɛkolɪk	Czech
+18	some	trochę	ˈtrɔxɛ	Polish
+18	some	niekoľko	ˈɲiɛkɔʎkɔ	Slovak
+18	some	někotary	ˈnʲiɪkɔtarɨ	Lower Sorbian
+18	some	někotre	None	Upper Sorbian
+18	some	няколко	None	Bulgarian
+18	some	неколку	ˈnɛkɔlku	Macedonian
+18	some	nekoliko	nêkoliko	Serbo-Croatian Latin
+18	some	неколико	nêkoliko	Serbo-Croatian Cyrillic
+18	some	nekoliko	nêkoliko	Slovene
+18	some	некалькі	None	Belarusian
+18	some	несколько	ˈnʲeskəlʲkə	Russian
+18	some	дaкілько	None	Rusyn
+18	some	декілька	None	Ukrainian
+19	few	few	fjuː	English
+19	few	малꙑ	None	Old Church Slavonic
+19	few	málo	ˈmaːlo	Czech
+19	few	mało	ˈmawɔ	Polish
+19	few	málo	ˈmaːlo	Slovak
+19	few	mało	ˈmawɔ	Lower Sorbian
+19	few	mało	ˈmawɔ	Upper Sorbian
+19	few	малко	None	Bulgarian
+19	few	малку	ˈmaɫku	Macedonian
+19	few	malo	ˈmaɽó	Serbo-Croatian Latin
+19	few	мало	ˈmalə	Serbo-Croatian Cyrillic
+19	few	malo	ˈmaɽó	Slovene
+19	few	мала	mɐˈla	Belarusian
+19	few	мало	ˈmalə	Russian
+19	few	мало	ˈmalə	Rusyn
+19	few	мало	ˈmalə	Ukrainian
+20	other	other	ˈʌðəɹ	English
+20	other	инъ	None	Old Church Slavonic
+20	other	druhý	ˈdruɦiː	Czech
+20	other	inny	ˈinnɨ	Polish
+20	other	druhý	ˈdruɦiː	Slovak
+20	other	drugi	ˈdruɡʲi	Lower Sorbian
+20	other	druhi	None	Upper Sorbian
+20	other	друг	druk	Bulgarian
+20	other	друг	druk	Macedonian
+20	other	drugi	ˈdruɡʲi	Serbo-Croatian Latin
+20	other	други	drûɡiː	Serbo-Croatian Cyrillic
+20	other	drugi	ˈdruɡʲi	Slovene
+20	other	іншы	None	Belarusian
+20	other	другой	drʊˈɡoj	Russian
+20	other	другый	None	Rusyn
+20	other	інший	ˈinʃɪj	Ukrainian
+21	one	one	wʌn	English
+21	one	ѥдинъ	None	Old Church Slavonic
+21	one	jeden	ˈjɛdɛn	Czech
+21	one	jeden	ˈjɛdɛn	Polish
+21	one	jeden	ˈjɛdɛn	Slovak
+21	one	jaden	eɪdən	Lower Sorbian
+21	one	jedyn	None	Upper Sorbian
+21	one	един	jɪˈdʲin	Bulgarian
+21	one	еден	None	Macedonian
+21	one	jedan	jědan	Serbo-Croatian Latin
+21	one	један	jědan	Serbo-Croatian Cyrillic
+21	one	ena	ˈɛːna	Slovene
+21	one	адзін	None	Belarusian
+21	one	один	ɐˈdʲin	Russian
+21	one	єден	None	Rusyn
+21	one	один	ɐˈdʲin	Ukrainian
+22	two	two	tuː	English
+22	two	дъва	None	Old Church Slavonic
+22	two	dva	dva	Czech
+22	two	dwa	dwa	Polish
+22	two	dvaja	ˈdvaja	Slovak
+22	two	dwa	dwa	Lower Sorbian
+22	two	dwaj	dvaj	Upper Sorbian
+22	two	две	dvʲe	Bulgarian
+22	two	два	dva	Macedonian
+22	two	dva	dva	Serbo-Croatian Latin
+22	two	два	dva	Serbo-Croatian Cyrillic
+22	two	dve	dvɛ	Slovene
+22	two	два	dva	Belarusian
+22	two	два	dva	Russian
+22	two	два	dva	Rusyn
+22	two	два	dva	Ukrainian
+23	three	three	θɹiː	English
+23	three	триѥ	None	Old Church Slavonic
+23	three	tři	trɪ	Czech
+23	three	trzy	tʂɨ	Polish
+23	three	traja	None	Slovak
+23	three	tśi	tɕi	Lower Sorbian
+23	three	tři	trɪ	Upper Sorbian
+23	three	три	trʲi	Bulgarian
+23	three	три	trʲi	Macedonian
+23	three	tri	tɹaɪ	Serbo-Croatian Latin
+23	three	три	trʲi	Serbo-Croatian Cyrillic
+23	three	tri	tɹaɪ	Slovene
+23	three	тры	None	Belarusian
+23	three	три	trʲi	Russian
+23	three	три	trʲi	Rusyn
+23	three	три	trʲi	Ukrainian
+24	four	four	fɔː	English
+24	four	чєтꙑрє	None	Old Church Slavonic
+24	four	čtyři	ˈtʃtɪrɪ	Czech
+24	four	cztery	ˈtʂtɛrɨ	Polish
+24	four	štyria	None	Slovak
+24	four	styri	ˈstɨrʲi	Lower Sorbian
+24	four	štyri	ˈʃtiri	Upper Sorbian
+24	four	четири	tʃětiri	Bulgarian
+24	four	четири	tʃětiri	Macedonian
+24	four	četiri	tʃětri	Serbo-Croatian Latin
+24	four	четири	tʃětiri	Serbo-Croatian Cyrillic
+24	four	štiri	ˈʃtìːri	Slovene
+24	four	чатыры	None	Belarusian
+24	four	четыре	tɕɪˈtɨrʲe	Russian
+24	four	штири	None	Rusyn
+24	four	чотири	tʃoˈtɪrɪ	Ukrainian
+25	five	five	faɪv	English
+25	five	пѧть	None	Old Church Slavonic
+25	five	pět	pjɛt	Czech
+25	five	pięć	pʲɛɲtɕ	Polish
+25	five	päť	ˈpɛc	Slovak
+25	five	pěś	pʲiɪɕ	Lower Sorbian
+25	five	pjeć	None	Upper Sorbian
+25	five	пет	pêːt	Bulgarian
+25	five	пет	pêːt	Macedonian
+25	five	pet	pɛt	Serbo-Croatian Latin
+25	five	пет	pêːt	Serbo-Croatian Cyrillic
+25	five	pet	pɛt	Slovene
+25	five	пяць	None	Belarusian
+25	five	пять	pʲætʲ	Russian
+25	five	пять	pʲætʲ	Rusyn
+25	five	п'ять	ˈpjɑtʲ	Ukrainian
+26	big	big	bɪɡ	English
+26	big	вєликъ	None	Old Church Slavonic
+26	big	velký	ˈvɛlkiː	Czech
+26	big	wielki	ˈvʲɛlkʲi	Polish
+26	big	veľký	ˈvɛʎkiː	Slovak
+26	big	wjeliki	ˈvʲelʲikʲi	Lower Sorbian
+26	big	wulki	None	Upper Sorbian
+26	big	голям	ɡoˈʎam	Bulgarian
+26	big	голем	ˈɡɔlɛm	Macedonian
+26	big	velik	ʋělik	Serbo-Croatian Latin
+26	big	велик	vʲɪˈlʲik	Serbo-Croatian Cyrillic
+26	big	velik	ʋělik	Slovene
+26	big	вялікі	None	Belarusian
+26	big	большой	bɐlʲˈʂoj	Russian
+26	big	великый	None	Rusyn
+26	big	великий	vʲɪˈlʲikʲɪj	Ukrainian
+27	long	long	ˈlɒŋ	English
+27	long	дльгъ	None	Old Church Slavonic
+27	long	dlouhý	dlouɦi	Czech
+27	long	długi	ˈdwuɡʲi	Polish
+27	long	dlhý	ˈdlɦiː	Slovak
+27	long	dłujki	ˈdwujkʲi	Lower Sorbian
+27	long	dołhi	None	Upper Sorbian
+27	long	дълъг	ˈdɤlək	Bulgarian
+27	long	долг	dolk	Macedonian
+27	long	dug	dʌɡ	Serbo-Croatian Latin
+27	long	дуг	duk	Serbo-Croatian Cyrillic
+27	long	dolg	dolx	Slovene
+27	long	доўгі	None	Belarusian
+27	long	длинный	ˈdlʲinːɨj	Russian
+27	long	довгый	None	Rusyn
+27	long	довгий	ˈdɔuɦei	Ukrainian
+28	wide	wide	waɪd	English
+28	wide	широкъ	None	Old Church Slavonic
+28	wide	široký	ʃɪroki	Czech
+28	wide	szeroki	ʂɛˈrɔkʲi	Polish
+28	wide	široký	ʃɪroki	Slovak
+28	wide	šyroki	ˈʃɨrɔkʲi	Lower Sorbian
+28	wide	šěroki	None	Upper Sorbian
+28	wide	широк	ʃiˈrɔk	Bulgarian
+28	wide	широк	ʃiˈrɔk	Macedonian
+28	wide	širok	ʃǐrok	Serbo-Croatian Latin
+28	wide	широк	ʃiˈrɔk	Serbo-Croatian Cyrillic
+28	wide	širok	ʃǐrok	Slovene
+28	wide	шырокі	None	Belarusian
+28	wide	широкий	ʂɨˈrokʲɪj	Russian
+28	wide	шырокый	None	Rusyn
+28	wide	широкий	ʂɨˈrokʲɪj	Ukrainian
+29	thick	thick	θɪk	English
+29	thick	дєбєлъ	None	Old Church Slavonic
+29	thick	tlustý	None	Czech
+29	thick	tłusty	ˈtwustɨ	Polish
+29	thick	tlstý	ˈtɫstiː	Slovak
+29	thick	tłusty	ˈtwustɨ	Lower Sorbian
+29	thick	tołsty	None	Upper Sorbian
+29	thick	дебел	dɛˈbɛl	Bulgarian
+29	thick	дебел	dɛˈbɛl	Macedonian
+29	thick	debeo	ˈdeːbeoː	Serbo-Croatian Latin
+29	thick	дебео	děbeo	Serbo-Croatian Cyrillic
+29	thick	debel	ˈdɛːbɛw	Slovene
+29	thick	тоўсты	None	Belarusian
+29	thick	толстый	ˈtolstɨj	Russian
+29	thick	товстый	None	Rusyn
+29	thick	товстий	None	Ukrainian
+30	heavy	heavy	ˈhɛvi	English
+30	heavy	тѧжькъ	None	Old Church Slavonic
+30	heavy	těžký	ˈcɛʃkiː	Czech
+30	heavy	ciężki	ˈtɕɛŋʂkʲi	Polish
+30	heavy	ťažký	ˈcaʃkiː	Slovak
+30	heavy	śěžki	ˈɕiɪʃkʲi	Lower Sorbian
+30	heavy	ćežki	None	Upper Sorbian
+30	heavy	тежък	ˈtɛʒək	Bulgarian
+30	heavy	тежок	ˈtɛʒɔk	Macedonian
+30	heavy	težak	těːʒak	Serbo-Croatian Latin
+30	heavy	тежак	těːʒak	Serbo-Croatian Cyrillic
+30	heavy	težek	ˈtɛːʒək	Slovene
+30	heavy	цяжкі	None	Belarusian
+30	heavy	тяжёлый	tʲɪˈʐolɨj	Russian
+30	heavy	тяжкый	None	Rusyn
+30	heavy	важкий	ʋɐˈʒkɪi	Ukrainian
+31	small	small	smɔːl	English
+31	small	малъ	None	Old Church Slavonic
+31	small	malý	mali	Czech
+31	small	mały	ˈmawɨ	Polish
+31	small	malý	mali	Slovak
+31	small	mały	ˈmawɨ	Lower Sorbian
+31	small	mały	ˈmawɨ	Upper Sorbian
+31	small	малък	ˈmalək	Bulgarian
+31	small	мал	mɑɫ	Macedonian
+31	small	mȃl	mal	Serbo-Croatian Latin
+31	small	ма̑л	mɑɫ	Serbo-Croatian Cyrillic
+31	small	majhen	ˈmáːjxən	Slovene
+31	small	маленькі	None	Belarusian
+31	small	маленький	ˈmalʲɪnʲkʲɪj	Russian
+31	small	малый	ˈmalɨj	Rusyn
+31	small	маленький	ˈmalʲɪnʲkʲɪj	Ukrainian
+32	short	short	ʃɔːt	English
+32	short	кратъкъ	None	Old Church Slavonic
+32	short	krátký	kratki	Czech
+32	short	krótki	ˈkrutkʲi	Polish
+32	short	krátky	ˈkraːtki	Slovak
+32	short	krotki	ˈkrɔtkʲi	Lower Sorbian
+32	short	krótki	ˈkrutkʲi	Upper Sorbian
+32	short	къс	ˈkɤs	Bulgarian
+32	short	кус	kus	Macedonian
+32	short	kratak	krǎtak	Serbo-Croatian Latin
+32	short	кратак	krǎtak	Serbo-Croatian Cyrillic
+32	short	kratek	ˈkràːtək	Slovene
+32	short	кароткі	None	Belarusian
+32	short	короткий	kɐˈrotkʲɪj	Russian
+32	short	короткый	None	Rusyn
+32	short	короткий	kɐˈrotkʲɪj	Ukrainian
+33	narrow	narrow	ˈnæɹoʊ	English
+33	narrow	ѫзъкъ	None	Old Church Slavonic
+33	narrow	úzký	uski	Czech
+33	narrow	wąski	ˈvɔsʲkʲi	Polish
+33	narrow	úzky	ˈuːski	Slovak
+33	narrow	wuski	ˈuskʲi	Lower Sorbian
+33	narrow	wuski	ˈuskʲi	Upper Sorbian
+33	narrow	тесен	ˈtɛsɛn	Bulgarian
+33	narrow	тесен	ˈtɛsɛn	Macedonian
+33	narrow	uzak	ûzak	Serbo-Croatian Latin
+33	narrow	узак	ûzak	Serbo-Croatian Cyrillic
+33	narrow	ozek	ˈòːzək	Slovene
+33	narrow	вузкі	None	Belarusian
+33	narrow	узкий	ˈuskʲɪj	Russian
+33	narrow	узкый	None	Rusyn
+33	narrow	вузький	wʊˈzʲkɪi	Ukrainian
+34	thin	thin	ˈθɪn	English
+34	thin	тьнъкъ	None	Old Church Slavonic
+34	thin	tenký	ˈcɛŋkɔ	Czech
+34	thin	cienki	ˈtɕɛnkʲi	Polish
+34	thin	tenký	ˈcɛŋkɔ	Slovak
+34	thin	śańki	ˈɕaŋʲkʲi	Lower Sorbian
+34	thin	ćeńki	None	Upper Sorbian
+34	thin	тънък	ˈtɤnək	Bulgarian
+34	thin	тенок	ˈtɛnɔk	Macedonian
+34	thin	tanak	tanaʔ	Serbo-Croatian Latin
+34	thin	танак	tânak	Serbo-Croatian Cyrillic
+34	thin	tanek	None	Slovene
+34	thin	тонкі	None	Belarusian
+34	thin	тонкий	ˈtonkʲɪj	Russian
+34	thin	тонкый	None	Rusyn
+34	thin	тонкий	ˈtonkʲɪj	Ukrainian
+35	woman	woman	ˈwʊmən	English
+35	woman	жєна	ʒɛˈna	Old Church Slavonic
+35	woman	žena	ˈʒɛna	Czech
+35	woman	kobieta	kɔˈbʲjɛta	Polish
+35	woman	žena	ˈʒɛna	Slovak
+35	woman	žeńska	ˈʒɛnʲska	Lower Sorbian
+35	woman	žona	ˈʒɔna	Upper Sorbian
+35	woman	жена	ʒɛˈna	Bulgarian
+35	woman	жена	ʒɛˈna	Macedonian
+35	woman	žena	ˈʒɛna	Serbo-Croatian Latin
+35	woman	жена	ʒɛˈna	Serbo-Croatian Cyrillic
+35	woman	ženska	ˈʒèːnska	Slovene
+35	woman	жанчына	None	Belarusian
+35	woman	женщина	ˈʐɛnʲɕːɪnə	Russian
+35	woman	жена	ʒɛˈna	Rusyn
+35	woman	жінка	ˈʒʲinkɐ	Ukrainian
+36	man	man	mæn	English
+36	man	мѫжь	None	Old Church Slavonic
+36	man	muž	muʃ	Czech
+36	man	mężczyzna	mɛˈʂtʂɨzna	Polish
+36	man	muž	muʃ	Slovak
+36	man	muski	ˈmuskʲi	Lower Sorbian
+36	man	muž	muʃ	Upper Sorbian
+36	man	мъж	ˈmɤʃ	Bulgarian
+36	man	маж	maʃ	Macedonian
+36	man	muškarac	muʃkǎːrats	Serbo-Croatian Latin
+36	man	мушкарац	muʃkǎːrats	Serbo-Croatian Cyrillic
+36	man	moški	ˈmɔːʃki	Slovene
+36	man	мужчына	None	Belarusian
+36	man	мужчина	mʊˈɕːinə	Russian
+36	man	муж	mʊtɕ	Rusyn
+36	man	мужчина	mʊˈɕːinə	Ukrainian
+37	man	man	mæn	English
+37	man	чловѣкъ	None	Old Church Slavonic
+37	man	člověk	ˈtʃlovjɛk	Czech
+37	man	człowiek	ˈtʂwɔvʲɛk	Polish
+37	man	človek	ˈtʃɫɔvɛk	Slovak
+37	man	luź	luɕ	Lower Sorbian
+37	man	čłowjek	None	Upper Sorbian
+37	man	човек	tʃoˈvɛk	Bulgarian
+37	man	човек	tʃoˈvɛk	Macedonian
+37	man	čovek	tʃôʋek	Serbo-Croatian Latin
+37	man	човек	tʃoˈvɛk	Serbo-Croatian Cyrillic
+37	man	človek	ˈtʃɫɔvɛk	Slovene
+37	man	чалавек	None	Belarusian
+37	man	человек	tɕɪlɐˈvʲek	Russian
+37	man	чoловiк	None	Rusyn
+37	man	людина	None	Ukrainian
+38	child	child	tʃaɪld	English
+38	child	дѣть	None	Old Church Slavonic
+38	child	dítě	ɟiːcɛ	Czech
+38	child	dziecko	ˈdʑɛtskɔ	Polish
+38	child	dieťa	ˈɟieca	Slovak
+38	child	źiśe	ˈʑiɕɛ	Lower Sorbian
+38	child	dźěćo	None	Upper Sorbian
+38	child	дете	dɛˈtɛ	Bulgarian
+38	child	дете	dɛˈtɛ	Macedonian
+38	child	dete	ˈdetə	Serbo-Croatian Latin
+38	child	дете	dɛˈtɛ	Serbo-Croatian Cyrillic
+38	child	dete	ˈdetə	Slovene
+38	child	дзіця	None	Belarusian
+38	child	дитя	dʲɪˈtʲa	Russian
+38	child	дїтя	None	Rusyn
+38	child	дитя	dʲɪˈtʲa	Ukrainian
+39	wife	wife	waɪf	English
+39	wife	жєна	ʒɛˈna	Old Church Slavonic
+39	wife	žena	ˈʒɛna	Czech
+39	wife	żona	ˈʐɔna	Polish
+39	wife	manželka	ˈmanʒɛlka	Slovak
+39	wife	žeńska	ˈʒɛnʲska	Lower Sorbian
+39	wife	mandźelska	None	Upper Sorbian
+39	wife	съпруга	səˈpruɡə	Bulgarian
+39	wife	сопруга	ˈsɔpruɡa	Macedonian
+39	wife	supruga	None	Serbo-Croatian Latin
+39	wife	супруга	sʊˈpruɡə	Serbo-Croatian Cyrillic
+39	wife	soproga	None	Slovene
+39	wife	жонка	None	Belarusian
+39	wife	жена	ʒɛˈna	Russian
+39	wife	жена	ʒɛˈna	Rusyn
+39	wife	дружина	drʊˈʐɨnə	Ukrainian
+40	husband	husband	ˈhʌzbənd	English
+40	husband	мѫжь	None	Old Church Slavonic
+40	husband	muž	muʃ	Czech
+40	husband	mąż	mɔwʂ	Polish
+40	husband	manžel	ˈmanʒɛl	Slovak
+40	husband	cłowjek	ˈtswovʲɛk	Lower Sorbian
+40	husband	mandźelski	None	Upper Sorbian
+40	husband	съпруг	səˈpruk	Bulgarian
+40	husband	маж	maʃ	Macedonian
+40	husband	muž	muʃ	Serbo-Croatian Latin
+40	husband	муж	mʊtɕ	Serbo-Croatian Cyrillic
+40	husband	mož	ˈmóːʃ	Slovene
+40	husband	муж	mʊtɕ	Belarusian
+40	husband	муж	mʊtɕ	Russian
+40	husband	муж	mʊtɕ	Rusyn
+40	husband	муж	mʊtɕ	Ukrainian
+41	mother	mother	ˈmʌðəɹ	English
+41	mother	мати	ˈmatʲɪ	Old Church Slavonic
+41	mother	matka	ˈmatka	Czech
+41	mother	matka	ˈmatka	Polish
+41	mother	matka	ˈmatka	Slovak
+41	mother	maś	maɕ	Lower Sorbian
+41	mother	mać	matɕ	Upper Sorbian
+41	mother	майка	ˈmajkə	Bulgarian
+41	mother	мајка	mâːjka	Macedonian
+41	mother	majka	mâːjka	Serbo-Croatian Latin
+41	mother	мајка	mâːjka	Serbo-Croatian Cyrillic
+41	mother	mati	mati	Slovene
+41	mother	маці	None	Belarusian
+41	mother	мать	matʲ	Russian
+41	mother	мати	ˈmatʲɪ	Rusyn
+41	mother	мати	ˈmatʲɪ	Ukrainian
+42	father	father	ˈfɑːðəɹ	English
+42	father	отьць	None	Old Church Slavonic
+42	father	otec	ˈotɛts	Czech
+42	father	ojciec	ˈɔjtɕɛts	Polish
+42	father	otec	ˈotɛts	Slovak
+42	father	nan	næn	Lower Sorbian
+42	father	nan	næn	Upper Sorbian
+42	father	баща	bəˈʃta	Bulgarian
+42	father	татко	ˈtatko	Macedonian
+42	father	otac	ǒtats	Serbo-Croatian Latin
+42	father	отац	ǒtats	Serbo-Croatian Cyrillic
+42	father	oče	ˈɔːtʃɛ	Slovene
+42	father	бацька	None	Belarusian
+42	father	отец	oˈtɛts	Russian
+42	father	отець	ɔˈtɛtsʲ	Rusyn
+42	father	батько	ˈbatʲkə	Ukrainian
+43	animal	animal	ˈænɪməl	English
+43	animal	звѣрь	None	Old Church Slavonic
+43	animal	zvíře	zvirɛ	Czech
+43	animal	zwierzę	ˈzvʲɛʐɛ	Polish
+43	animal	živočích	ˈʒivɔtʃiːx	Slovak
+43	animal	zwěrje	ˈzvʲiɪrʲɛ	Lower Sorbian
+43	animal	zwěrjo	None	Upper Sorbian
+43	animal	животно	ʒiˈvɔtno	Bulgarian
+43	animal	животно	ʒiˈvɔtno	Macedonian
+43	animal	životinja	ʒiʋǒtiɲa	Serbo-Croatian Latin
+43	animal	животиња	ʒiʋǒtiɲa	Serbo-Croatian Cyrillic
+43	animal	žival	ʒiˈʋáːw	Slovene
+43	animal	жывёла	None	Belarusian
+43	animal	зверь	zvʲerʲ	Russian
+43	animal	звіря	None	Rusyn
+43	animal	звір	ˈzʲʋʲir	Ukrainian
+44	fish	fish	ˈfɪʃ	English
+44	fish	рꙑба	None	Old Church Slavonic
+44	fish	ryba	ˈrɪba	Czech
+44	fish	ryba	ˈrɪba	Polish
+44	fish	ryba	ˈrɪba	Slovak
+44	fish	ryba	ˈrɪba	Lower Sorbian
+44	fish	ryba	ˈrɪba	Upper Sorbian
+44	fish	риба	ˈribə	Bulgarian
+44	fish	риба	ˈribə	Macedonian
+44	fish	riba	rʲɪˈbɐ	Serbo-Croatian Latin
+44	fish	риба	ˈribə	Serbo-Croatian Cyrillic
+44	fish	riba	rʲɪˈbɐ	Slovene
+44	fish	рыба	ˈrɨbə	Belarusian
+44	fish	рыба	ˈrɨbə	Russian
+44	fish	рыба	ˈrɨbə	Rusyn
+44	fish	риба	ˈribə	Ukrainian
+45	bird	bird	bɜːd	English
+45	bird	пътица	None	Old Church Slavonic
+45	bird	pták	ptak	Czech
+45	bird	ptak	ptak	Polish
+45	bird	vták	ˈftaːk	Slovak
+45	bird	ptašk	ptaʃk	Lower Sorbian
+45	bird	ptačk	None	Upper Sorbian
+45	bird	птица	ˈptitsə	Bulgarian
+45	bird	птица	ˈptitsə	Macedonian
+45	bird	ptica	ptîtsa	Serbo-Croatian Latin
+45	bird	птица	ˈptitsə	Serbo-Croatian Cyrillic
+45	bird	ptica	ptîtsa	Slovene
+45	bird	птушка	None	Belarusian
+45	bird	птица	ˈptitsə	Russian
+45	bird	птах	ptax	Rusyn
+45	bird	птах	ptax	Ukrainian
+46	dog	dog	dɒɡ	English
+46	dog	пьсъ	None	Old Church Slavonic
+46	dog	pes	pɛs	Czech
+46	dog	pies	paɪz	Polish
+46	dog	pes	pɛs	Slovak
+46	dog	pjas	pʲas	Lower Sorbian
+46	dog	psyk	None	Upper Sorbian
+46	dog	куче	ˈkutʃɛ	Bulgarian
+46	dog	куче	ˈkutʃɛ	Macedonian
+46	dog	pas	pas	Serbo-Croatian Latin
+46	dog	пас	pas	Serbo-Croatian Cyrillic
+46	dog	pes	pɛs	Slovene
+46	dog	сабака	None	Belarusian
+46	dog	собака	sɐˈbakə	Russian
+46	dog	пес	pɛs	Rusyn
+46	dog	собака	sɐˈbakə	Ukrainian
+47	louse	louse	laʊs	English
+47	louse	въшь	None	Old Church Slavonic
+47	louse	veš	ʋêʃ	Czech
+47	louse	wesz	vɛʂ	Polish
+47	louse	voš	ˈvɔʃ	Slovak
+47	louse	weš	wɛʃ	Lower Sorbian
+47	louse	woš	None	Upper Sorbian
+47	louse	въшка	ˈvɤʃkə	Bulgarian
+47	louse	вошка	ˈvɔʃka	Macedonian
+47	louse	uš	ûːʃ	Serbo-Croatian Latin
+47	louse	уш	ûːʃ	Serbo-Croatian Cyrillic
+47	louse	uš	ûːʃ	Slovene
+47	louse	вош	None	Belarusian
+47	louse	вошь	voʂ	Russian
+47	louse	уша	None	Rusyn
+47	louse	воша	ˈwɔʃɐ	Ukrainian
+48	snake	snake	ˈsneɪk	English
+48	snake	змиꙗ	None	Old Church Slavonic
+48	snake	had	hæd	Czech
+48	snake	wąż	vɔwʂ	Polish
+48	snake	had	hæd	Slovak
+48	snake	wuž	uʃ	Lower Sorbian
+48	snake	had	hæd	Upper Sorbian
+48	snake	змия	zmiˈja	Bulgarian
+48	snake	змија	zmǐja	Macedonian
+48	snake	zmija	ˈzmʲija	Serbo-Croatian Latin
+48	snake	змија	zmǐja	Serbo-Croatian Cyrillic
+48	snake	kača	ˈkàːtʃa	Slovene
+48	snake	зьмяя	None	Belarusian
+48	snake	змея	zmʲɪˈja	Russian
+48	snake	гад	ɡat	Rusyn
+48	snake	гадюка	ɡɐˈdʲukə	Ukrainian
+49	worm	worm	wɜːm	English
+49	worm	чрьвь	None	Old Church Slavonic
+49	worm	červ	ˈtʃɛrw	Czech
+49	worm	robak	ˈrɔbak	Polish
+49	worm	červ	ˈtʃɛrw	Slovak
+49	worm	wužeńc	ˈuʒɛnʲts	Lower Sorbian
+49	worm	waka	None	Upper Sorbian
+49	worm	червей	ˈtʃɛrvɛj	Bulgarian
+49	worm	црв	tsrːʋ	Macedonian
+49	worm	crv	tsrːʋ	Serbo-Croatian Latin
+49	worm	црв	tsrːʋ	Serbo-Croatian Cyrillic
+49	worm	črv	ˈtʃərw	Slovene
+49	worm	чарвяк	None	Belarusian
+49	worm	червь	tɕerfʲ	Russian
+49	worm	червяк	tɕɪrˈvʲak	Rusyn
+49	worm	черв'як	None	Ukrainian
+50	tree	tree	tɹiː	English
+50	tree	дрѣво	None	Old Church Slavonic
+50	tree	strom	strom	Czech
+50	tree	drzewo	ˈdʐɛvɔ	Polish
+50	tree	strom	strom	Slovak
+50	tree	bom	bɔm	Lower Sorbian
+50	tree	štom	None	Upper Sorbian
+50	tree	дърво	dərˈvɔ	Bulgarian
+50	tree	дрво	drʋo	Macedonian
+50	tree	drvo	drʋo	Serbo-Croatian Latin
+50	tree	дрво	drʋo	Serbo-Croatian Cyrillic
+50	tree	drevo	ˈdrɛvɔ	Slovene
+50	tree	дрэва	None	Belarusian
+50	tree	дерево	ˈdʲerʲɪvə	Russian
+50	tree	дерево	ˈdʲerʲɪvə	Rusyn
+50	tree	дерево	ˈdʲerʲɪvə	Ukrainian
+51	forest	forest	ˈfɒɹɪst	English
+51	forest	лѣсъ	None	Old Church Slavonic
+51	forest	les	lɛz	Czech
+51	forest	las	ɑs	Polish
+51	forest	les	lɛz	Slovak
+51	forest	góla	ˈɡoːla	Lower Sorbian
+51	forest	lěs	lʲiɪs	Upper Sorbian
+51	forest	гора	ɡoˈra	Bulgarian
+51	forest	шума	ˈʃumə	Macedonian
+51	forest	šuma	ʃûma	Serbo-Croatian Latin
+51	forest	шума	ˈʃumə	Serbo-Croatian Cyrillic
+51	forest	gozd	ˈɡɔst	Slovene
+51	forest	лес	lɛs	Belarusian
+51	forest	лес	lɛs	Russian
+51	forest	лïс	None	Rusyn
+51	forest	ліс	None	Ukrainian
+52	stick	stick	stɪk	English
+52	stick	палица	ˈpalʲɪtsə	Old Church Slavonic
+52	stick	hůl	ɦuːl	Czech
+52	stick	patyk	ˈpatɨk	Polish
+52	stick	palica	ˈpalʲitsa	Slovak
+52	stick	kij	kij	Lower Sorbian
+52	stick	kij	kij	Upper Sorbian
+52	stick	палка	ˈpalkə	Bulgarian
+52	stick	стап	stap	Macedonian
+52	stick	prut	prut	Serbo-Croatian Latin
+52	stick	прут	prut	Serbo-Croatian Cyrillic
+52	stick	palica	ˈpalʲitsa	Slovene
+52	stick	кій	None	Belarusian
+52	stick	палка	ˈpalkə	Russian
+52	stick	паліця	None	Rusyn
+52	stick	палиця	None	Ukrainian
+53	fruit	fruit	fɹuːt	English
+53	fruit	овощє	ˈovəɕːe	Old Church Slavonic
+53	fruit	ovoce	ˈovotsɛ	Czech
+53	fruit	owoc	ˈɔvɔts	Polish
+53	fruit	ovocie	ˈɔvɔtsiɛ	Slovak
+53	fruit	płod	pwɔt	Lower Sorbian
+53	fruit	płód	pwut	Upper Sorbian
+53	fruit	плод	plɔt	Bulgarian
+53	fruit	овошје	ˈɔvɔʃjɛ	Macedonian
+53	fruit	voće	ʋǒtɕe	Serbo-Croatian Latin
+53	fruit	воће	ʋǒtɕe	Serbo-Croatian Cyrillic
+53	fruit	sadje	ˈsɑtːʃe	Slovene
+53	fruit	садавіна	None	Belarusian
+53	fruit	фрукт	frukt	Russian
+53	fruit	овоцина	None	Rusyn
+53	fruit	фрукт	frukt	Ukrainian
+54	seed	seed	siːd	English
+54	seed	сѣмѧ	None	Old Church Slavonic
+54	seed	semeno	ˈsɛmɛnɔ	Czech
+54	seed	nasienie	None	Polish
+54	seed	semeno	ˈsɛmɛnɔ	Slovak
+54	seed	semje	ˈsɛmʲɛ	Lower Sorbian
+54	seed	symjo	None	Upper Sorbian
+54	seed	семе	ˈsɛmɛ	Bulgarian
+54	seed	семе	ˈsɛmɛ	Macedonian
+54	seed	seme	siːm	Serbo-Croatian Latin
+54	seed	семе	ˈsɛmɛ	Serbo-Croatian Cyrillic
+54	seed	seme	siːm	Slovene
+54	seed	насеньне	None	Belarusian
+54	seed	семя	ˈsʲemʲə	Russian
+54	seed	насїня	None	Rusyn
+54	seed	насіння	nɑˈsinʲːɑ	Ukrainian
+55	leaf	leaf	liːf	English
+55	leaf	листъ	None	Old Church Slavonic
+55	leaf	list	lɪst	Czech
+55	leaf	liść	lʲiɕtɕ	Polish
+55	leaf	list	lɪst	Slovak
+55	leaf	list	lɪst	Lower Sorbian
+55	leaf	lisćo	None	Upper Sorbian
+55	leaf	лист	lʲist	Bulgarian
+55	leaf	лист	lʲist	Macedonian
+55	leaf	list	lɪst	Serbo-Croatian Latin
+55	leaf	лист	lʲist	Serbo-Croatian Cyrillic
+55	leaf	list	lɪst	Slovene
+55	leaf	ліст	None	Belarusian
+55	leaf	лист	lʲist	Russian
+55	leaf	лист	lʲist	Rusyn
+55	leaf	лист	lʲist	Ukrainian
+56	root	root	ɹuːt	English
+56	root	корєнь	ˈkorʲɪnʲ	Old Church Slavonic
+56	root	kořen	None	Czech
+56	root	korzeń	ˈkɔʐɛɲ	Polish
+56	root	koreň	ˈkɔrɛɲ	Slovak
+56	root	kórjeń	ˈkɨrʲɪnʲ	Lower Sorbian
+56	root	korjeń	None	Upper Sorbian
+56	root	корен	ˈkɔrɛn	Bulgarian
+56	root	корен	ˈkɔrɛn	Macedonian
+56	root	koren	oːrən	Serbo-Croatian Latin
+56	root	корен	ˈkɔrɛn	Serbo-Croatian Cyrillic
+56	root	koren	oːrən	Slovene
+56	root	корань	None	Belarusian
+56	root	корень	ˈkorʲɪnʲ	Russian
+56	root	корїнь	None	Rusyn
+56	root	корінь	ˈkɔrʲinʲ	Ukrainian
+57	bark	bark	bɑːk	English
+57	bark	кора	koˈra	Old Church Slavonic
+57	bark	kůra	None	Czech
+57	bark	kora	ˈkorɒ	Polish
+57	bark	kôra	ˈkuora	Slovak
+57	bark	škóra	ˈʃkɨra	Lower Sorbian
+57	bark	skora	None	Upper Sorbian
+57	bark	кора	koˈra	Bulgarian
+57	bark	кора	koˈra	Macedonian
+57	bark	kora	ˈkorɒ	Serbo-Croatian Latin
+57	bark	кора	koˈra	Serbo-Croatian Cyrillic
+57	bark	skorja	ˈskòːrja	Slovene
+57	bark	кара	ˈkara	Belarusian
+57	bark	кора	koˈra	Russian
+57	bark	кора	koˈra	Rusyn
+57	bark	кора	koˈra	Ukrainian
+58	flower	flower	ˈflaʊə	English
+58	flower	цвѣтъ	tsvʲet	Old Church Slavonic
+58	flower	květ	None	Czech
+58	flower	kwiat	kfʲat	Polish
+58	flower	kvet	ˈkvɛt	Slovak
+58	flower	kwětk	kvʲiɪtk	Lower Sorbian
+58	flower	kwětka	None	Upper Sorbian
+58	flower	цвете	ˈtsvɛtɛ	Bulgarian
+58	flower	цвет	tsvʲet	Macedonian
+58	flower	cvet	tsʋêːt	Serbo-Croatian Latin
+58	flower	цвет	tsvʲet	Serbo-Croatian Cyrillic
+58	flower	cvet	tsʋêːt	Slovene
+58	flower	кветка	None	Belarusian
+58	flower	цветок	tsvʲɪˈtok	Russian
+58	flower	квiтка	None	Rusyn
+58	flower	квітка	ˈkʋʲitkɐ	Ukrainian
+59	grass	grass	ɡɹɑːs	English
+59	grass	трава	trɐˈva	Old Church Slavonic
+59	grass	tráva	ˈtraːva	Czech
+59	grass	trawa	ˈtrava	Polish
+59	grass	tráva	ˈtraːva	Slovak
+59	grass	tšawa	ˈtʃawa	Lower Sorbian
+59	grass	trawa	ˈtrava	Upper Sorbian
+59	grass	трева	trɛˈva	Bulgarian
+59	grass	трева	trɛˈva	Macedonian
+59	grass	trava	avɐ	Serbo-Croatian Latin
+59	grass	трава	trɐˈva	Serbo-Croatian Cyrillic
+59	grass	trava	avɐ	Slovene
+59	grass	трава	trɐˈva	Belarusian
+59	grass	трава	trɐˈva	Russian
+59	grass	трава	trɐˈva	Rusyn
+59	grass	трава	trɐˈva	Ukrainian
+60	rope	rope	ɹəʊp	English
+60	rope	вервь	None	Old Church Slavonic
+60	rope	lano	ˈlano	Czech
+60	rope	sznur	ʂnur	Polish
+60	rope	lano	ˈlano	Slovak
+60	rope	powrjoz	ˈpowrʲɔs	Lower Sorbian
+60	rope	powjaz	None	Upper Sorbian
+60	rope	въже	vəˈʒɛ	Bulgarian
+60	rope	јаже	ˈjaʒɛ	Macedonian
+60	rope	uže	None	Serbo-Croatian Latin
+60	rope	уже	ʊˈʐɛ	Serbo-Croatian Cyrillic
+60	rope	vrv	None	Slovene
+60	rope	вяроўка	None	Belarusian
+60	rope	верёвка	vʲɪˈrʲɵfkə	Russian
+60	rope	шпарґа	None	Rusyn
+60	rope	шнур	ʂnur	Ukrainian
+61	skin	skin	skɪn	English
+61	skin	кожа	ˈkɔʒə	Old Church Slavonic
+61	skin	kůže	kuʒɛ	Czech
+61	skin	skóra	ˈskura	Polish
+61	skin	koža	kôʒa	Slovak
+61	skin	kóža	ˈkɨʒa	Lower Sorbian
+61	skin	koža	kôʒa	Upper Sorbian
+61	skin	кожа	ˈkɔʒə	Bulgarian
+61	skin	кожа	ˈkɔʒə	Macedonian
+61	skin	koža	kôʒa	Serbo-Croatian Latin
+61	skin	кожа	ˈkɔʒə	Serbo-Croatian Cyrillic
+61	skin	koža	kôʒa	Slovene
+61	skin	скура	None	Belarusian
+61	skin	кожа	ˈkɔʒə	Russian
+61	skin	скора	skɐˈra	Rusyn
+61	skin	шкіра	None	Ukrainian
+62	meat	meat	miːt	English
+62	meat	мѧсо	None	Old Church Slavonic
+62	meat	maso	ˈmaso	Czech
+62	meat	mięso	ˈmʲjɛwsɔ	Polish
+62	meat	mäso	ˈmɛsɔ	Slovak
+62	meat	měso	ˈmʲiɪsɔ	Lower Sorbian
+62	meat	mjaso	None	Upper Sorbian
+62	meat	месо	mɛˈsɔ	Bulgarian
+62	meat	месо	mɛˈsɔ	Macedonian
+62	meat	meso	ˈmeso	Serbo-Croatian Latin
+62	meat	месо	mɛˈsɔ	Serbo-Croatian Cyrillic
+62	meat	meso	ˈmeso	Slovene
+62	meat	мяса	ˈmʲasə	Belarusian
+62	meat	мясо	ˈmʲasə	Russian
+62	meat	мясо	ˈmʲasə	Rusyn
+62	meat	м'ясо	ˈmjɑsɔ	Ukrainian
+63	blood	blood	blʌd	English
+63	blood	крꙑ	None	Old Church Slavonic
+63	blood	krev	krɛv	Czech
+63	blood	krew	krɛf	Polish
+63	blood	krv	krːʋ	Slovak
+63	blood	kšej	kʃej	Lower Sorbian
+63	blood	krej	None	Upper Sorbian
+63	blood	кръв	krɤf	Bulgarian
+63	blood	крв	krf	Macedonian
+63	blood	krv	krːʋ	Serbo-Croatian Latin
+63	blood	крв	krf	Serbo-Croatian Cyrillic
+63	blood	kri	kriː	Slovene
+63	blood	кроў	None	Belarusian
+63	blood	кровь	krofʲ	Russian
+63	blood	кров	krof	Rusyn
+63	blood	кров	krof	Ukrainian
+64	bone	bone	boʊn	English
+64	bone	кость	kosʲtʲ	Old Church Slavonic
+64	bone	kost	kost	Czech
+64	bone	kość	kɔɕtɕ	Polish
+64	bone	kosť	ˈkɔsc	Slovak
+64	bone	kósć	kɨstɕ	Lower Sorbian
+64	bone	kósć	kɨstɕ	Upper Sorbian
+64	bone	кост	kɔst	Bulgarian
+64	bone	коска	ˈkɔska	Macedonian
+64	bone	kost	kost	Serbo-Croatian Latin
+64	bone	кост	kɔst	Serbo-Croatian Cyrillic
+64	bone	kost	kost	Slovene
+64	bone	костка	None	Belarusian
+64	bone	кость	kosʲtʲ	Russian
+64	bone	кість	None	Rusyn
+64	bone	кість	None	Ukrainian
+65	fat	fat	fæt	English
+65	fat	тоукъ	None	Old Church Slavonic
+65	fat	tuk	toʔ	Czech
+65	fat	tłuszcz	twuʂtʂ	Polish
+65	fat	sadlo	None	Slovak
+65	fat	tucne	ˈtutsnɛ	Lower Sorbian
+65	fat	tuk	toʔ	Upper Sorbian
+65	fat	мазнина	məzniˈna	Bulgarian
+65	fat	маст	mâːst	Macedonian
+65	fat	debljina	debʎǐna	Serbo-Croatian Latin
+65	fat	дебљина	debʎǐna	Serbo-Croatian Cyrillic
+65	fat	maščoba	None	Slovene
+65	fat	тлушч	None	Belarusian
+65	fat	жир	ʐɨr	Russian
+65	fat	жыр	None	Rusyn
+65	fat	жир	ʐɨr	Ukrainian
+66	egg	egg	ɛɡ	English
+66	egg	аицє	None	Old Church Slavonic
+66	egg	vejce	None	Czech
+66	egg	jajko	ˈjajkɔ	Polish
+66	egg	vajce	ˈvajtsɛ	Slovak
+66	egg	jajo	ˈjajɔ	Lower Sorbian
+66	egg	jejo	None	Upper Sorbian
+66	egg	яйце	jəiˈtsɛ	Bulgarian
+66	egg	јајце	jǎːjtse	Macedonian
+66	egg	jaje	jǎːje	Serbo-Croatian Latin
+66	egg	јаје	jǎːje	Serbo-Croatian Cyrillic
+66	egg	jajce	ˈjajtsɛ	Slovene
+66	egg	яйка	None	Belarusian
+66	egg	яйцо	jɪjˈtso	Russian
+66	egg	яйце	jəiˈtsɛ	Rusyn
+66	egg	яйце	jəiˈtsɛ	Ukrainian
+67	horn	horn	hɔːn	English
+67	horn	рогъ	None	Old Church Slavonic
+67	horn	roh	oː	Czech
+67	horn	róg	ruk	Polish
+67	horn	roh	oː	Slovak
+67	horn	rog	ɹɒdʒ	Lower Sorbian
+67	horn	róh	None	Upper Sorbian
+67	horn	рог	rok	Bulgarian
+67	horn	рог	rok	Macedonian
+67	horn	rog	ɹɒdʒ	Serbo-Croatian Latin
+67	horn	рог	rok	Serbo-Croatian Cyrillic
+67	horn	rog	ɹɒdʒ	Slovene
+67	horn	рог	rok	Belarusian
+67	horn	рог	rok	Russian
+67	horn	ріг	None	Rusyn
+67	horn	ріг	None	Ukrainian
+68	tail	tail	teɪl	English
+68	tail	опашъ	None	Old Church Slavonic
+68	tail	ocas	ɔtsas	Czech
+68	tail	ogon	ˈɔɡɔn	Polish
+68	tail	chvost	ˈxvɔst	Slovak
+68	tail	wogon	ˈɔɡɛn	Lower Sorbian
+68	tail	wopuš	None	Upper Sorbian
+68	tail	опашка	ˈɔpaʃka	Bulgarian
+68	tail	опашка	ˈɔpaʃka	Macedonian
+68	tail	rep	ɹɛp	Serbo-Croatian Latin
+68	tail	реп	rʲep	Serbo-Croatian Cyrillic
+68	tail	rep	ɹɛp	Slovene
+68	tail	хвост	xvost	Belarusian
+68	tail	хвост	xvost	Russian
+68	tail	хвіст	None	Rusyn
+68	tail	хвіст	None	Ukrainian
+69	feather	feather	ˈfɛðə	English
+69	feather	перїе	None	Old Church Slavonic
+69	feather	pero	ˈpɛro	Czech
+69	feather	pióro	ˈpʲurɔ	Polish
+69	feather	pero	ˈpɛro	Slovak
+69	feather	pjero	ˈpʲɛrɔ	Lower Sorbian
+69	feather	pjerjo	None	Upper Sorbian
+69	feather	перо	pʲɪˈro	Bulgarian
+69	feather	перо	pʲɪˈro	Macedonian
+69	feather	pero	ˈpɛro	Serbo-Croatian Latin
+69	feather	перо	pʲɪˈro	Serbo-Croatian Cyrillic
+69	feather	pero	ˈpɛro	Slovene
+69	feather	пяро	None	Belarusian
+69	feather	перо	pʲɪˈro	Russian
+69	feather	перо	pʲɪˈro	Rusyn
+69	feather	перо	pʲɪˈro	Ukrainian
+70	hair	hair	hɛə	English
+70	hair	власъ	None	Old Church Slavonic
+70	hair	vlasy	None	Czech
+70	hair	włosy	ˈwɔsɨ	Polish
+70	hair	vlasy	None	Slovak
+70	hair	włose	ˈwɔsɛ	Lower Sorbian
+70	hair	włosy	ˈwɔsɨ	Upper Sorbian
+70	hair	коса	koˈsa	Bulgarian
+70	hair	коса	koˈsa	Macedonian
+70	hair	kosa	kuːsa	Serbo-Croatian Latin
+70	hair	коса	koˈsa	Serbo-Croatian Cyrillic
+70	hair	lasje	None	Slovene
+70	hair	валасы	None	Belarusian
+70	hair	волосы	ˈvoləsɨ	Russian
+70	hair	волося	None	Rusyn
+70	hair	волосся	wɔˈlɔsʲːɐ	Ukrainian
+71	head	head	hɛd	English
+71	head	глава	ɡləˈva	Old Church Slavonic
+71	head	hlava	ˈɦlava	Czech
+71	head	głowa	ˈɡwowa	Polish
+71	head	hlava	ˈɦlava	Slovak
+71	head	głowa	ˈɡwowa	Lower Sorbian
+71	head	hłowa	None	Upper Sorbian
+71	head	глава	ɡləˈva	Bulgarian
+71	head	глава	ɡləˈva	Macedonian
+71	head	glava	ɡlǎːʋa	Serbo-Croatian Latin
+71	head	глава	ɡləˈva	Serbo-Croatian Cyrillic
+71	head	glava	ɡlǎːʋa	Slovene
+71	head	галава	ɣalaˈva	Belarusian
+71	head	голова	ɡəlɐˈva	Russian
+71	head	голова	ɡəlɐˈva	Rusyn
+71	head	голова	ɡəlɐˈva	Ukrainian
+72	ear	ear	ɪə	English
+72	ear	оухо	None	Old Church Slavonic
+72	ear	ucho	ˈuxo	Czech
+72	ear	ucho	ˈuxo	Polish
+72	ear	ucho	ˈuxo	Slovak
+72	ear	wucho	ˈuxɔ	Lower Sorbian
+72	ear	wucho	ˈuxɔ	Upper Sorbian
+72	ear	ухо	uˈxɔ	Bulgarian
+72	ear	уво	ˈuvɔ	Macedonian
+72	ear	uvo	ûʋo	Serbo-Croatian Latin
+72	ear	уво	ˈuvɔ	Serbo-Croatian Cyrillic
+72	ear	uho	ûxo	Slovene
+72	ear	вуха	ˈvuxa	Belarusian
+72	ear	ухо	uˈxɔ	Russian
+72	ear	ухо	uˈxɔ	Rusyn
+72	ear	вухо	ˈwuxɔ	Ukrainian
+73	eye	eye	aɪ	English
+73	eye	око	oˈkɔ	Old Church Slavonic
+73	eye	oko	ˈoko	Czech
+73	eye	oko	ˈoko	Polish
+73	eye	oko	ˈoko	Slovak
+73	eye	woko	ˈɔkɔ	Lower Sorbian
+73	eye	wóčko	None	Upper Sorbian
+73	eye	око	oˈkɔ	Bulgarian
+73	eye	око	oˈkɔ	Macedonian
+73	eye	oko	ˈoko	Serbo-Croatian Latin
+73	eye	око	oˈkɔ	Serbo-Croatian Cyrillic
+73	eye	oko	ˈoko	Slovene
+73	eye	вока	None	Belarusian
+73	eye	глаз	ɡlas	Russian
+73	eye	око	oˈkɔ	Rusyn
+73	eye	око	oˈkɔ	Ukrainian
+74	nose	nose	nəʊz	English
+74	nose	носъ	None	Old Church Slavonic
+74	nose	nos	nos	Czech
+74	nose	nos	nos	Polish
+74	nose	nos	nos	Slovak
+74	nose	nos	nos	Lower Sorbian
+74	nose	nós	ˈnos	Upper Sorbian
+74	nose	нос	nɔs	Bulgarian
+74	nose	нос	nɔs	Macedonian
+74	nose	nos	nos	Serbo-Croatian Latin
+74	nose	нос	nɔs	Serbo-Croatian Cyrillic
+74	nose	nos	nos	Slovene
+74	nose	нос	nɔs	Belarusian
+74	nose	нос	nɔs	Russian
+74	nose	ніс	None	Rusyn
+74	nose	ніс	None	Ukrainian
+75	mouth	mouth	maʊθ	English
+75	mouth	оуста	None	Old Church Slavonic
+75	mouth	ústa	ˈuːsta	Czech
+75	mouth	usta	ˈusta	Polish
+75	mouth	ústa	ˈuːsta	Slovak
+75	mouth	guba	ˈɡubaʔ	Lower Sorbian
+75	mouth	huba	ɦuba	Upper Sorbian
+75	mouth	уста	usˈta	Bulgarian
+75	mouth	уста	usˈta	Macedonian
+75	mouth	usta	ˈusta	Serbo-Croatian Latin
+75	mouth	уста	usˈta	Serbo-Croatian Cyrillic
+75	mouth	usta	ˈusta	Slovene
+75	mouth	рот	rot	Belarusian
+75	mouth	рот	rot	Russian
+75	mouth	уста	usˈta	Rusyn
+75	mouth	рот	rot	Ukrainian
+76	tooth	tooth	tuːθ	English
+76	tooth	зѫбъ	None	Old Church Slavonic
+76	tooth	zub	zup	Czech
+76	tooth	ząb	zɔmp	Polish
+76	tooth	zub	zup	Slovak
+76	tooth	zub	zup	Lower Sorbian
+76	tooth	zub	zup	Upper Sorbian
+76	tooth	зъб	zɤp	Bulgarian
+76	tooth	заб	None	Macedonian
+76	tooth	zub	zup	Serbo-Croatian Latin
+76	tooth	зуб	zup	Serbo-Croatian Cyrillic
+76	tooth	zob	zɔb	Slovene
+76	tooth	зуб	zup	Belarusian
+76	tooth	зуб	zup	Russian
+76	tooth	зуб	zup	Rusyn
+76	tooth	зуб	zup	Ukrainian
+77	tongue	tongue	tʌŋ	English
+77	tongue	ѩзꙑкъ	None	Old Church Slavonic
+77	tongue	jazyk	ˈjazɪk	Czech
+77	tongue	język	ˈjɛzɨk	Polish
+77	tongue	jazyk	ˈjazɪk	Slovak
+77	tongue	jězyk	ˈjiɪzɨk	Lower Sorbian
+77	tongue	jazyk	ˈjazɪk	Upper Sorbian
+77	tongue	език	ɛˈzik	Bulgarian
+77	tongue	јазик	ˈjazik	Macedonian
+77	tongue	jezik	jězik	Serbo-Croatian Latin
+77	tongue	језик	jězik	Serbo-Croatian Cyrillic
+77	tongue	jezik	jězik	Slovene
+77	tongue	язык	jɪˈzɨk	Belarusian
+77	tongue	язык	jɪˈzɨk	Russian
+77	tongue	язык	jɪˈzɨk	Rusyn
+77	tongue	язик	None	Ukrainian
+78	fingernail	fingernail	ˈfɪŋɡɚˌneɪl	English
+78	fingernail	ногъть	None	Old Church Slavonic
+78	fingernail	nehet	None	Czech
+78	fingernail	paznokieć	pazˈnɔkʲɛtɕ	Polish
+78	fingernail	necht	ˈɲɛxt	Slovak
+78	fingernail	nokś	nɔkɕ	Lower Sorbian
+78	fingernail	nochć	None	Upper Sorbian
+78	fingernail	нокът	ˈnɔkət	Bulgarian
+78	fingernail	нокт	nɔkt	Macedonian
+78	fingernail	nokat	None	Serbo-Croatian Latin
+78	fingernail	нокат	None	Serbo-Croatian Cyrillic
+78	fingernail	noht	ˈnóːxt	Slovene
+78	fingernail	пазногаць	None	Belarusian
+78	fingernail	ноготь	ˈnoɡətʲ	Russian
+78	fingernail	нохоть	None	Rusyn
+78	fingernail	ніготь	None	Ukrainian
+79	foot	foot	fʊt	English
+79	foot	стопа	stɐˈpa	Old Church Slavonic
+79	foot	noha	ˈnoɦa	Czech
+79	foot	stopa	ˈstɔpa	Polish
+79	foot	chodidlo	ˈxɔɟidɫɔ	Slovak
+79	foot	noga	ˈnɔɡa	Lower Sorbian
+79	foot	noha	ˈnoɦa	Upper Sorbian
+79	foot	крак	krak	Bulgarian
+79	foot	стапало	None	Macedonian
+79	foot	stopa	ˈstɔpa	Serbo-Croatian Latin
+79	foot	стопа	stɐˈpa	Serbo-Croatian Cyrillic
+79	foot	stopalo	stǒpalo	Slovene
+79	foot	ступня	stʊpˈnʲa	Belarusian
+79	foot	стопа	stɐˈpa	Russian
+79	foot	стопа	stɐˈpa	Rusyn
+79	foot	стопа	stɐˈpa	Ukrainian
+80	leg	leg	lɛɡ	English
+80	leg	нога	noˈɡa	Old Church Slavonic
+80	leg	noha	ˈnoɦa	Czech
+80	leg	noga	ˈnɔɡa	Polish
+80	leg	noha	ˈnoɦa	Slovak
+80	leg	noga	ˈnɔɡa	Lower Sorbian
+80	leg	noha	ˈnoɦa	Upper Sorbian
+80	leg	крак	krak	Bulgarian
+80	leg	нога	noˈɡa	Macedonian
+80	leg	noga	ˈnɔɡa	Serbo-Croatian Latin
+80	leg	нога	noˈɡa	Serbo-Croatian Cyrillic
+80	leg	noga	ˈnɔɡa	Slovene
+80	leg	нага	naˈɣa	Belarusian
+80	leg	нога	noˈɡa	Russian
+80	leg	нога	noˈɡa	Rusyn
+80	leg	нога	noˈɡa	Ukrainian
+81	knee	knee	niː	English
+81	knee	колѣно	None	Old Church Slavonic
+81	knee	koleno	ˈkolɛno	Czech
+81	knee	kolano	kɔˈlanɔ	Polish
+81	knee	koleno	ˈkolɛno	Slovak
+81	knee	kóleno	ˈkɨlɛnɔ	Lower Sorbian
+81	knee	koleno	ˈkolɛno	Upper Sorbian
+81	knee	коляно	koˈlʲano	Bulgarian
+81	knee	колено	kɐˈlʲenə	Macedonian
+81	knee	koleno	ˈkolɛno	Serbo-Croatian Latin
+81	knee	колено	kɐˈlʲenə	Serbo-Croatian Cyrillic
+81	knee	koleno	ˈkolɛno	Slovene
+81	knee	калена	None	Belarusian
+81	knee	колено	kɐˈlʲenə	Russian
+81	knee	колїно	None	Rusyn
+81	knee	коліно	None	Ukrainian
+82	hand	hand	hænd	English
+82	hand	рѫка	None	Old Church Slavonic
+82	hand	ruka	ˈruka	Czech
+82	hand	ręka	ˈrɛŋka	Polish
+82	hand	ruka	ˈruka	Slovak
+82	hand	ruka	ˈruka	Lower Sorbian
+82	hand	ruka	ˈruka	Upper Sorbian
+82	hand	ръка	rəˈka	Bulgarian
+82	hand	рака	ˈrakə	Macedonian
+82	hand	ruka	ˈruka	Serbo-Croatian Latin
+82	hand	рука	rʊˈka	Serbo-Croatian Cyrillic
+82	hand	roka	ɾùoka	Slovene
+82	hand	рука	rʊˈka	Belarusian
+82	hand	рука	rʊˈka	Russian
+82	hand	рука	rʊˈka	Rusyn
+82	hand	рука	rʊˈka	Ukrainian
+83	wing	wing	wɪŋ	English
+83	wing	крило	kriˈlɔ	Old Church Slavonic
+83	wing	křídlo	kriːdlo	Czech
+83	wing	skrzydło	ˈskʂɨdwɔ	Polish
+83	wing	krídlo	ˈkriːdɫɔ	Slovak
+83	wing	kśidło	ˈkɕidwɔ	Lower Sorbian
+83	wing	křidło	None	Upper Sorbian
+83	wing	крило	kriˈlɔ	Bulgarian
+83	wing	крило	kriˈlɔ	Macedonian
+83	wing	krilo	krǐːlo	Serbo-Croatian Latin
+83	wing	крило	kriˈlɔ	Serbo-Croatian Cyrillic
+83	wing	krilo	krǐːlo	Slovene
+83	wing	крыло	krɨˈlo	Belarusian
+83	wing	крыло	krɨˈlo	Russian
+83	wing	крыло	krɨˈlo	Rusyn
+83	wing	крило	kriˈlɔ	Ukrainian
+84	belly	belly	bɛli	English
+84	belly	чрѣво	None	Old Church Slavonic
+84	belly	břicho	None	Czech
+84	belly	brzuch	bʐux	Polish
+84	belly	brucho	ˈbruxɔ	Slovak
+84	belly	brjuch	brʲux	Lower Sorbian
+84	belly	brjuch	brʲux	Upper Sorbian
+84	belly	корем	koˈrɛm	Bulgarian
+84	belly	стомак	ˈstɔmak	Macedonian
+84	belly	trbuh	třbux	Serbo-Croatian Latin
+84	belly	трбух	třbux	Serbo-Croatian Cyrillic
+84	belly	trebuh	ˈtrèːbux	Slovene
+84	belly	жывот	None	Belarusian
+84	belly	живот	ʒiˈvɔt	Russian
+84	belly	черево	None	Rusyn
+84	belly	живіт	None	Ukrainian
+85	guts	guts	ɡʌts	English
+85	guts	ѫтроба	None	Old Church Slavonic
+85	guts	vnitřnosti	None	Czech
+85	guts	wnętrzności	vnɛnˈtʂnɔɕtɕi	Polish
+85	guts	vnútornosti	ˈvnuːtɔrnɔsc	Slovak
+85	guts	crjowo	ˈtsrʲowɔ	Lower Sorbian
+85	guts	črjewa	None	Upper Sorbian
+85	guts	вътрешности	None	Bulgarian
+85	guts	црева	ˈtsrɛva	Macedonian
+85	guts	creva	None	Serbo-Croatian Latin
+85	guts	црева	ˈtsrɛva	Serbo-Croatian Cyrillic
+85	guts	drobovje	None	Slovene
+85	guts	вантробы	None	Belarusian
+85	guts	внутренности	ˈvnutrʲɪnːəsʲtʲɪ	Russian
+85	guts	кышкы	None	Rusyn
+85	guts	нутрощі	None	Ukrainian
+86	neck	neck	nɛk	English
+86	neck	шїѧ	None	Old Church Slavonic
+86	neck	krk	krk	Czech
+86	neck	szyja	ˈʂɨja	Polish
+86	neck	krk	krk	Slovak
+86	neck	šyja	ˈʃɨja	Lower Sorbian
+86	neck	šija	ʃîja	Upper Sorbian
+86	neck	врат	vrat	Bulgarian
+86	neck	врат	vrat	Macedonian
+86	neck	vrat	vrɑt	Serbo-Croatian Latin
+86	neck	врат	vrat	Serbo-Croatian Cyrillic
+86	neck	vrat	vrɑt	Slovene
+86	neck	шыя	None	Belarusian
+86	neck	шея	ˈʂɛjə	Russian
+86	neck	шыя	None	Rusyn
+86	neck	шия	ˈʃijə	Ukrainian
+87	back	back	bæk	English
+87	back	хребетъ	None	Old Church Slavonic
+87	back	záda	None	Czech
+87	back	plecy	ˈplɛtsɨ	Polish
+87	back	chrbát	ˈxrbaːt	Slovak
+87	back	kśebjat	ˈkɕebʲat	Lower Sorbian
+87	back	chribjet	None	Upper Sorbian
+87	back	гръб	ɡrɤp	Bulgarian
+87	back	грб	ɡrp	Macedonian
+87	back	leđa	lěːdʑa	Serbo-Croatian Latin
+87	back	леђа	lěːdʑa	Serbo-Croatian Cyrillic
+87	back	hrbet	ˈxərbət	Slovene
+87	back	спіна	None	Belarusian
+87	back	спина	spʲɪˈna	Russian
+87	back	хырбет	None	Rusyn
+87	back	спина	spʲɪˈna	Ukrainian
+88	breast	breast	bɹɛst	English
+88	breast	прьси	None	Old Church Slavonic
+88	breast	prs	prs	Czech
+88	breast	pierś	pʲjɛrɕ	Polish
+88	breast	prsia	ˈprsia	Slovak
+88	breast	bok	bɒk	Lower Sorbian
+88	breast	hrudź	None	Upper Sorbian
+88	breast	гръд	ɡrɤt	Bulgarian
+88	breast	града	ɡrəˈdɤ	Macedonian
+88	breast	prsa	prsa	Serbo-Croatian Latin
+88	breast	прса	prsa	Serbo-Croatian Cyrillic
+88	breast	prsi	prsi	Slovene
+88	breast	грудзі	None	Belarusian
+88	breast	грудь	ɡrutʲ	Russian
+88	breast	груди	ˈɡrudʲɪ	Rusyn
+88	breast	груди	ˈɡrudʲɪ	Ukrainian
+89	heart	heart	hɑːt	English
+89	heart	срьдьцє	None	Old Church Slavonic
+89	heart	srdce	srttsɛ	Czech
+89	heart	serce	ˈsɛrtsɛ	Polish
+89	heart	srdce	srttsɛ	Slovak
+89	heart	wutšoba	ˈutʃɔba	Lower Sorbian
+89	heart	wutroba	None	Upper Sorbian
+89	heart	сърце	sərˈtsɛ	Bulgarian
+89	heart	срце	ˈsrtsɛ	Macedonian
+89	heart	srce	sȓtse	Serbo-Croatian Latin
+89	heart	срце	ˈsrtsɛ	Serbo-Croatian Cyrillic
+89	heart	srce	sȓtse	Slovene
+89	heart	сэрца	None	Belarusian
+89	heart	сердце	ˈsʲertsə	Russian
+89	heart	сердце	ˈsʲertsə	Rusyn
+89	heart	серце	ˈsɛrtse	Ukrainian
+90	liver	liver	lɪvəɹ	English
+90	liver	None	None	Old Church Slavonic
+90	liver	játra	None	Czech
+90	liver	wątroba	vɔnˈtrɔba	Polish
+90	liver	pečeň	ˈpɛtʃɛɲ	Slovak
+90	liver	jětša	ˈjiɪtʃa	Lower Sorbian
+90	liver	jatra	None	Upper Sorbian
+90	liver	черен	ˈtʃɛrɛndrɔp	Bulgarian
+90	liver	џигер	ˈdʒiɡɛr	Macedonian
+90	liver	jetra	jêtra	Serbo-Croatian Latin
+90	liver	јетра	jêtra	Serbo-Croatian Cyrillic
+90	liver	jetra	jêtra	Slovene
+90	liver	печань	None	Belarusian
+90	liver	печень	ˈpʲetɕɪnʲ	Russian
+90	liver	печунка	None	Rusyn
+90	liver	печінка	None	Ukrainian
+91	to	to	dɹɪŋk	English
+91	to	пити	ˈpiti	Old Church Slavonic
+91	to	pít	piːt	Czech
+91	to	pić	pʲitɕ	Polish
+91	to	piť	ˈpic	Slovak
+91	to	piś	pʲiɕ	Lower Sorbian
+91	to	pić	pʲitɕ	Upper Sorbian
+91	to	пия	ˈpijə	Bulgarian
+91	to	пие	ˈpiɛ	Macedonian
+91	to	piti	ˈpiti	Serbo-Croatian Latin
+91	to	пити	ˈpiti	Serbo-Croatian Cyrillic
+91	to	piti	ˈpiti	Slovene
+91	to	піць	None	Belarusian
+91	to	пить	pʲitʲ	Russian
+91	to	пити	ˈpiti	Rusyn
+91	to	пити	ˈpiti	Ukrainian
+92	to	to	iːt	English
+92	to	ꙗсти	None	Old Church Slavonic
+92	to	jíst	jist	Czech
+92	to	jeść	jɛɕtɕ	Polish
+92	to	jesť	ˈjɛsc	Slovak
+92	to	jěsć	jiɪstɕ	Lower Sorbian
+92	to	jěsć	jiɪstɕ	Upper Sorbian
+92	to	храня	None	Bulgarian
+92	to	јаде	ˈjadɛ	Macedonian
+92	to	jesti	jêsti	Serbo-Croatian Latin
+92	to	јести	jêsti	Serbo-Croatian Cyrillic
+92	to	jesti	jêsti	Slovene
+92	to	есці	None	Belarusian
+92	to	есть	jesʲtʲ	Russian
+92	to	їсти	ˈjistɪ	Rusyn
+92	to	їсти	ˈjistɪ	Ukrainian
+93	to	to	baɪt	English
+93	to	хапати	None	Old Church Slavonic
+93	to	kousat	None	Czech
+93	to	gryźć	ɡrɨɕtɕ	Polish
+93	to	hrýzť	ˈɦriːsc	Slovak
+93	to	kusaś	ˈkusaɕ	Lower Sorbian
+93	to	kusać	None	Upper Sorbian
+93	to	хапя	ˈxapʲə	Bulgarian
+93	to	каса	kaˈsa	Macedonian
+93	to	gristi	ɡrîsti	Serbo-Croatian Latin
+93	to	гристи	ɡrîsti	Serbo-Croatian Cyrillic
+93	to	gristi	ɡrîsti	Slovene
+93	to	кусаць	None	Belarusian
+93	to	грызть	ɡrɨsʲtʲ	Russian
+93	to	кусати	None	Rusyn
+93	to	кусати	None	Ukrainian
+94	to	to	sʌk	English
+94	to	съсати	None	Old Church Slavonic
+94	to	sát	saːtˀ	Czech
+94	to	ssać	ssatɕ	Polish
+94	to	sať	ˈsac	Slovak
+94	to	cycaś	ˈtsɨtsaɕ	Lower Sorbian
+94	to	cycać	None	Upper Sorbian
+94	to	суча	sʊˈtɕa	Bulgarian
+94	to	цица	ˈtsitsə	Macedonian
+94	to	sisati	sîsati	Serbo-Croatian Latin
+94	to	сисати	sîsati	Serbo-Croatian Cyrillic
+94	to	sesati	None	Slovene
+94	to	сасаць	None	Belarusian
+94	to	сосать	sɐˈsatʲ	Russian
+94	to	ссати	None	Rusyn
+94	to	смоктати	None	Ukrainian
+95	to	to	ˈspɪt	English
+95	to	пльвати	None	Old Church Slavonic
+95	to	plivat	None	Czech
+95	to	pluć	None	Polish
+95	to	pľuvať	None	Slovak
+95	to	pluwaś	ˈpluwaɕ	Lower Sorbian
+95	to	pluwać	None	Upper Sorbian
+95	to	плюя	plʲʉˈja	Bulgarian
+95	to	плука	ˈpɫuka	Macedonian
+95	to	pljuvati	pʎûʋati	Serbo-Croatian Latin
+95	to	пљувати	pʎûʋati	Serbo-Croatian Cyrillic
+95	to	pljuvati	pʎûʋati	Slovene
+95	to	пляваць	None	Belarusian
+95	to	плевать	plʲɪˈvatʲ	Russian
+95	to	плювати	None	Rusyn
+95	to	плювати	None	Ukrainian
+96	to	to	ˈvɒmɪt	English
+96	to	бльвати	None	Old Church Slavonic
+96	to	zvracet	None	Czech
+96	to	wymiotować	vɨmjɔˈtɔvatɕ	Polish
+96	to	zvracať	None	Slovak
+96	to	bluwaś	ˈbluwaɕ	Lower Sorbian
+96	to	wróćeć	None	Upper Sorbian
+96	to	повръщам	None	Bulgarian
+96	to	повраќа	ˈpɔvraca	Macedonian
+96	to	povraćati	pǒʋratɕati	Serbo-Croatian Latin
+96	to	повраћати	pǒʋratɕati	Serbo-Croatian Cyrillic
+96	to	bruhati	None	Slovene
+96	to	ванітаваць	None	Belarusian
+96	to	рвать	rvatʲ	Russian
+96	to	блювати	None	Rusyn
+96	to	блювати	None	Ukrainian
+97	to	to	bləʊ	English
+97	to	доухати	None	Old Church Slavonic
+97	to	foukat	ʹfoukat	Czech
+97	to	wiać	vʲatɕ	Polish
+97	to	fúkať	ˈfuːkac	Slovak
+97	to	duś	duɕ	Lower Sorbian
+97	to	duć	None	Upper Sorbian
+97	to	духам	ˈduxəm	Bulgarian
+97	to	дува	ˈduva	Macedonian
+97	to	duvati	dǔːʋati	Serbo-Croatian Latin
+97	to	дувати	dǔːʋati	Serbo-Croatian Cyrillic
+97	to	pihati	None	Slovene
+97	to	дзьмуць	None	Belarusian
+97	to	дуть	dutʲ	Russian
+97	to	дути	None	Rusyn
+97	to	дмухати	None	Ukrainian
+98	to	to	bɹiːð	English
+98	to	дꙑхати	None	Old Church Slavonic
+98	to	dýchat	ˈdixat	Czech
+98	to	oddychać	ɔdˈdɨxatɕ	Polish
+98	to	dýchať	ˈdiːxac	Slovak
+98	to	dychaś	ˈdɨxaɕ	Lower Sorbian
+98	to	dychać	ˈdɨxatɕ	Upper Sorbian
+98	to	дишам	None	Bulgarian
+98	to	дише	None	Macedonian
+98	to	disati	None	Serbo-Croatian Latin
+98	to	дисати	None	Serbo-Croatian Cyrillic
+98	to	dihati	None	Slovene
+98	to	дыхаць	None	Belarusian
+98	to	дышать	dɨˈʂatʲ	Russian
+98	to	дыхати	None	Rusyn
+98	to	дихати	None	Ukrainian
+99	to	to	laːf	English
+99	to	смиꙗти	None	Old Church Slavonic
+99	to	smát	None	Czech
+99	to	śmiać	ɕmʲatɕɕɛ	Polish
+99	to	smiať	ˈsmiacsa	Slovak
+99	to	smjaś	None	Lower Sorbian
+99	to	smjeć	None	Upper Sorbian
+99	to	смея	None	Bulgarian
+99	to	смее	None	Macedonian
+99	to	smejati	smějati	Serbo-Croatian Latin
+99	to	смејати	smějati	Serbo-Croatian Cyrillic
+99	to	smejati	smějati	Slovene
+99	to	смяяцца	None	Belarusian
+99	to	смеяться	smʲɪˈjatsːə	Russian
+99	to	сміяти	None	Rusyn
+99	to	сміятися	None	Ukrainian
+100	to	to	siː	English
+100	to	видѣти	None	Old Church Slavonic
+100	to	vidět	ˈvɪɟɛt	Czech
+100	to	widzieć	ˈvidʑɛtɕ	Polish
+100	to	vidieť	ˈviɟiɛc	Slovak
+100	to	wiźeś	ˈvʲiʑeɕ	Lower Sorbian
+100	to	widźeć	None	Upper Sorbian
+100	to	виждам	ˈviʒdəm	Bulgarian
+100	to	гледа	None	Macedonian
+100	to	videti	ʋîdeti	Serbo-Croatian Latin
+100	to	видети	ʋîdeti	Serbo-Croatian Cyrillic
+100	to	videti	ʋîdeti	Slovene
+100	to	бачыць	None	Belarusian
+100	to	видеть	ˈvʲidʲɪtʲ	Russian
+100	to	відїти	None	Rusyn
+100	to	бачити	ˈbɑtʃete	Ukrainian
+101	to	to	hɪəɹ	English
+101	to	слꙑшати	None	Old Church Slavonic
+101	to	slyšet	ˈslɪʃɛt	Czech
+101	to	słyszeć	ˈswɨʂɛtɕ	Polish
+101	to	mať	None	Slovak
+101	to	słyšaś	ˈswɨʃaɕ	Lower Sorbian
+101	to	słyšeć	None	Upper Sorbian
+101	to	чувам	ˈtʃuvəm	Bulgarian
+101	to	слуша	ˈsɫuʃə	Macedonian
+101	to	slušati	slûʃati	Serbo-Croatian Latin
+101	to	слушати	slûʃati	Serbo-Croatian Cyrillic
+101	to	slišati	None	Slovene
+101	to	чуць	None	Belarusian
+101	to	слышать	ˈslɨʂətʲ	Russian
+101	to	чути	ˈtʃuti	Rusyn
+101	to	чути	ˈtʃuti	Ukrainian
+102	to	to	nəʊ	English
+102	to	вѣдѣти	None	Old Church Slavonic
+102	to	vědět	ˈvjɛɟɛt	Czech
+102	to	wiedzieć	ˈvʲjɛdʑɛtɕ	Polish
+102	to	vedieť	ˈvɛɟiɛc	Slovak
+102	to	wěźeś	ˈvʲiɪʑeɕ	Lower Sorbian
+102	to	wědźeć	None	Upper Sorbian
+102	to	зная	ˈznajə	Bulgarian
+102	to	знае	None	Macedonian
+102	to	znati	znâti	Serbo-Croatian Latin
+102	to	знати	ˈznatʲɪ	Serbo-Croatian Cyrillic
+102	to	vedeti	None	Slovene
+102	to	ведаць	None	Belarusian
+102	to	знать	znatʲ	Russian
+102	to	знати	ˈznatʲɪ	Rusyn
+102	to	знати	ˈznatʲɪ	Ukrainian
+103	to	to	θɪŋk	English
+103	to	мꙑслити	None	Old Church Slavonic
+103	to	myslet	ˈmɪslɛt	Czech
+103	to	myśleć	ˈmɨɕlɛtɕ	Polish
+103	to	myslieť	ˈmisliɛc	Slovak
+103	to	mysliś	ˈmɨslʲiɕ	Lower Sorbian
+103	to	myslić	None	Upper Sorbian
+103	to	мисля	None	Bulgarian
+103	to	мисли	None	Macedonian
+103	to	misliti	mîsliti	Serbo-Croatian Latin
+103	to	мислити	mîsliti	Serbo-Croatian Cyrillic
+103	to	misliti	mîsliti	Slovene
+103	to	думаць	None	Belarusian
+103	to	думать	ˈdumətʲ	Russian
+103	to	думати	None	Rusyn
+103	to	думати	None	Ukrainian
+104	to	to	smɛl	English
+104	to	None	None	Old Church Slavonic
+104	to	čichat	None	Czech
+104	to	wąchać	ˈvɔŋxatɕ	Polish
+104	to	cítiť	None	Slovak
+104	to	cuś	tsuɕ	Lower Sorbian
+104	to	čuć	None	Upper Sorbian
+104	to	помирисвам	None	Bulgarian
+104	to	мириса	None	Macedonian
+104	to	mirisati	mirǐsati	Serbo-Croatian Latin
+104	to	мирисати	mirǐsati	Serbo-Croatian Cyrillic
+104	to	duhati	dǔːxati	Slovene
+104	to	нюхаць	None	Belarusian
+104	to	нюхать	ˈnʲuxətʲ	Russian
+104	to	нюхати	None	Rusyn
+104	to	нюхати	None	Ukrainian
+105	to	to	fɪə	English
+105	to	боꙗти	None	Old Church Slavonic
+105	to	bát	None	Czech
+105	to	bać	ˈbatɕɕɛ	Polish
+105	to	báť	ˈbaːcsa	Slovak
+105	to	bójaś	ˈbejaɕ	Lower Sorbian
+105	to	bojeć	None	Upper Sorbian
+105	to	боя	None	Bulgarian
+105	to	плаши	ˈpɫaʃi	Macedonian
+105	to	bojati	bǒjati	Serbo-Croatian Latin
+105	to	бојати	bǒjati	Serbo-Croatian Cyrillic
+105	to	bati	ˈbati	Slovene
+105	to	баяцца	None	Belarusian
+105	to	бояться	bɐˈjatsːə	Russian
+105	to	бояти	None	Rusyn
+105	to	боятися	None	Ukrainian
+106	to	to	sliːp	English
+106	to	съпати	None	Old Church Slavonic
+106	to	spát	spat	Czech
+106	to	spać	spatɕ	Polish
+106	to	spať	ˈspac	Slovak
+106	to	spaś	ˈspaɕ	Lower Sorbian
+106	to	spać	spatɕ	Upper Sorbian
+106	to	спя	spʲɤ	Bulgarian
+106	to	спие	None	Macedonian
+106	to	spavati	spǎːʋati	Serbo-Croatian Latin
+106	to	спавати	spǎːʋati	Serbo-Croatian Cyrillic
+106	to	spati	ˈspati	Slovene
+106	to	спаць	None	Belarusian
+106	to	спать	spatʲ	Russian
+106	to	спати	spâti	Rusyn
+106	to	спати	spâti	Ukrainian
+107	to	to	lɪv	English
+107	to	жити	None	Old Church Slavonic
+107	to	žít	ʒit	Czech
+107	to	żyć	ʐɨtɕ	Polish
+107	to	žiť	ˈʒic	Slovak
+107	to	žywy	ˈʒɨwɨ	Lower Sorbian
+107	to	živy	None	Upper Sorbian
+107	to	живея	ʒiˈvɛjə	Bulgarian
+107	to	живее	ʒiˈweː	Macedonian
+107	to	živeti	ʒǐːʋeti	Serbo-Croatian Latin
+107	to	живети	ʒǐːʋeti	Serbo-Croatian Cyrillic
+107	to	živeti	ʒǐːʋeti	Slovene
+107	to	жыць	None	Belarusian
+107	to	жить	ʐɨtʲ	Russian
+107	to	жыти	None	Rusyn
+107	to	жити	None	Ukrainian
+108	to	to	daɪ	English
+108	to	оумрѣти	None	Old Church Slavonic
+108	to	umírat	None	Czech
+108	to	umierać	None	Polish
+108	to	umierať	None	Slovak
+108	to	wumrěś	ˈumrʲeɕ	Lower Sorbian
+108	to	wumrěć	None	Upper Sorbian
+108	to	умирам	oˈmiɾəm	Bulgarian
+108	to	умира	oˈmiɾə	Macedonian
+108	to	umreti	ǔmreːti	Serbo-Croatian Latin
+108	to	умрети	ǔmreːti	Serbo-Croatian Cyrillic
+108	to	umreti	ǔmreːti	Slovene
+108	to	паміраць	None	Belarusian
+108	to	умирать	ʊmʲɪˈratʲ	Russian
+108	to	умерати	None	Rusyn
+108	to	помирати	None	Ukrainian
+109	to	to	kɪl	English
+109	to	оубити	None	Old Church Slavonic
+109	to	zabít	zabit	Czech
+109	to	zabić	ˈzabitɕ	Polish
+109	to	zabiť	ˈzabic	Slovak
+109	to	wusmjerśiś	ˈusmʲɛrɕiɕ	Lower Sorbian
+109	to	zabić	ˈzabitɕ	Upper Sorbian
+109	to	убивам	oˈbivəm	Bulgarian
+109	to	убива	oˈbivə	Macedonian
+109	to	ubiti	ǔbiti	Serbo-Croatian Latin
+109	to	убити	oˈbiti	Serbo-Croatian Cyrillic
+109	to	ubiti	ǔbiti	Slovene
+109	to	забіваць	None	Belarusian
+109	to	убивать	ʊbʲɪˈvatʲ	Russian
+109	to	забити	zǎbiti	Rusyn
+109	to	вбивати	None	Ukrainian
+110	to	to	faɪt	English
+110	to	брати	brâti	Old Church Slavonic
+110	to	bojovat	ˈbojovat	Czech
+110	to	walczyć	ˈvaltʂɨtɕ	Polish
+110	to	bojovať	ˈbɔjɔvac	Slovak
+110	to	wójowaś	ˈwejowaɕ	Lower Sorbian
+110	to	wojować	None	Upper Sorbian
+110	to	бия	None	Bulgarian
+110	to	бори	None	Macedonian
+110	to	boriti	bǒriti	Serbo-Croatian Latin
+110	to	борити	bǒriti	Serbo-Croatian Cyrillic
+110	to	boriti	bǒriti	Slovene
+110	to	біцца	None	Belarusian
+110	to	бороться	bɐˈrotsːə	Russian
+110	to	боёвати	None	Rusyn
+110	to	боротися	None	Ukrainian
+111	to	to	hʌnt	English
+111	to	ловити	lǒʋiti	Old Church Slavonic
+111	to	lovit	loˈvit	Czech
+111	to	polować	None	Polish
+111	to	loviť	ˈɫɔvic	Slovak
+111	to	góńtwowaś	ˈɡɨnʲtwowaɕ	Lower Sorbian
+111	to	hońtwjerić	None	Upper Sorbian
+111	to	ловувам	None	Bulgarian
+111	to	ловува	None	Macedonian
+111	to	loviti	lǒʋiti	Serbo-Croatian Latin
+111	to	ловити	lǒʋiti	Serbo-Croatian Cyrillic
+111	to	loviti	lǒʋiti	Slovene
+111	to	паляваць	None	Belarusian
+111	to	ловить	lɐˈvʲitʲ	Russian
+111	to	ловити	lǒʋiti	Rusyn
+111	to	полювати	None	Ukrainian
+112	to	to	hɪt	English
+112	to	оударити	None	Old Church Slavonic
+112	to	udeřit	None	Czech
+112	to	uderzyć	None	Polish
+112	to	udrieť	ˈudriɛc	Slovak
+112	to	biś	bʲiɕ	Lower Sorbian
+112	to	bić	bʲitɕ	Upper Sorbian
+112	to	удрям	None	Bulgarian
+112	to	удира	None	Macedonian
+112	to	udariti	ǔdariti	Serbo-Croatian Latin
+112	to	ударити	ǔdariti	Serbo-Croatian Cyrillic
+112	to	udariti	ǔdariti	Slovene
+112	to	ударыць	None	Belarusian
+112	to	ударить	ʊˈdarʲɪtʲ	Russian
+112	to	ударити	ǔdariti	Rusyn
+112	to	вдарити	None	Ukrainian
+113	to	to	kʌt	English
+113	to	сѣщи	None	Old Church Slavonic
+113	to	řezat	None	Czech
+113	to	ciąć	tɕɔɲtɕ	Polish
+113	to	ťať	None	Slovak
+113	to	rězaś	ˈrʲiɪzaɕ	Lower Sorbian
+113	to	rězać	None	Upper Sorbian
+113	to	режа	ˈrʲeʐə	Bulgarian
+113	to	сече	sɛˈtʃɛ	Macedonian
+113	to	rezati	rêzati	Serbo-Croatian Latin
+113	to	резати	rêzati	Serbo-Croatian Cyrillic
+113	to	rezati	rêzati	Slovene
+113	to	рэзаць	None	Belarusian
+113	to	резать	ˈrʲezətʲ	Russian
+113	to	рїзати	None	Rusyn
+113	to	різати	None	Ukrainian
+114	to	to	splɪt	English
+114	to	None	None	Old Church Slavonic
+114	to	rozdělit	None	Czech
+114	to	rozdzielić	None	Polish
+114	to	deliť	None	Slovak
+114	to	kłojś	kwɔjɕ	Lower Sorbian
+114	to	šćěpić	None	Upper Sorbian
+114	to	цепя	None	Bulgarian
+114	to	поделува	None	Macedonian
+114	to	pod(ij)eliti	podjěːliti	Serbo-Croatian Latin
+114	to	под(иј)елити	podjěːliti	Serbo-Croatian Cyrillic
+114	to	razcepiti	None	Slovene
+114	to	разьдзяляць	None	Belarusian
+114	to	разделить	rəzʲdʲɪˈlʲitʲ	Russian
+114	to	роздїлити	None	Rusyn
+114	to	розділяти	None	Ukrainian
+115	to	to	stæb	English
+115	to	бости	bôsti	Old Church Slavonic
+115	to	bodnout	None	Czech
+115	to	pchnąć	None	Polish
+115	to	bodať	None	Slovak
+115	to	štapaś	ˈʃtapaɕ	Lower Sorbian
+115	to	štapać	None	Upper Sorbian
+115	to	промушвам	None	Bulgarian
+115	to	убодува	None	Macedonian
+115	to	ubosti	ǔbosti	Serbo-Croatian Latin
+115	to	убости	ǔbosti	Serbo-Croatian Cyrillic
+115	to	zabosti	zǎbosti	Slovene
+115	to	калоць	None	Belarusian
+115	to	бодать	bɐˈdatʲ	Russian
+115	to	колоти	kəlɐˈtʲi	Rusyn
+115	to	колоти	kəlɐˈtʲi	Ukrainian
+116	to	to	skɹætʃ	English
+116	to	чєсати	None	Old Church Slavonic
+116	to	škrábat	None	Czech
+116	to	drapać	ˈdrapatɕ	Polish
+116	to	škriabať	ˈʃkriabac	Slovak
+116	to	drapaś	ˈdrapaɕ	Lower Sorbian
+116	to	drapać	ˈdrapatɕ	Upper Sorbian
+116	to	чеша	None	Bulgarian
+116	to	гребе	ɡrɛˈbɛ	Macedonian
+116	to	češati	tʃěʃati	Serbo-Croatian Latin
+116	to	чешати	tʃěʃati	Serbo-Croatian Cyrillic
+116	to	škrabati	None	Slovene
+116	to	драпаць	None	Belarusian
+116	to	царапать	tsɐˈrapətʲ	Russian
+116	to	шкрябати	None	Rusyn
+116	to	дряпати	None	Ukrainian
+117	to	to	dɪɡ	English
+117	to	копати	kǒpati	Old Church Slavonic
+117	to	kopat	None	Czech
+117	to	kopać	None	Polish
+117	to	kopať	ˈkɔpac	Slovak
+117	to	ryś	rɨɕ	Lower Sorbian
+117	to	ryć	rɨtɕ	Upper Sorbian
+117	to	копая	kɐˈpajə	Bulgarian
+117	to	копа	kɐˈpa	Macedonian
+117	to	kopati	kǒpati	Serbo-Croatian Latin
+117	to	копати	kǒpati	Serbo-Croatian Cyrillic
+117	to	kopati	kǒpati	Slovene
+117	to	капаць	None	Belarusian
+117	to	копать	kɐˈpatʲ	Russian
+117	to	копати	kǒpati	Rusyn
+117	to	копати	kǒpati	Ukrainian
+118	to	to	swɪm	English
+118	to	плавати	None	Old Church Slavonic
+118	to	plavat	ˈplavat	Czech
+118	to	pływać	ˈpwɨvatɕ	Polish
+118	to	plávať	ˈpɫaːvac	Slovak
+118	to	plěś	plʲiɪɕ	Lower Sorbian
+118	to	płuwać	None	Upper Sorbian
+118	to	плувам	None	Bulgarian
+118	to	плива	None	Macedonian
+118	to	plivati	plîʋati	Serbo-Croatian Latin
+118	to	пливати	plîʋati	Serbo-Croatian Cyrillic
+118	to	plavati	ˈplaːʋati	Slovene
+118	to	плыць	None	Belarusian
+118	to	плыть	plɨtʲ	Russian
+118	to	плавати	None	Rusyn
+118	to	пливти	None	Ukrainian
+119	to	to	flaɪ	English
+119	to	лєтѣти	None	Old Church Slavonic
+119	to	letět	ˈlɛcɛt	Czech
+119	to	lecieć	None	Polish
+119	to	letieť	ˈlɛciɛc	Slovak
+119	to	leśeś	ˈleɕeɕ	Lower Sorbian
+119	to	lećeć	None	Upper Sorbian
+119	to	летя	lɛˈtʲɤ	Bulgarian
+119	to	лета	lʲɪˈta	Macedonian
+119	to	leteti	lěteti	Serbo-Croatian Latin
+119	to	летети	lěteti	Serbo-Croatian Cyrillic
+119	to	leteti	lěteti	Slovene
+119	to	лятаць	None	Belarusian
+119	to	летать	lʲɪˈtatʲ	Russian
+119	to	летїти	None	Rusyn
+119	to	летіти	None	Ukrainian
+120	to	to	wɔːk	English
+120	to	ходити	xǒditi	Old Church Slavonic
+120	to	jít	jit	Czech
+120	to	iść	iɕtɕ	Polish
+120	to	ísť	ˈiːsc	Slovak
+120	to	hyś	ɨɕ	Lower Sorbian
+120	to	hić	None	Upper Sorbian
+120	to	вървя	vərˈvʲɤ	Bulgarian
+120	to	шета	None	Macedonian
+120	to	hodati	xǒːdati	Serbo-Croatian Latin
+120	to	ходати	xǒːdati	Serbo-Croatian Cyrillic
+120	to	hoditi	xǒditi	Slovene
+120	to	ісці	None	Belarusian
+120	to	ходить	xɐˈdʲitʲ	Russian
+120	to	ходити	xǒditi	Rusyn
+120	to	йти	None	Ukrainian
+121	to	to	kʌm	English
+121	to	None	None	Old Church Slavonic
+121	to	přijít	ˈprɪjiːt	Czech
+121	to	przychodzić	pʂɨˈxɔdʑitɕ	Polish
+121	to	prísť	ˈpriːsc	Slovak
+121	to	pśiś	pɕiɕ	Lower Sorbian
+121	to	přińć	None	Upper Sorbian
+121	to	идвам	None	Bulgarian
+121	to	доаѓа	None	Macedonian
+121	to	doći	dôːtɕi	Serbo-Croatian Latin
+121	to	доћи	dôːtɕi	Serbo-Croatian Cyrillic
+121	to	priti	ˈprìːti	Slovene
+121	to	прыходзіць	None	Belarusian
+121	to	приходить	prʲɪxɐˈdʲitʲ	Russian
+121	to	прийти	prʲɪjˈtʲi	Rusyn
+121	to	приходити	None	Ukrainian
+122	to	to	laɪ	English
+122	to	лєжати	lěʒati	Old Church Slavonic
+122	to	ležet	ˈlɛʒɛt	Czech
+122	to	leżeć	ˈlɛʐɛtɕ	Polish
+122	to	ležať	None	Slovak
+122	to	lažaś	ˈlaʒaɕ	Lower Sorbian
+122	to	ležeć	None	Upper Sorbian
+122	to	лежа	lɛˈʒɤ	Bulgarian
+122	to	леже	None	Macedonian
+122	to	ležati	lěʒati	Serbo-Croatian Latin
+122	to	лежати	lěʒati	Serbo-Croatian Cyrillic
+122	to	ležati	lěʒati	Slovene
+122	to	ляжаць	None	Belarusian
+122	to	лежать	lʲɪˈʐatʲ	Russian
+122	to	лежати	lěʒati	Rusyn
+122	to	лежати	lěʒati	Ukrainian
+123	to	to	sɪt	English
+123	to	сѣдѣти	None	Old Church Slavonic
+123	to	sedět	ˈsɛɟɛt	Czech
+123	to	siedzieć	ˈɕedʑetɕ	Polish
+123	to	sedieť	None	Slovak
+123	to	sejźeś	ˈsejʑeɕ	Lower Sorbian
+123	to	sedźeć	None	Upper Sorbian
+123	to	седя	sɛˈdʲɤ	Bulgarian
+123	to	седи	sɛˈdi	Macedonian
+123	to	s(j)esti	sjêsti	Serbo-Croatian Latin
+123	to	с(ј)ести	sêsti	Serbo-Croatian Cyrillic
+123	to	sesti	sêsti	Slovene
+123	to	сядзець	None	Belarusian
+123	to	сидеть	sʲɪˈdʲetʲ	Russian
+123	to	сїдїти	None	Rusyn
+123	to	сидіти	None	Ukrainian
+124	to	to	stænd	English
+124	to	стати	ˈstatʲɪ	Old Church Slavonic
+124	to	stát	staːt	Czech
+124	to	stać	statɕ	Polish
+124	to	stáť	ˈstaːc	Slovak
+124	to	stojaś	ˈstɔjaɕ	Lower Sorbian
+124	to	stać	statɕ	Upper Sorbian
+124	to	стоя	ˈstojə	Bulgarian
+124	to	стои	None	Macedonian
+124	to	stati	ˈstati	Serbo-Croatian Latin
+124	to	стати	ˈstatʲɪ	Serbo-Croatian Cyrillic
+124	to	stati	ˈstati	Slovene
+124	to	стаяць	None	Belarusian
+124	to	стоять	stɐˈjætʲ	Russian
+124	to	стояти	None	Rusyn
+124	to	стати	ˈstatʲɪ	Ukrainian
+125	to	to	tɜːn	English
+125	to	None	None	Old Church Slavonic
+125	to	obrátit	None	Czech
+125	to	obracać	ɔˈbratsatɕ	Polish
+125	to	otočiť	None	Slovak
+125	to	wobrośiś	ˈɔbrɔɕiɕ	Lower Sorbian
+125	to	wobroćić	None	Upper Sorbian
+125	to	завивам	None	Bulgarian
+125	to	врти	None	Macedonian
+125	to	skrenuti	skrěːnuti	Serbo-Croatian Latin
+125	to	скренути	skrěːnuti	Serbo-Croatian Cyrillic
+125	to	obrniti	None	Slovene
+125	to	паварочвацца	None	Belarusian
+125	to	вращать	vrɐˈɕːætʲ	Russian
+125	to	обернути	None	Rusyn
+125	to	повертати	None	Ukrainian
+126	to	to	fɔːl	English
+126	to	пасти	pɐˈsʲtʲi	Old Church Slavonic
+126	to	padat	ˈpadat	Czech
+126	to	padać	ˈpadatɕ	Polish
+126	to	padať	None	Slovak
+126	to	padaś	ˈpadaɕ	Lower Sorbian
+126	to	padać	ˈpadatɕ	Upper Sorbian
+126	to	падам	ˈpadəm	Bulgarian
+126	to	паѓа	None	Macedonian
+126	to	pasti	pâsti	Serbo-Croatian Latin
+126	to	пасти	pɐˈsʲtʲi	Serbo-Croatian Cyrillic
+126	to	padati	pâdati	Slovene
+126	to	упасьці	None	Belarusian
+126	to	падать	ˈpadətʲ	Russian
+126	to	падати	pâdati	Rusyn
+126	to	впасти	None	Ukrainian
+127	to	to	ɡɪv	English
+127	to	дати	dâti	Old Church Slavonic
+127	to	dát	dat	Czech
+127	to	dać	datɕ	Polish
+127	to	dať	ˈdac	Slovak
+127	to	dawaś	ˈdawaɕ	Lower Sorbian
+127	to	dać	datɕ	Upper Sorbian
+127	to	давам	ˈdavəm	Bulgarian
+127	to	дава	ˈdavə	Macedonian
+127	to	dati	ˈdati	Serbo-Croatian Latin
+127	to	дати	dâti	Serbo-Croatian Cyrillic
+127	to	dajati	None	Slovene
+127	to	даваць	None	Belarusian
+127	to	давать	dɐˈvatʲ	Russian
+127	to	дати	dâti	Rusyn
+127	to	давати	dǎːʋati	Ukrainian
+128	to	to	həʊld	English
+128	to	дрьжати	None	Old Church Slavonic
+128	to	držet	drʒɛt	Czech
+128	to	trzymać	ˈtʂʂɨmatɕ	Polish
+128	to	držať	ˈdrʒac	Slovak
+128	to	źaržaś	ˈʑarʒaɕ	Lower Sorbian
+128	to	dźeržeć	None	Upper Sorbian
+128	to	държа	None	Bulgarian
+128	to	држи	None	Macedonian
+128	to	držati	dřʒati	Serbo-Croatian Latin
+128	to	држати	dřʒati	Serbo-Croatian Cyrillic
+128	to	držati	dřʒati	Slovene
+128	to	трымаць	None	Belarusian
+128	to	держать	dʲɪrˈʐatʲ	Russian
+128	to	держати	None	Rusyn
+128	to	тримати	None	Ukrainian
+129	to	to	skwiːz	English
+129	to	None	None	Old Church Slavonic
+129	to	stlačit	None	Czech
+129	to	ściskać	ˈɕtɕiskatɕ	Polish
+129	to	tlačiť	ˈtɫatʃic	Slovak
+129	to	tłocyś	ˈtwɔtsɨɕ	Lower Sorbian
+129	to	tłóčić	None	Upper Sorbian
+129	to	стискам	None	Bulgarian
+129	to	стиска	stîska	Macedonian
+129	to	stisnuti	stîsnuti	Serbo-Croatian Latin
+129	to	стиснути	stîsnuti	Serbo-Croatian Cyrillic
+129	to	stiskati	stǐːskati	Slovene
+129	to	сьціскаць	None	Belarusian
+129	to	сжимать	ʐːɨˈmatʲ	Russian
+129	to	стисковати	None	Rusyn
+129	to	стискати	stǐːskati	Ukrainian
+130	to	to	ɹʌb	English
+130	to	трьти	None	Old Church Slavonic
+130	to	třít	triːt	Czech
+130	to	trzeć	tʂɛtɕ	Polish
+130	to	trieť	None	Slovak
+130	to	šurowaś	ˈʃurowaɕ	Lower Sorbian
+130	to	šudrować	None	Upper Sorbian
+130	to	трия	None	Bulgarian
+130	to	трие	None	Macedonian
+130	to	trljati	třːʎati	Serbo-Croatian Latin
+130	to	трљати	třːʎati	Serbo-Croatian Cyrillic
+130	to	treti	None	Slovene
+130	to	церці	None	Belarusian
+130	to	тереть	tʲɪˈrʲetʲ	Russian
+130	to	терти	None	Rusyn
+130	to	терти	None	Ukrainian
+131	to	to	wɒʃ	English
+131	to	мꙑти	None	Old Church Slavonic
+131	to	mýt	mit	Czech
+131	to	myć	mɨtɕ	Polish
+131	to	umývať	None	Slovak
+131	to	myś	mɨɕ	Lower Sorbian
+131	to	myć	mɨtɕ	Upper Sorbian
+131	to	мия	None	Bulgarian
+131	to	мие	None	Macedonian
+131	to	prati	prâti	Serbo-Croatian Latin
+131	to	прати	ˈprati	Serbo-Croatian Cyrillic
+131	to	umivati	umǐːʋati	Slovene
+131	to	мыць	None	Belarusian
+131	to	мыть	mɨtʲ	Russian
+131	to	мыти	None	Rusyn
+131	to	мити	mîti	Ukrainian
+132	to	to	waɪp	English
+132	to	None	None	Old Church Slavonic
+132	to	utírat	None	Czech
+132	to	wycierać	vɨˈtɕɛratɕ	Polish
+132	to	utierať	None	Slovak
+132	to	trěś	tʲrʲiɪɕ	Lower Sorbian
+132	to	trěć	None	Upper Sorbian
+132	to	бърша	None	Bulgarian
+132	to	брише	None	Macedonian
+132	to	brisati	brîsati	Serbo-Croatian Latin
+132	to	брисати	brîsati	Serbo-Croatian Cyrillic
+132	to	brisati	brîsati	Slovene
+132	to	выціраць	None	Belarusian
+132	to	вытирать	vɨtʲɪˈratʲ	Russian
+132	to	утерати	None	Rusyn
+132	to	витирати	None	Ukrainian
+133	to	to	pʊl	English
+133	to	None	None	Old Church Slavonic
+133	to	tahat	None	Czech
+133	to	ciągnąć	ˈtɕɔŋɡnɔɲtɕ	Polish
+133	to	ťahať	None	Slovak
+133	to	śěgaś	ˈɕiɪɡaɕ	Lower Sorbian
+133	to	ćahać	None	Upper Sorbian
+133	to	дърпам	None	Bulgarian
+133	to	влече	None	Macedonian
+133	to	vući	ʋûːtɕi	Serbo-Croatian Latin
+133	to	вући	ʋûːtɕi	Serbo-Croatian Cyrillic
+133	to	vleči	ˈʋlɛtʃi	Slovene
+133	to	цягнуць	None	Belarusian
+133	to	тянуть	tʲɪˈnutʲ	Russian
+133	to	тягати	None	Rusyn
+133	to	тягнути	None	Ukrainian
+134	to	to	pʊʃ	English
+134	to	None	None	Old Church Slavonic
+134	to	tlačit	None	Czech
+134	to	pchać	pxatɕ	Polish
+134	to	tlačiť	ˈtɫatʃic	Slovak
+134	to	tłocyś	ˈtwɔtsɨɕ	Lower Sorbian
+134	to	tłóčić	None	Upper Sorbian
+134	to	натискам	ˈnatʲɪskəm	Bulgarian
+134	to	турка	ˈturkə	Macedonian
+134	to	gurati	ɡǔːrati	Serbo-Croatian Latin
+134	to	гурати	ɡǔːrati	Serbo-Croatian Cyrillic
+134	to	suniti	None	Slovene
+134	to	штурхаць	None	Belarusian
+134	to	толкать	tɐlˈkatʲ	Russian
+134	to	пхати	None	Rusyn
+134	to	штовхати	None	Ukrainian
+135	to	to	θɹəʊ	English
+135	to	None	None	Old Church Slavonic
+135	to	házet	None	Czech
+135	to	rzucać	ˈʐutsatɕ	Polish
+135	to	hodiť	None	Slovak
+135	to	chytaś	ˈxɨtaɕ	Lower Sorbian
+135	to	mjetać	None	Upper Sorbian
+135	to	хвърлям	None	Bulgarian
+135	to	фрла	None	Macedonian
+135	to	baciti	bǎːtsiti	Serbo-Croatian Latin
+135	to	бацити	bǎːtsiti	Serbo-Croatian Cyrillic
+135	to	metati	mětati	Slovene
+135	to	кідаць	None	Belarusian
+135	to	кидать	kʲɪˈdatʲ	Russian
+135	to	метати	mětati	Rusyn
+135	to	{l|uk|кидати}}	None	Ukrainian
+136	to	to	taɪ	English
+136	to	вѧзати	None	Old Church Slavonic
+136	to	vázat	None	Czech
+136	to	wiązać	None	Polish
+136	to	viazať	None	Slovak
+136	to	wězaś	ˈvʲiɪzaɕ	Lower Sorbian
+136	to	wjazać	None	Upper Sorbian
+136	to	връзвам	None	Bulgarian
+136	to	врзува	None	Macedonian
+136	to	vezati	ʋěːzati	Serbo-Croatian Latin
+136	to	везати	ʋěːzati	Serbo-Croatian Cyrillic
+136	to	vezati	ʋěːzati	Slovene
+136	to	вязаць	None	Belarusian
+136	to	вязать	vʲɪˈzatʲ	Russian
+136	to	вязати	None	Rusyn
+136	to	зaв'язати	None	Ukrainian
+137	to	to	səʊ	English
+137	to	None	None	Old Church Slavonic
+137	to	šít	None	Czech
+137	to	szyć	ʂɨtɕ	Polish
+137	to	šiť	None	Slovak
+137	to	šyś	ʃɨɕ	Lower Sorbian
+137	to	šić	None	Upper Sorbian
+137	to	шия	ˈʃijə	Bulgarian
+137	to	шие	ˈʃiɛ	Macedonian
+137	to	šiti	ʃîti	Serbo-Croatian Latin
+137	to	шити	ˈʃiti	Serbo-Croatian Cyrillic
+137	to	šivati	ʃǐːʋati	Slovene
+137	to	шыць	None	Belarusian
+137	to	шить	ʃitʲ	Russian
+137	to	шыти	None	Rusyn
+137	to	шити	ˈʃiti	Ukrainian
+138	to	to	kaʊnt	English
+138	to	None	None	Old Church Slavonic
+138	to	počítat	potʃitat	Czech
+138	to	liczyć	ˈlʲitʂɨtɕ	Polish
+138	to	počítať	None	Slovak
+138	to	licyś	ˈlʲitsɨɕ	Lower Sorbian
+138	to	ličić	None	Upper Sorbian
+138	to	броя	None	Bulgarian
+138	to	брои	None	Macedonian
+138	to	brojati	brǒjati	Serbo-Croatian Latin
+138	to	бројати	brǒjati	Serbo-Croatian Cyrillic
+138	to	šteti	ˈʃtɛti	Slovene
+138	to	лічыць	None	Belarusian
+138	to	считать	ɕːɪˈtatʲ	Russian
+138	to	раховати	None	Rusyn
+138	to	рахувати	None	Ukrainian
+139	to	to	seɪ	English
+139	to	рєщи	None	Old Church Slavonic
+139	to	mluvit	ˈmluvɪt	Czech
+139	to	mówić	ˈmuvitɕ	Polish
+139	to	hovoriť	ˈɦɔvɔric	Slovak
+139	to	groniś	ˈɡrɔnʲiɕ	Lower Sorbian
+139	to	rěčeć	None	Upper Sorbian
+139	to	казвам	ˈkazvəm	Bulgarian
+139	to	вели	vʲɪˈlʲi	Macedonian
+139	to	reći	rêtɕi	Serbo-Croatian Latin
+139	to	рећи	rêtɕi	Serbo-Croatian Cyrillic
+139	to	reči	ˈrɛtʃi	Slovene
+139	to	казаць	None	Belarusian
+139	to	говорить	ɡəvɐˈrʲitʲ	Russian
+139	to	повісти	None	Rusyn
+139	to	казати	kǎːzati	Ukrainian
+140	to	to	sɪŋ	English
+140	to	пѣти	None	Old Church Slavonic
+140	to	zpívat	spivat	Czech
+140	to	śpiewać	ˈɕpʲɛvatɕ	Polish
+140	to	spievať	None	Slovak
+140	to	spiwaś	ˈspʲiwaɕ	Lower Sorbian
+140	to	spěwać	None	Upper Sorbian
+140	to	пея	ˈpɛjə	Bulgarian
+140	to	пее	ˈpɛː	Macedonian
+140	to	pevati	pêʋati	Serbo-Croatian Latin
+140	to	певати	pêʋati	Serbo-Croatian Cyrillic
+140	to	peti	ˈpɛːti	Slovene
+140	to	сьпяваць	None	Belarusian
+140	to	петь	pʲetʲ	Russian
+140	to	співати	None	Rusyn
+140	to	співати	None	Ukrainian
+141	to	to	pleɪ	English
+141	to	играти	îɡrati	Old Church Slavonic
+141	to	hrát	ɦraːt	Czech
+141	to	grać	ɡratɕ	Polish
+141	to	hrať	ˈɦrac	Slovak
+141	to	graś	ɡraɕ	Lower Sorbian
+141	to	hrać	None	Upper Sorbian
+141	to	играя	iˈɡrajə	Bulgarian
+141	to	игра	iˈɡra	Macedonian
+141	to	igrati	îɡrati	Serbo-Croatian Latin
+141	to	играти	îɡrati	Serbo-Croatian Cyrillic
+141	to	igrati	îɡrati	Slovene
+141	to	граць	None	Belarusian
+141	to	играть	ɪˈɡratʲ	Russian
+141	to	грати	None	Rusyn
+141	to	грати	None	Ukrainian
+142	to	to	fləʊt	English
+142	to	None	None	Old Church Slavonic
+142	to	plout	None	Czech
+142	to	pływać	ˈpwɨvatɕ	Polish
+142	to	plávať	ˈpɫaːvac	Slovak
+142	to	pławiś	ˈpwavʲiɕ	Lower Sorbian
+142	to	płuwać	None	Upper Sorbian
+142	to	плувам	None	Bulgarian
+142	to	плови	None	Macedonian
+142	to	plutati	plǔtati	Serbo-Croatian Latin
+142	to	плутати	plǔtati	Serbo-Croatian Cyrillic
+142	to	pluti	None	Slovene
+142	to	плыць	None	Belarusian
+142	to	плыть	plɨtʲ	Russian
+142	to	плавати	None	Rusyn
+142	to	пливти	None	Ukrainian
+143	to	to	fləʊ	English
+143	to	тєшти	None	Old Church Slavonic
+143	to	téct	tɛtst	Czech
+143	to	płynąć	None	Polish
+143	to	tiecť	ˈciɛtsc	Slovak
+143	to	běžaś	ˈbʲiɪʒaɕ	Lower Sorbian
+143	to	běžeć	None	Upper Sorbian
+143	to	тека	tɛˈkə	Bulgarian
+143	to	тече	tɛˈtʃɛ	Macedonian
+143	to	teći	têtɕi	Serbo-Croatian Latin
+143	to	тећи	têtɕi	Serbo-Croatian Cyrillic
+143	to	teči	ˈtɛtʃi	Slovene
+143	to	цячы	None	Belarusian
+143	to	течь	tʲetɕ	Russian
+143	to	течі	None	Rusyn
+143	to	текти	None	Ukrainian
+144	to	to	ˈfɹiːz	English
+144	to	помръзнѫти	None	Old Church Slavonic
+144	to	mrznout	ˈmrznɔʊt	Czech
+144	to	zamarzać	zaˈmarzatɕ	Polish
+144	to	mrznúť	None	Slovak
+144	to	marznuś	ˈmarznuɕ	Lower Sorbian
+144	to	mjerznyć	None	Upper Sorbian
+144	to	замръзвам	None	Bulgarian
+144	to	заледува	None	Macedonian
+144	to	zalediti	zalěditi	Serbo-Croatian Latin
+144	to	заледити	zalěditi	Serbo-Croatian Cyrillic
+144	to	zamrzniti	None	Slovene
+144	to	замерзнуць	None	Belarusian
+144	to	морозить	mɐˈrozʲɪtʲ	Russian
+144	to	мерзнути	None	Rusyn
+144	to	змерзнути	None	Ukrainian
+145	to	to	swɛl	English
+145	to	None	None	Old Church Slavonic
+145	to	otékat	None	Czech
+145	to	puchnąć	ˈpuxnɔɲtɕ	Polish
+145	to	opúchať	None	Slovak
+145	to	wopuchnuś	ˈɔpuxnuɕ	Lower Sorbian
+145	to	zaćekać	None	Upper Sorbian
+145	to	подувам	None	Bulgarian
+145	to	отекува	None	Macedonian
+145	to	oteći	ǒtetɕi	Serbo-Croatian Latin
+145	to	отећи	ǒtetɕi	Serbo-Croatian Cyrillic
+145	to	otekati	None	Slovene
+145	to	пухнуць	None	Belarusian
+145	to	пухнуть	ˈpuxnʊtʲ	Russian
+145	to	напухнути	None	Rusyn
+145	to	пухнути	pǔːxnuti	Ukrainian
+146	sun	sun	sʌn	English
+146	sun	слъньцє	None	Old Church Slavonic
+146	sun	slunce	ʹsluntsɛ	Czech
+146	sun	słońce	ˈswɔɲtsɛ	Polish
+146	sun	slnko	ˈsɫŋkɔ	Slovak
+146	sun	słyńco	ˈswɨnʲtsɔ	Lower Sorbian
+146	sun	słónco	None	Upper Sorbian
+146	sun	слънце	ˈslɤntsɛ	Bulgarian
+146	sun	сонце	ˈsɔntsɛ	Macedonian
+146	sun	sunce	sûːntse	Serbo-Croatian Latin
+146	sun	сунце	sûːntse	Serbo-Croatian Cyrillic
+146	sun	sonce	ˈsóːntsɛ	Slovene
+146	sun	сонца	None	Belarusian
+146	sun	солнце	ˈsontsə	Russian
+146	sun	сонце	ˈsɔntsɛ	Rusyn
+146	sun	сонце	ˈsɔntsɛ	Ukrainian
+147	moon	moon	muːn	English
+147	moon	мѣсѧць	None	Old Church Slavonic
+147	moon	měsíc	ˈmjɛsiːts	Czech
+147	moon	księżyc	ˈkɕɛŋʐɨts	Polish
+147	moon	mesiac	ˈmɛsiats	Slovak
+147	moon	mjasec	ˈmʲasɛts	Lower Sorbian
+147	moon	měsačk	None	Upper Sorbian
+147	moon	луна	luˈna	Bulgarian
+147	moon	месечина	mêsetʃina	Macedonian
+147	moon	mesec	mêseːts	Serbo-Croatian Latin
+147	moon	месец	ˈmɛsɛts	Serbo-Croatian Cyrillic
+147	moon	mesec	mêseːts	Slovene
+147	moon	месяц	ˈmʲesʲɪts	Belarusian
+147	moon	луна	luˈna	Russian
+147	moon	місяць	None	Rusyn
+147	moon	місяць	None	Ukrainian
+148	star	star	stɑɹ	English
+148	star	звѣзда	None	Old Church Slavonic
+148	star	hvězda	ʹɦvjɛzda	Czech
+148	star	gwiazda	ˈɡvʲazda	Polish
+148	star	hviezda	ˈɦviɛzda	Slovak
+148	star	gwězda	ˈɡvʲiɪzda	Lower Sorbian
+148	star	hwězda	None	Upper Sorbian
+148	star	звезда	zvɛzˈda	Bulgarian
+148	star	ѕвезда	ˈdzvɛzda	Macedonian
+148	star	zvezda	zʋěːzda	Serbo-Croatian Latin
+148	star	звезда	zvɛzˈda	Serbo-Croatian Cyrillic
+148	star	zvezda	zʋěːzda	Slovene
+148	star	зорка	None	Belarusian
+148	star	звезда	zvɛzˈda	Russian
+148	star	звізда	None	Rusyn
+148	star	зірка	None	Ukrainian
+149	water	water	ˈwɔːtə	English
+149	water	вода	vɔˈda	Old Church Slavonic
+149	water	voda	ˈvoda	Czech
+149	water	woda	ˈvɔda	Polish
+149	water	voda	ˈvoda	Slovak
+149	water	wóda	ˈwɨda	Lower Sorbian
+149	water	woda	ˈvɔda	Upper Sorbian
+149	water	вода	vɔˈda	Bulgarian
+149	water	вода	vɔˈda	Macedonian
+149	water	voda	ˈvoda	Serbo-Croatian Latin
+149	water	вода	vɔˈda	Serbo-Croatian Cyrillic
+149	water	voda	ˈvoda	Slovene
+149	water	вада	None	Belarusian
+149	water	вода	vɔˈda	Russian
+149	water	вода	vɔˈda	Rusyn
+149	water	вода	vɔˈda	Ukrainian
+150	rain	rain	ɹeɪn	English
+150	rain	дъждь	None	Old Church Slavonic
+150	rain	déšť	dɛːʃc	Czech
+150	rain	deszcz	dɛʂtʂ	Polish
+150	rain	dážď	daːʃc	Slovak
+150	rain	dešć	dɛɕtɕ	Lower Sorbian
+150	rain	dešć	dɛɕtɕ	Upper Sorbian
+150	rain	дъжд	dɤʃt	Bulgarian
+150	rain	дожд	dɔʃt	Macedonian
+150	rain	kiša	kîʃa	Serbo-Croatian Latin
+150	rain	киша	ˈkʲiʂə	Serbo-Croatian Cyrillic
+150	rain	dež	ˈdəʃ	Slovene
+150	rain	дождж	None	Belarusian
+150	rain	дождь	doʂtʲ	Russian
+150	rain	додж	None	Rusyn
+150	rain	дощ	dɔʃtʃ	Ukrainian
+151	river	river	ˈɹɪvə	English
+151	river	рѣка	rʲɪˈka	Old Church Slavonic
+151	river	řeka	ʹrɛka	Czech
+151	river	rzeka	ˈʐɛka	Polish
+151	river	rieka	ˈriɛka	Slovak
+151	river	rěka	ˈrʲiɪka	Lower Sorbian
+151	river	rěka	ˈrʲiɪka	Upper Sorbian
+151	river	река	rɛˈkɤ	Bulgarian
+151	river	река	rɛˈkɤ	Macedonian
+151	river	reka	ˈrɛːka	Serbo-Croatian Latin
+151	river	река	rɛˈkɤ	Serbo-Croatian Cyrillic
+151	river	reka	ˈrɛːka	Slovene
+151	river	рака	ˈrakə	Belarusian
+151	river	река	rɛˈkɤ	Russian
+151	river	ріка	rʲiˈkɑ	Rusyn
+151	river	ріка	rʲiˈkɑ	Ukrainian
+152	lake	lake	leɪk	English
+152	lake	ѥзєръ	None	Old Church Slavonic
+152	lake	jezero	ʹjɛzɛro	Czech
+152	lake	jezioro	jɛˈʑɔrɔ	Polish
+152	lake	jazero	ˈjazɛrɔ	Slovak
+152	lake	jazoro	ˈjazɔrɔ	Lower Sorbian
+152	lake	jězor	None	Upper Sorbian
+152	lake	езеро	ˈɛzɛro	Bulgarian
+152	lake	езеро	ˈɛzɛro	Macedonian
+152	lake	jezero	ʹjɛzɛro	Serbo-Croatian Latin
+152	lake	језеро	jêzero	Serbo-Croatian Cyrillic
+152	lake	jezero	ʹjɛzɛro	Slovene
+152	lake	возера	None	Belarusian
+152	lake	озеро	ˈozʲɪrə	Russian
+152	lake	озеро	ˈozʲɪrə	Rusyn
+152	lake	озеро	ˈozʲɪrə	Ukrainian
+153	sea	sea	siː	English
+153	sea	морѥ	None	Old Church Slavonic
+153	sea	moře	morɛ	Czech
+153	sea	morze	ˈmɔʐɛ	Polish
+153	sea	more	ˈmɔː	Slovak
+153	sea	mórjo	ˈmɨrʲɔ	Lower Sorbian
+153	sea	morjo	None	Upper Sorbian
+153	sea	море	moˈrɛ	Bulgarian
+153	sea	море	moˈrɛ	Macedonian
+153	sea	more	ˈmɔː	Serbo-Croatian Latin
+153	sea	море	moˈrɛ	Serbo-Croatian Cyrillic
+153	sea	morje	ˈmóːrjɛ	Slovene
+153	sea	мора	ˈmɔra	Belarusian
+153	sea	море	moˈrɛ	Russian
+153	sea	море	moˈrɛ	Rusyn
+153	sea	море	moˈrɛ	Ukrainian
+154	salt	salt	sɔːlt	English
+154	salt	соль	solʲ	Old Church Slavonic
+154	salt	sůl	suːl	Czech
+154	salt	sól	sɔuːl	Polish
+154	salt	soľ	ˈsɔʎ	Slovak
+154	salt	sol	sɒl	Lower Sorbian
+154	salt	sól	sɔuːl	Upper Sorbian
+154	salt	сол	sôːl	Bulgarian
+154	salt	сол	sôːl	Macedonian
+154	salt	so	səʊ	Serbo-Croatian Latin
+154	salt	со	sə	Serbo-Croatian Cyrillic
+154	salt	sol	sɒl	Slovene
+154	salt	соль	solʲ	Belarusian
+154	salt	соль	solʲ	Russian
+154	salt	сіль	ˈsʲilʲ	Rusyn
+154	salt	сіль	ˈsʲilʲ	Ukrainian
+155	stone	stone	stəʊn	English
+155	stone	камꙑ	None	Old Church Slavonic
+155	stone	kámen	ˈkamɛn	Czech
+155	stone	kamień	ˈkãmʲjẽɲ	Polish
+155	stone	kameň	ˈkamɛɲ	Slovak
+155	stone	kamjeń	None	Lower Sorbian
+155	stone	kamjeń	None	Upper Sorbian
+155	stone	камък	ˈkamək	Bulgarian
+155	stone	камен	kâmeːn	Macedonian
+155	stone	kamen	ˈkɒːmən	Serbo-Croatian Latin
+155	stone	камен	kâmeːn	Serbo-Croatian Cyrillic
+155	stone	kamen	ˈkɒːmən	Slovene
+155	stone	камень	ˈkamʲɪnʲ	Belarusian
+155	stone	камень	ˈkamʲɪnʲ	Russian
+155	stone	камінь	None	Rusyn
+155	stone	камінь	None	Ukrainian
+156	sand	sand	sænd	English
+156	sand	пѣсъкъ	None	Old Church Slavonic
+156	sand	písek	None	Czech
+156	sand	piasek	ˈpʲjäsɛk	Polish
+156	sand	piesok	ˈpiɛsɔk	Slovak
+156	sand	pěsk	pʲiɪsk	Lower Sorbian
+156	sand	pěsk	pʲiɪsk	Upper Sorbian
+156	sand	пясък	ˈpʲasək	Bulgarian
+156	sand	песок	pʲɪˈsok	Macedonian
+156	sand	pesak	pěːsak	Serbo-Croatian Latin
+156	sand	песак	pěːsak	Serbo-Croatian Cyrillic
+156	sand	pesek	ˈpèːsək	Slovene
+156	sand	пясок	None	Belarusian
+156	sand	песок	pʲɪˈsok	Russian
+156	sand	пісок	pʲiˈsɔk	Rusyn
+156	sand	пісок	pʲiˈsɔk	Ukrainian
+157	dust	dust	dʌst	English
+157	dust	прахъ	None	Old Church Slavonic
+157	dust	prach	None	Czech
+157	dust	kurz	kʊʁts	Polish
+157	dust	prach	None	Slovak
+157	dust	proch	prɔx	Lower Sorbian
+157	dust	proch	prɔx	Upper Sorbian
+157	dust	прах	prax	Bulgarian
+157	dust	прашина	prǎʃina	Macedonian
+157	dust	prašina	prǎʃina	Serbo-Croatian Latin
+157	dust	прашина	prǎʃina	Serbo-Croatian Cyrillic
+157	dust	prah	prâːx	Slovene
+157	dust	пыл	pəl	Belarusian
+157	dust	пыль	pɨlʲ	Russian
+157	dust	порох	ˈporəx	Rusyn
+157	dust	пил	piɫ	Ukrainian
+158	earth	earth	ɜːθ	English
+158	earth	зємлꙗ	None	Old Church Slavonic
+158	earth	země	ˈzɛmjɛ	Czech
+158	earth	ziemia	ˈʑɛmja	Polish
+158	earth	zem	ˈzɛm	Slovak
+158	earth	zemja	ˈzemʲa	Lower Sorbian
+158	earth	zemja	ˈzemʲa	Upper Sorbian
+158	earth	земя	zɛˈmʲa	Bulgarian
+158	earth	земја	None	Macedonian
+158	earth	zemlja	zěmʎa	Serbo-Croatian Latin
+158	earth	земља	zěmʎa	Serbo-Croatian Cyrillic
+158	earth	zemlja	zěmʎa	Slovene
+158	earth	зямля	None	Belarusian
+158	earth	земля	zʲɪˈmlʲa	Russian
+158	earth	земля	zʲɪˈmlʲa	Rusyn
+158	earth	земля	zʲɪˈmlʲa	Ukrainian
+159	cloud	cloud	klaʊd	English
+159	cloud	облакъ	None	Old Church Slavonic
+159	cloud	mrak	mrak	Czech
+159	cloud	chmura	ˈxmura	Polish
+159	cloud	oblak	oblak	Slovak
+159	cloud	mrok	mrɔk	Lower Sorbian
+159	cloud	mróčel	None	Upper Sorbian
+159	cloud	облак	ôblaːk	Bulgarian
+159	cloud	облак	ôblaːk	Macedonian
+159	cloud	oblak	oblak	Serbo-Croatian Latin
+159	cloud	облак	ôblaːk	Serbo-Croatian Cyrillic
+159	cloud	oblak	oblak	Slovene
+159	cloud	хмара	None	Belarusian
+159	cloud	облако	ˈobləkə	Russian
+159	cloud	хмара	None	Rusyn
+159	cloud	хмара	None	Ukrainian
+160	fog	fog	fɒɡ	English
+160	fog	мьгла	None	Old Church Slavonic
+160	fog	mlha	mlɦa	Czech
+160	fog	mgła	mɡwa	Polish
+160	fog	hmla	ˈɦmɫa	Slovak
+160	fog	kurjawa	ˈkurʲawa	Lower Sorbian
+160	fog	kurjawa	ˈkurʲawa	Upper Sorbian
+160	fog	мъгла	None	Bulgarian
+160	fog	магла	ˈmaɡla	Macedonian
+160	fog	magla	mǎɡla	Serbo-Croatian Latin
+160	fog	магла	ˈmaɡla	Serbo-Croatian Cyrillic
+160	fog	megla	məˈɡlá	Slovene
+160	fog	імгла	None	Belarusian
+160	fog	туман	tʊˈman	Russian
+160	fog	молга	None	Rusyn
+160	fog	туман	tʊˈman	Ukrainian
+161	sky	sky	skaɪ	English
+161	sky	нєбо	ˈnʲebə	Old Church Slavonic
+161	sky	nebe	ʹnɛbɛ	Czech
+161	sky	niebo	ˈɲɛbɔ	Polish
+161	sky	nebo	ˈnɛbo	Slovak
+161	sky	njebjo	None	Lower Sorbian
+161	sky	njebjo	None	Upper Sorbian
+161	sky	небе	nɛˈbɛ	Bulgarian
+161	sky	небо	ˈnʲebə	Macedonian
+161	sky	nebo	ˈnɛbo	Serbo-Croatian Latin
+161	sky	небо	ˈnʲebə	Serbo-Croatian Cyrillic
+161	sky	nebo	ˈnɛbo	Slovene
+161	sky	неба	ˈnʲebə	Belarusian
+161	sky	небо	ˈnʲebə	Russian
+161	sky	небо	ˈnʲebə	Rusyn
+161	sky	небо	ˈnʲebə	Ukrainian
+162	wind	wind	ˈwɪnd	English
+162	wind	вѣтръ	None	Old Church Slavonic
+162	wind	vítr	vitr	Czech
+162	wind	wiatr	vʲjatr	Polish
+162	wind	vietor	ˈviɛtɔr	Slovak
+162	wind	wětš	vʲiɪtʃ	Lower Sorbian
+162	wind	wětřik	None	Upper Sorbian
+162	wind	вятър	ˈvʲatər	Bulgarian
+162	wind	ветер	ˈvɛtɛr	Macedonian
+162	wind	vetar	None	Serbo-Croatian Latin
+162	wind	ветар	None	Serbo-Croatian Cyrillic
+162	wind	veter	None	Slovene
+162	wind	вецер	None	Belarusian
+162	wind	ветер	ˈvɛtɛr	Russian
+162	wind	вітор	None	Rusyn
+162	wind	вітер	ˈʋʲiter	Ukrainian
+163	snow	snow	snəʊ	English
+163	snow	снѣгъ	sʲnʲek	Old Church Slavonic
+163	snow	sníh	sɲiːx	Czech
+163	snow	śnieg	ɕɲɛk	Polish
+163	snow	sneh	ˈsɲɛx	Slovak
+163	snow	sněg	snʲiɪk	Lower Sorbian
+163	snow	sněh	None	Upper Sorbian
+163	snow	сняг	snʲak	Bulgarian
+163	snow	снег	sʲnʲek	Macedonian
+163	snow	sneg	ˈsnéːk	Serbo-Croatian Latin
+163	snow	снег	sʲnʲek	Serbo-Croatian Cyrillic
+163	snow	sneg	ˈsnéːk	Slovene
+163	snow	снег	sʲnʲek	Belarusian
+163	snow	снег	sʲnʲek	Russian
+163	snow	снїг	None	Rusyn
+163	snow	сніг	ˈsʲnʲiɦ	Ukrainian
+164	ice	ice	aɪs	English
+164	ice	лєдъ	None	Old Church Slavonic
+164	ice	led	ˈlɛd	Czech
+164	ice	lód	lut	Polish
+164	ice	ľad	ˈʎat	Slovak
+164	ice	lod	lɔd	Lower Sorbian
+164	ice	lód	lut	Upper Sorbian
+164	ice	лед	lɛt	Bulgarian
+164	ice	мраз	mras	Macedonian
+164	ice	led	ˈlɛd	Serbo-Croatian Latin
+164	ice	лед	lɛt	Serbo-Croatian Cyrillic
+164	ice	led	ˈlɛd	Slovene
+164	ice	лёд	lʲɵt	Belarusian
+164	ice	лёд	lʲɵt	Russian
+164	ice	лед	lɛt	Rusyn
+164	ice	лід	None	Ukrainian
+165	smoke	smoke	sməʊk	English
+165	smoke	дꙑмъ	None	Old Church Slavonic
+165	smoke	kouř	ˈkour	Czech
+165	smoke	dym	dɨm	Polish
+165	smoke	dym	dɨm	Slovak
+165	smoke	dym	dɨm	Lower Sorbian
+165	smoke	kur	ˈkur	Upper Sorbian
+165	smoke	пушек	ˈpuʂɨk	Bulgarian
+165	smoke	дим	dîm	Macedonian
+165	smoke	dim	dɪm	Serbo-Croatian Latin
+165	smoke	дим	dîm	Serbo-Croatian Cyrillic
+165	smoke	dim	dɪm	Slovene
+165	smoke	дым	dɯm	Belarusian
+165	smoke	дым	dɯm	Russian
+165	smoke	дым	dɯm	Rusyn
+165	smoke	дим	dîm	Ukrainian
+166	fire	fire	ˈfaɪəɹ	English
+166	fire	огнь	oɡnʲ	Old Church Slavonic
+166	fire	oheň	ˈɔɦɛɲ	Czech
+166	fire	ogień	ˈɔɡʲɛɲ	Polish
+166	fire	oheň	ˈɔɦɛɲ	Slovak
+166	fire	wogeń	ˈɔɡʲenʲ	Lower Sorbian
+166	fire	woheń	None	Upper Sorbian
+166	fire	огън	ˈɔɡən	Bulgarian
+166	fire	оган	None	Macedonian
+166	fire	vatra	ʋâtra	Serbo-Croatian Latin
+166	fire	ватра	ʋâtra	Serbo-Croatian Cyrillic
+166	fire	ogenj	ɔːɡənʲ	Slovene
+166	fire	агонь	None	Belarusian
+166	fire	огонь	ɐˈɡonʲ	Russian
+166	fire	огень	None	Rusyn
+166	fire	вогонь	wɔˈɦɔnʲ	Ukrainian
+167	ash	ash	ˈæʃ	English
+167	ash	None	None	Old Church Slavonic
+167	ash	popel	None	Czech
+167	ash	popiół	ˈpɔpjuw	Polish
+167	ash	popol	ˈpɔpɔɫ	Slovak
+167	ash	popjeł	ˈpɔpʲɛw	Lower Sorbian
+167	ash	popjeł	ˈpɔpʲɛw	Upper Sorbian
+167	ash	пепел	ˈpɛpɛl	Bulgarian
+167	ash	пепел	ˈpɛpɛl	Macedonian
+167	ash	pepeo	pêpeo	Serbo-Croatian Latin
+167	ash	пепео	pêpeo	Serbo-Croatian Cyrillic
+167	ash	pepel	pɛˈpéːw	Slovene
+167	ash	попел	None	Belarusian
+167	ash	пепел	ˈpɛpɛl	Russian
+167	ash	попіль	None	Rusyn
+167	ash	попіл	ˈpɔpʲil	Ukrainian
+168	to	to	bɝn	English
+168	to	горѣти	None	Old Church Slavonic
+168	to	hořet	None	Czech
+168	to	palić	ˈpalʲitɕ	Polish
+168	to	horieť	None	Slovak
+168	to	paliś	ˈpalʲiɕ	Lower Sorbian
+168	to	palić	ˈpalʲitɕ	Upper Sorbian
+168	to	горя	ɡɐˈrʲa	Bulgarian
+168	to	гори	ɡɐˈrʲi	Macedonian
+168	to	goreti	ɡǒreti	Serbo-Croatian Latin
+168	to	горети	ɡǒreti	Serbo-Croatian Cyrillic
+168	to	žgati	None	Slovene
+168	to	гарэць	None	Belarusian
+168	to	гореть	ɡɐˈrʲetʲ	Russian
+168	to	горїти	None	Rusyn
+168	to	горіти	None	Ukrainian
+169	road	road	ɹəʊd	English
+169	road	пѫть	None	Old Church Slavonic
+169	road	silnice	ˈsɪlɲɪtsɛ	Czech
+169	road	droga	ˈdrɔɡa	Polish
+169	road	cesta	ˈtsɛsta	Slovak
+169	road	droga	ˈdrɔɡa	Lower Sorbian
+169	road	puć	None	Upper Sorbian
+169	road	път	pɤt	Bulgarian
+169	road	пат	pat	Macedonian
+169	road	put	pʊt	Serbo-Croatian Latin
+169	road	пут	put	Serbo-Croatian Cyrillic
+169	road	cesta	ˈtsɛsta	Slovene
+169	road	дарога	None	Belarusian
+169	road	дорога	dɐˈroɡə	Russian
+169	road	дорога	dɐˈroɡə	Rusyn
+169	road	дорога	dɐˈroɡə	Ukrainian
+170	mountain	mountain	ˈmaʊntɪn	English
+170	mountain	гора	ɡoˈra	Old Church Slavonic
+170	mountain	hora	ˈɔɾə	Czech
+170	mountain	góra	ˈɡɨra	Polish
+170	mountain	hora	ˈɔɾə	Slovak
+170	mountain	góra	ˈɡɨra	Lower Sorbian
+170	mountain	hora	ˈɔɾə	Upper Sorbian
+170	mountain	планина	pləniˈna	Bulgarian
+170	mountain	планина	pləniˈna	Macedonian
+170	mountain	planina	plaˈnina	Serbo-Croatian Latin
+170	mountain	планина	pləniˈna	Serbo-Croatian Cyrillic
+170	mountain	gora	ˈkorɑ	Slovene
+170	mountain	гара	None	Belarusian
+170	mountain	гора	ɡoˈra	Russian
+170	mountain	гора	ɡoˈra	Rusyn
+170	mountain	гора	ɡoˈra	Ukrainian
+171	red	red	ɹɛd	English
+171	red	чръвєнъ	None	Old Church Slavonic
+171	red	červený	ˈtʃɛrvɛniː	Czech
+171	red	czerwony	tʂɛrˈvɔnɨ	Polish
+171	red	červený	ˈtʃɛrvɛniː	Slovak
+171	red	cerwjeny	ˈtsɛrvʲɛnɨ	Lower Sorbian
+171	red	čerwjeny	None	Upper Sorbian
+171	red	червен	tʃɛrˈvɛn	Bulgarian
+171	red	црвен	tsřʋen	Macedonian
+171	red	crven	tsřʋen	Serbo-Croatian Latin
+171	red	црвен	tsřʋen	Serbo-Croatian Cyrillic
+171	red	rdeč	ərˈdɛtʃ	Slovene
+171	red	чырвоны	None	Belarusian
+171	red	красный	ˈkrasnɨj	Russian
+171	red	червеный	None	Rusyn
+171	red	червоний	tʃeˈrwɔnei	Ukrainian
+172	green	green	ɡɹiːn	English
+172	green	зєлєнъ	None	Old Church Slavonic
+172	green	zelený	ˈzɛlɛniː	Czech
+172	green	zielony	ʑɛˈlɔnɨ	Polish
+172	green	zelený	ˈzɛlɛniː	Slovak
+172	green	zeleny	ˈzɛlɛnɨ	Lower Sorbian
+172	green	zeleny	ˈzɛlɛnɨ	Upper Sorbian
+172	green	зелен	zɛˈlɛn	Bulgarian
+172	green	зелен	zɛˈlɛn	Macedonian
+172	green	zelen	zělen	Serbo-Croatian Latin
+172	green	зелен	zɛˈlɛn	Serbo-Croatian Cyrillic
+172	green	zelen	zělen	Slovene
+172	green	зялёны	None	Belarusian
+172	green	зелёный	zʲɪˈlʲɵnɨj	Russian
+172	green	зеленый	None	Rusyn
+172	green	зелений	zeˈlɛnei	Ukrainian
+173	yellow	yellow	ˈjɛləʊ	English
+173	yellow	None	None	Old Church Slavonic
+173	yellow	žlutý	ʒluti	Czech
+173	yellow	żółty	ˈʐuwtɨ	Polish
+173	yellow	žltý	ˈʒɫtiː	Slovak
+173	yellow	žołty	ˈʒowtɨ	Lower Sorbian
+173	yellow	žołty	ˈʒowtɨ	Upper Sorbian
+173	yellow	жълт	ʒɤlt	Bulgarian
+173	yellow	жолт	None	Macedonian
+173	yellow	žut	ʒûːt	Serbo-Croatian Latin
+173	yellow	жут	ʒûːt	Serbo-Croatian Cyrillic
+173	yellow	rumen	ˈɹumən	Slovene
+173	yellow	жоўты	None	Belarusian
+173	yellow	жёлтый	ˈʐoltɨj	Russian
+173	yellow	жовтый	None	Rusyn
+173	yellow	жовтий	ˈʒɔutei	Ukrainian
+174	white	white	waɪt	English
+174	white	бѣлъ	None	Old Church Slavonic
+174	white	bílý	ˈbiːliː	Czech
+174	white	biały	ˈbʲawɨ	Polish
+174	white	biely	ˈbiɛli	Slovak
+174	white	běły	ˈbʲiɪwɨ	Lower Sorbian
+174	white	běły	ˈbʲiɪwɨ	Upper Sorbian
+174	white	бял	bʲal	Bulgarian
+174	white	бел	bɛl	Macedonian
+174	white	beo	bʲoː	Serbo-Croatian Latin
+174	white	бео	bêo	Serbo-Croatian Cyrillic
+174	white	bel	bɛl	Slovene
+174	white	белы	bʲɪˈlɨ	Belarusian
+174	white	белый	ˈbʲelɨj	Russian
+174	white	білый	None	Rusyn
+174	white	білий	ˈbʲilei	Ukrainian
+175	black	black	blæk	English
+175	black	чрънъ	None	Old Church Slavonic
+175	black	černý	tʃɛrni	Czech
+175	black	czarny	ˈtʂarnɨ	Polish
+175	black	čierny	ˈtʃierni	Slovak
+175	black	carny	ˈkɑːɹni	Lower Sorbian
+175	black	čorny	None	Upper Sorbian
+175	black	черен	None	Bulgarian
+175	black	црн	tsrːn	Macedonian
+175	black	crn	tsrːn	Serbo-Croatian Latin
+175	black	црн	tsrːn	Serbo-Croatian Cyrillic
+175	black	črn	ˈtʃərn	Slovene
+175	black	чорны	None	Belarusian
+175	black	чёрный	ˈtɕɵrnɨj	Russian
+175	black	чорный	ˈtɕɵrnɨj	Rusyn
+175	black	чорний	ˈtʃɔrnei	Ukrainian
+176	night	night	naɪt	English
+176	night	нощь	None	Old Church Slavonic
+176	night	noc	nots	Czech
+176	night	noc	nots	Polish
+176	night	noc	nots	Slovak
+176	night	noc	nots	Lower Sorbian
+176	night	nóc	nawkpˀ	Upper Sorbian
+176	night	нощ	nɔʃt	Bulgarian
+176	night	ноќ	nɔc	Macedonian
+176	night	noć	nôːtɕ	Serbo-Croatian Latin
+176	night	ноћ	None	Serbo-Croatian Cyrillic
+176	night	noč	noːtʃ	Slovene
+176	night	ноч	None	Belarusian
+176	night	ночь	notɕ	Russian
+176	night	ніч	ˈnʲitʃ	Rusyn
+176	night	ніч	ˈnʲitʃ	Ukrainian
+177	day	day	deɪ	English
+177	day	дьнь	None	Old Church Slavonic
+177	day	den	dɛn	Czech
+177	day	dzień	dʑɛɲ	Polish
+177	day	deň	ɟɛɲ	Slovak
+177	day	źeń	ʑenʲ	Lower Sorbian
+177	day	dźeń	None	Upper Sorbian
+177	day	ден	dɛn	Bulgarian
+177	day	ден	dɛn	Macedonian
+177	day	dan	dæn	Serbo-Croatian Latin
+177	day	дан	dɑn	Serbo-Croatian Cyrillic
+177	day	dan	dæn	Slovene
+177	day	дзень	None	Belarusian
+177	day	день	dʲenʲ	Russian
+177	day	день	dʲenʲ	Rusyn
+177	day	день	dʲenʲ	Ukrainian
+178	year	year	jɪə	English
+178	year	лѣто	None	Old Church Slavonic
+178	year	rok	rok	Czech
+178	year	rok	rok	Polish
+178	year	rok	rok	Slovak
+178	year	lěto	ˈlʲiɪtɔ	Lower Sorbian
+178	year	lěto	ˈlʲiɪtɔ	Upper Sorbian
+178	year	година	ɡɔˈdinə	Bulgarian
+178	year	година	ɡɔˈdinə	Macedonian
+178	year	godina	ɡôdina	Serbo-Croatian Latin
+178	year	година	ɡɔˈdinə	Serbo-Croatian Cyrillic
+178	year	leto	ˈleːtoː	Slovene
+178	year	год	ɡot	Belarusian
+178	year	год	ɡot	Russian
+178	year	рік	None	Rusyn
+178	year	рік	None	Ukrainian
+179	warm	warm	wɔːm	English
+179	warm	топлъ	None	Old Church Slavonic
+179	warm	teplý	tɛpli	Czech
+179	warm	ciepły	ˈtɕɛpwɨ	Polish
+179	warm	teplý	tɛpli	Slovak
+179	warm	śopły	ˈɕɔpwɨ	Lower Sorbian
+179	warm	ćopły	None	Upper Sorbian
+179	warm	топъл	ˈtɔpəl	Bulgarian
+179	warm	топол	None	Macedonian
+179	warm	topao	tôpao	Serbo-Croatian Latin
+179	warm	топао	tôpao	Serbo-Croatian Cyrillic
+179	warm	topel	ˈtɔːpəw	Slovene
+179	warm	цёплы	None	Belarusian
+179	warm	тёплый	ˈtʲɵplɨj	Russian
+179	warm	теплый	ˈtʲɵplɨj	Rusyn
+179	warm	теплий	None	Ukrainian
+180	cold	cold	kəʊld	English
+180	cold	хладьнъ	None	Old Church Slavonic
+180	cold	studený	studɛni	Czech
+180	cold	zimny	ˈʑimnɨ	Polish
+180	cold	studený	studɛni	Slovak
+180	cold	zymny	ˈzɨmnɨ	Lower Sorbian
+180	cold	zymny	ˈzɨmnɨ	Upper Sorbian
+180	cold	студен	stuˈdɛn	Bulgarian
+180	cold	студен	stuˈdɛn	Macedonian
+180	cold	hladnoća	xladnǒtɕa	Serbo-Croatian Latin
+180	cold	хладноћа	xladnǒtɕa	Serbo-Croatian Cyrillic
+180	cold	hladen	xláːdən	Slovene
+180	cold	халодны	None	Belarusian
+180	cold	холодный	xɐˈlodnɨj	Russian
+180	cold	зимный	None	Rusyn
+180	cold	холодний	xɔˈlɔdnei	Ukrainian
+181	full	full	fʊl	English
+181	full	испльнь	None	Old Church Slavonic
+181	full	plný	plniː	Czech
+181	full	pełny	ˈpɛwnɨ	Polish
+181	full	plný	plniː	Slovak
+181	full	połny	ˈpownɨ	Lower Sorbian
+181	full	połny	ˈpownɨ	Upper Sorbian
+181	full	пълен	ˈpɤlɛn	Bulgarian
+181	full	полн	None	Macedonian
+181	full	pun	pʌn	Serbo-Croatian Latin
+181	full	пун	pûn	Serbo-Croatian Cyrillic
+181	full	poln	ˈpɔːwn	Slovene
+181	full	поўны	None	Belarusian
+181	full	полный	ˈpolnɨj	Russian
+181	full	повный	None	Rusyn
+181	full	повний	ˈpɔunei	Ukrainian
+182	new	new	njuː	English
+182	new	новъ	None	Old Church Slavonic
+182	new	nový	novi	Czech
+182	new	nowy	ˈnowɨ	Polish
+182	new	nový	novi	Slovak
+182	new	nowy	ˈnowɨ	Lower Sorbian
+182	new	nowy	ˈnowɨ	Upper Sorbian
+182	new	нов	nɔf	Bulgarian
+182	new	нов	nɔf	Macedonian
+182	new	nov	nôʋ	Serbo-Croatian Latin
+182	new	нов	nɔf	Serbo-Croatian Cyrillic
+182	new	nov	nôʋ	Slovene
+182	new	новы	nɐˈvɨ	Belarusian
+182	new	новый	ˈnovɨj	Russian
+182	new	новый	ˈnovɨj	Rusyn
+182	new	новий	None	Ukrainian
+183	old	old	ˈəʊld	English
+183	old	старъ	None	Old Church Slavonic
+183	old	starý	stari	Czech
+183	old	stary	stɛəɹɨ	Polish
+183	old	starý	stari	Slovak
+183	old	stary	stɛəɹɨ	Lower Sorbian
+183	old	stary	stɛəɹɨ	Upper Sorbian
+183	old	стар	star	Bulgarian
+183	old	стар	star	Macedonian
+183	old	star	stɑɹ	Serbo-Croatian Latin
+183	old	стар	star	Serbo-Croatian Cyrillic
+183	old	star	stɑɹ	Slovene
+183	old	стары	stɐˈrɨ	Belarusian
+183	old	старый	ˈstarɨj	Russian
+183	old	старый	ˈstarɨj	Rusyn
+183	old	старий	None	Ukrainian
+184	good	good	ɡʊd	English
+184	good	добръ	None	Old Church Slavonic
+184	good	dobrý	ˈdobriː	Czech
+184	good	dobry	ˈdobrɪ	Polish
+184	good	dobrý	ˈdobriː	Slovak
+184	good	dobry	ˈdobrɪ	Lower Sorbian
+184	good	dobry	ˈdobrɪ	Upper Sorbian
+184	good	добър	doˈbɤr	Bulgarian
+184	good	добар	dôbar	Macedonian
+184	good	dobar	dôbar	Serbo-Croatian Latin
+184	good	добар	dôbar	Serbo-Croatian Cyrillic
+184	good	dober	ˈdobɛr	Slovene
+184	good	добры	dɐˈbrɨ	Belarusian
+184	good	хороший	xɐˈroʂɨj	Russian
+184	good	добрый	ˈdobrɨj	Rusyn
+184	good	гарний	ˈɦɑrnɪj	Ukrainian
+185	bad	bad	bæd	English
+185	bad	зълъ	None	Old Church Slavonic
+185	bad	špatný	ʃpatni	Czech
+185	bad	zły	zwɨ	Polish
+185	bad	zlý	ˈzɫiː	Slovak
+185	bad	zły	zwɨ	Lower Sorbian
+185	bad	hubjeny	None	Upper Sorbian
+185	bad	лош	lôʃ	Bulgarian
+185	bad	лош	lôʃ	Macedonian
+185	bad	zao	zâo	Serbo-Croatian Latin
+185	bad	зао	zaːwa	Serbo-Croatian Cyrillic
+185	bad	zloben	None	Slovene
+185	bad	дрэнны	None	Belarusian
+185	bad	плохой	plɐˈxoj	Russian
+185	bad	планый	None	Rusyn
+185	bad	поганий	None	Ukrainian
+186	rotten	rotten	ˈɹɑtn	English
+186	rotten	None	None	Old Church Slavonic
+186	rotten	shnilý	None	Czech
+186	rotten	zgniły	ˈzɡɲiwɨ	Polish
+186	rotten	hnilý	ˈɦɲiliː	Slovak
+186	rotten	zgnity	ˈzɡnʲitɨ	Lower Sorbian
+186	rotten	zhniły	None	Upper Sorbian
+186	rotten	гнил	ɡnʲil	Bulgarian
+186	rotten	гнил	ɡnʲil	Macedonian
+186	rotten	truo	trûo	Serbo-Croatian Latin
+186	rotten	труо	trûo	Serbo-Croatian Cyrillic
+186	rotten	gnil	ˈɡníːw	Slovene
+186	rotten	гнілы	None	Belarusian
+186	rotten	гнилой	ɡnʲɪˈloj	Russian
+186	rotten	гнилый	None	Rusyn
+186	rotten	гнилий	None	Ukrainian
+187	dirty	dirty	ˈdɜːti	English
+187	dirty	None	None	Old Church Slavonic
+187	dirty	špinavý	ʃpɪnavi	Czech
+187	dirty	brudny	ˈbrudnɨ	Polish
+187	dirty	špinavý	ʃpɪnavi	Slovak
+187	dirty	njerěšny	ˈnʲerʲɛʃnɨ	Lower Sorbian
+187	dirty	mazany	None	Upper Sorbian
+187	dirty	мръсен	None	Bulgarian
+187	dirty	валкан	None	Macedonian
+187	dirty	prljav	prʎaʋ	Serbo-Croatian Latin
+187	dirty	прљав	prʎaʋ	Serbo-Croatian Cyrillic
+187	dirty	umazan	uˈmáːzan	Slovene
+187	dirty	брудны	None	Belarusian
+187	dirty	грязный	ˈɡrʲaznɨj	Russian
+187	dirty	брудный	None	Rusyn
+187	dirty	брудний	None	Ukrainian
+188	straight	straight	stɹeɪt	English
+188	straight	правъ	None	Old Church Slavonic
+188	straight	přímý	None	Czech
+188	straight	prosty	ɒsti	Polish
+188	straight	priamy	None	Slovak
+188	straight	rowny	ˈrownɨ	Lower Sorbian
+188	straight	runy	None	Upper Sorbian
+188	straight	прав	praf	Bulgarian
+188	straight	прав	praf	Macedonian
+188	straight	prav	prâʋ	Serbo-Croatian Latin
+188	straight	прав	praf	Serbo-Croatian Cyrillic
+188	straight	raven	ˈɹeɪvən	Slovene
+188	straight	прамы	None	Belarusian
+188	straight	прямой	prʲɪˈmoj	Russian
+188	straight	прямый	None	Rusyn
+188	straight	прямий	None	Ukrainian
+189	round	round	ˈɹaʊnd	English
+189	round	None	None	Old Church Slavonic
+189	round	kulatý	None	Czech
+189	round	okrągły	ɔˈkrɔŋɡwɨ	Polish
+189	round	guľatý	None	Slovak
+189	round	kulaty	ˈkulatɨ	Lower Sorbian
+189	round	kulojty	None	Upper Sorbian
+189	round	кръгъл	None	Bulgarian
+189	round	кружен	None	Macedonian
+189	round	okrugao	okrǔːɡao	Serbo-Croatian Latin
+189	round	округао	okrǔːɡao	Serbo-Croatian Cyrillic
+189	round	okrogel	otˈkròːɡəw	Slovene
+189	round	круглы	krʊˈɡlɨ	Belarusian
+189	round	круглый	ˈkruɡlɨj	Russian
+189	round	округлый	ɐˈkruɡlɨj	Rusyn
+189	round	круглий	None	Ukrainian
+190	sharp	sharp	ʃɑɹp	English
+190	sharp	остръ	None	Old Church Slavonic
+190	sharp	ostrý	None	Czech
+190	sharp	ostry	ˈɔstrɨ	Polish
+190	sharp	ostrý	None	Slovak
+190	sharp	wótšy	ˈwɨtʃɨ	Lower Sorbian
+190	sharp	wótry	None	Upper Sorbian
+190	sharp	остър	None	Bulgarian
+190	sharp	остар	None	Macedonian
+190	sharp	oštar	ôʃtar	Serbo-Croatian Latin
+190	sharp	оштар	ôʃtar	Serbo-Croatian Cyrillic
+190	sharp	oster	ˈòːstər	Slovene
+190	sharp	востры	None	Belarusian
+190	sharp	острый	ˈostrɨj	Russian
+190	sharp	острый	ˈostrɨj	Rusyn
+190	sharp	гострий	None	Ukrainian
+191	dull	dull	dʌl	English
+191	dull	None	None	Old Church Slavonic
+191	dull	tupý	ˈtʊpiː	Czech
+191	dull	tępy	ˈtɛmpɨ	Polish
+191	dull	tupý	ˈtʊpiː	Slovak
+191	dull	tupy	ˈtupɨ	Lower Sorbian
+191	dull	tupy	ˈtupɨ	Upper Sorbian
+191	dull	тъп	None	Bulgarian
+191	dull	тап	tɑp	Macedonian
+191	dull	tup	tʌp	Serbo-Croatian Latin
+191	dull	туп	tup	Serbo-Croatian Cyrillic
+191	dull	top	tɒp	Slovene
+191	dull	тупы	tʊˈpɨ	Belarusian
+191	dull	тупой	tʊˈpoj	Russian
+191	dull	тупый	None	Rusyn
+191	dull	тупий	None	Ukrainian
+192	smooth	smooth	smuːð	English
+192	smooth	гладъкъ	None	Old Church Slavonic
+192	smooth	hladký	None	Czech
+192	smooth	gładki	ˈɡwatkʲi	Polish
+192	smooth	hladký	None	Slovak
+192	smooth	gładki	ˈɡwatkʲi	Lower Sorbian
+192	smooth	hładki	None	Upper Sorbian
+192	smooth	гладък	None	Bulgarian
+192	smooth	мазен	None	Macedonian
+192	smooth	gladak	ɡlâdak	Serbo-Croatian Latin
+192	smooth	гладак	ɡlâdak	Serbo-Croatian Cyrillic
+192	smooth	gladek	None	Slovene
+192	smooth	гладкі	None	Belarusian
+192	smooth	гладкий	ˈɡlatkʲɪj	Russian
+192	smooth	гладкый	None	Rusyn
+192	smooth	гладенький	None	Ukrainian
+193	wet	wet	wɛt	English
+193	wet	мокръ	None	Old Church Slavonic
+193	wet	mokrý	ˈmokri	Czech
+193	wet	mokry	ˈmɔkrɨ	Polish
+193	wet	vlhký	None	Slovak
+193	wet	mokšy	ˈmɔkʃɨ	Lower Sorbian
+193	wet	mokry	ˈmɔkrɨ	Upper Sorbian
+193	wet	мокър	None	Bulgarian
+193	wet	мокар	môkar	Macedonian
+193	wet	mokar	môkar	Serbo-Croatian Latin
+193	wet	мокар	môkar	Serbo-Croatian Cyrillic
+193	wet	moker	ˈmòːkər	Slovene
+193	wet	мокры	ˈmokrɨ	Belarusian
+193	wet	мокрый	ˈmokrɨj	Russian
+193	wet	мокрый	ˈmokrɨj	Rusyn
+193	wet	мокрий	None	Ukrainian
+194	dry	dry	dɹaɪ	English
+194	dry	соухъ	None	Old Church Slavonic
+194	dry	suchý	ˈsuxiː	Czech
+194	dry	suchy	ˈsuxɨ	Polish
+194	dry	suchý	ˈsuxiː	Slovak
+194	dry	suchy	ˈsuxɨ	Lower Sorbian
+194	dry	suchi	ˈsuxi	Upper Sorbian
+194	dry	сух	sux	Bulgarian
+194	dry	сув	sûːʋ	Macedonian
+194	dry	suv	sûːʋ	Serbo-Croatian Latin
+194	dry	сув	sûːʋ	Serbo-Croatian Cyrillic
+194	dry	suh	sûːx	Slovene
+194	dry	сухі	None	Belarusian
+194	dry	сухой	sʊˈxoj	Russian
+194	dry	сухый	None	Rusyn
+194	dry	сухий	None	Ukrainian
+195	right	right	ˈɹaɪt	English
+195	right	правъ	None	Old Church Slavonic
+195	right	správný	ˈspravni	Czech
+195	right	poprawny	pɔˈpravnɨ	Polish
+195	right	správny	None	Slovak
+195	right	pšawy	ˈpʃawɨ	Lower Sorbian
+195	right	prawy	ˈpravɨ	Upper Sorbian
+195	right	правилен	ˈpravʲɪlʲɪn	Bulgarian
+195	right	точен	ˈtɔtʃɛn	Macedonian
+195	right	tačan	tâtʃan	Serbo-Croatian Latin
+195	right	тачан	tâtʃan	Serbo-Croatian Cyrillic
+195	right	točen	None	Slovene
+195	right	правільны	None	Belarusian
+195	right	правильный	ˈpravʲɪlʲnɨj	Russian
+195	right	правилный	None	Rusyn
+195	right	правильний	None	Ukrainian
+196	near	near	nɪəɹ	English
+196	near	близъ	None	Old Church Slavonic
+196	near	blízký	ˈbliːskiː	Czech
+196	near	bliski	ˈblʲiskʲi	Polish
+196	near	blízky	None	Slovak
+196	near	bliski	ˈblʲiskʲi	Lower Sorbian
+196	near	bliski	ˈblʲiskʲi	Upper Sorbian
+196	near	близък	ˈblizək	Bulgarian
+196	near	близок	ˈblʲizək	Macedonian
+196	near	blizak	blîzak	Serbo-Croatian Latin
+196	near	близак	blîzak	Serbo-Croatian Cyrillic
+196	near	bližnji	None	Slovene
+196	near	блізкі	None	Belarusian
+196	near	близкий	ˈblʲiskʲɪj	Russian
+196	near	близкый	None	Rusyn
+196	near	близький	None	Ukrainian
+197	far	far	fɑːɹ	English
+197	far	дальнии	None	Old Church Slavonic
+197	far	daleký	None	Czech
+197	far	daleki	daˈlɛkʲi	Polish
+197	far	ďaleký	None	Slovak
+197	far	daloki	ˈdalɔkʲi	Lower Sorbian
+197	far	daloki	ˈdalɔkʲi	Upper Sorbian
+197	far	далечен	dəˈlɛtʃɛn	Bulgarian
+197	far	далечен	dəˈlɛtʃɛn	Macedonian
+197	far	dalek	dǎlek	Serbo-Croatian Latin
+197	far	далек	dǎlek	Serbo-Croatian Cyrillic
+197	far	daljen	None	Slovene
+197	far	далёкі	None	Belarusian
+197	far	далёкий	dɐˈlʲɵkʲɪj	Russian
+197	far	далекый	None	Rusyn
+197	far	далекий	None	Ukrainian
+198	right	right	ˈɹaɪt	English
+198	right	дєснъ	None	Old Church Slavonic
+198	right	pravý	pravi	Czech
+198	right	prawy	ˈpravɨ	Polish
+198	right	pravý	pravi	Slovak
+198	right	pšawy	ˈpʃawɨ	Lower Sorbian
+198	right	prawy	ˈpravɨ	Upper Sorbian
+198	right	десен	ˈdɛsɛn	Bulgarian
+198	right	десно	dêsno	Macedonian
+198	right	desni	dêːsni	Serbo-Croatian Latin
+198	right	десни	dêːsni	Serbo-Croatian Cyrillic
+198	right	desni	dêːsni	Slovene
+198	right	правы	prɐˈvɨ	Belarusian
+198	right	правый	ˈpravɨj	Russian
+198	right	правый	ˈpravɨj	Rusyn
+198	right	правий	None	Ukrainian
+199	left	left	lɛft	English
+199	left	лѣвъ	None	Old Church Slavonic
+199	left	levý	lɛvi	Czech
+199	left	lewy	ˈlɛvɨ	Polish
+199	left	ľavý	None	Slovak
+199	left	lěwy	ˈlʲiɪwɨ	Lower Sorbian
+199	left	lěwy	ˈlʲiɪwɨ	Upper Sorbian
+199	left	ляв	ˈlʲaf	Bulgarian
+199	left	лево	ˈlʲevə	Macedonian
+199	left	levi	ˈlevi	Serbo-Croatian Latin
+199	left	леви	lêːʋiː	Serbo-Croatian Cyrillic
+199	left	levi	ˈlevi	Slovene
+199	left	левы	ˈlʲevɨ	Belarusian
+199	left	левый	ˈlʲevɨj	Russian
+199	left	лївый	None	Rusyn
+199	left	лівий	None	Ukrainian
+200	at	at	æt	English
+200	at	оу	None	Old Church Slavonic
+200	at	u	u	Czech
+200	at	u	u	Polish
+200	at	pri	prî	Slovak
+200	at	wu	u	Lower Sorbian
+200	at	při	prɪ	Upper Sorbian
+200	at	в	w	Bulgarian
+200	at	до	də	Macedonian
+200	at	u	u	Serbo-Croatian Latin
+200	at	у	u	Serbo-Croatian Cyrillic
+200	at	v	v	Slovene
+200	at	каля	kɐˈlʲa	Belarusian
+200	at	при	prʲɪ	Russian
+200	at	коло	kôlo	Rusyn
+200	at	коло	kôlo	Ukrainian
+201	in	in	ɪn	English
+201	in	въ	None	Old Church Slavonic
+201	in	v	v	Czech
+201	in	w	ˈdʌbljuː	Polish
+201	in	v	v	Slovak
+201	in	w	ˈdʌbljuː	Lower Sorbian
+201	in	w	ˈdʌbljuː	Upper Sorbian
+201	in	в	w	Bulgarian
+201	in	во	və	Macedonian
+201	in	u	u	Serbo-Croatian Latin
+201	in	у	u	Serbo-Croatian Cyrillic
+201	in	v	v	Slovene
+201	in	у	u	Belarusian
+201	in	в	w	Russian
+201	in	в	w	Rusyn
+201	in	в	w	Ukrainian
+202	with	with	wɪð	English
+202	with	съ	s	Old Church Slavonic
+202	with	s	ɛs	Czech
+202	with	z	zɛd	Polish
+202	with	s	ɛs	Slovak
+202	with	z	zɛd	Lower Sorbian
+202	with	z	zɛd	Upper Sorbian
+202	with	с	sɤ	Bulgarian
+202	with	со	sə	Macedonian
+202	with	s	ɛs	Serbo-Croatian Latin
+202	with	с	sɤ	Serbo-Croatian Cyrillic
+202	with	s	ɛs	Slovene
+202	with	з	zɤ	Belarusian
+202	with	с	sɤ	Russian
+202	with	з	zɤ	Rusyn
+202	with	з	zɤ	Ukrainian
+203	and	and	ænd	English
+203	and	и	jə	Old Church Slavonic
+203	and	a	ɑː	Czech
+203	and	i	aɪ	Polish
+203	and	a	ɑː	Slovak
+203	and	a	ɑː	Lower Sorbian
+203	and	a	ɑː	Upper Sorbian
+203	and	и	jə	Bulgarian
+203	and	и	jə	Macedonian
+203	and	i	aɪ	Serbo-Croatian Latin
+203	and	и	jə	Serbo-Croatian Cyrillic
+203	and	in	ɪn	Slovene
+203	and	і	i	Belarusian
+203	and	и	jə	Russian
+203	and	і	i	Rusyn
+203	and	та	ta	Ukrainian
+204	if	if	ɪf	English
+204	if	ащє	None	Old Church Slavonic
+204	if	jestliže	None	Czech
+204	if	jeśli	ˈjɛɕlʲi	Polish
+204	if	ak	ak	Slovak
+204	if	joli	ʒɔli	Lower Sorbian
+204	if	hdyž	None	Upper Sorbian
+204	if	ако	âko	Bulgarian
+204	if	ако	âko	Macedonian
+204	if	ako	ako	Serbo-Croatian Latin
+204	if	ако	âko	Serbo-Croatian Cyrillic
+204	if	če	tʃɛ	Slovene
+204	if	калі	None	Belarusian
+204	if	если	ˈjesʲlʲɪ	Russian
+204	if	кідь	None	Rusyn
+204	if	якщо	None	Ukrainian
+205	because	because	bɪˈkɒz	English
+205	because	пон҄єжє	None	Old Church Slavonic
+205	because	protože	ˈprotoʒɛ	Czech
+205	because	bo	bʊə	Polish
+205	because	pretože	ˈprɛtɔʒɛ	Slovak
+205	because	dokulaž	ˈdɔkulaʃ	Lower Sorbian
+205	because	dokelž	None	Upper Sorbian
+205	because	защото	None	Bulgarian
+205	because	затоа	None	Macedonian
+205	because	zbog	zbôɡ	Serbo-Croatian Latin
+205	because	због	zbôɡ	Serbo-Croatian Cyrillic
+205	because	zaradi	zâradi	Slovene
+205	because	бо	bɔː	Belarusian
+205	because	потому	pətɐˈmuʂtə	Russian
+205	because	бо	bɔː	Rusyn
+205	because	бо	bɔː	Ukrainian
+206	name	name	neɪm	English
+206	name	имѧ	None	Old Church Slavonic
+206	name	jméno	jmɛno	Czech
+206	name	imię	ˈimʲjɛ	Polish
+206	name	meno	eno	Slovak
+206	name	mě	mɲɛ	Lower Sorbian
+206	name	mjeno	None	Upper Sorbian
+206	name	име	ˈimɛ	Bulgarian
+206	name	име	ˈimɛ	Macedonian
+206	name	ime	ˈimeˣ	Serbo-Croatian Latin
+206	name	име	ˈimɛ	Serbo-Croatian Cyrillic
+206	name	ime	ˈimeˣ	Slovene
+206	name	імя	None	Belarusian
+206	name	имя	ˈimʲə	Russian
+206	name	імя	None	Rusyn
+206	name	ім'я	iˈmjɑ	Ukrainian

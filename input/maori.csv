@@ -1,0 +1,235 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby
+85,Maori,"Bruce Biggs",mri,maor1246,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic","Simon Greenhill","Simon Greenhill"
+latitude,longitude
+-35.74651225991849656793,174.02343750000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+85,1,hand,ringa(ringa),"irregular medial C (see Pollex)",,1,1
+442,2,left,mauii,,,"1,59",1
+124900,3,right,katau,,,"5, 40",1
+124901,3,right,matau,,,"5,13",1
+1156,4,leg/foot,waewae,"Correction via Peter Keegan",,"1, 100",1?
+1513,5,"to walk",haere-a-waewae,,,6,
+1870,6,road/path,ara,,,1,1
+2227,7,"to come","haere mai",,,"1,42",1
+2584,8,"to turn",huri,,,15,
+2941,9,"to swim",kauhoe,,,5,
+3298,10,dirty,paru,,,7,
+3655,11,dust,pu|ehu,,,"1, 74",1?
+195120,11,dust,puehu,,,"1, 74",
+4012,12,skin,kiri,,,1,1
+4369,13,back,tuaraa,,,11,
+4726,14,belly,puku,,,,
+5083,15,bone,iwi,,,"52,5",
+5440,16,intestines,wheekau,,,12,
+5797,17,liver,ate,,,1,1
+6154,18,breast,uu,,,1,1
+6511,19,shoulder,pakihiwi,,,8,
+6868,20,"to know, be knowledgeable",moohio,,,52,
+7225,21,"to think",whakaaro,,,,
+7582,22,"to fear",mataku,,,1,1
+7939,23,blood,toto,,,4,
+8296,24,head,upoko,,,10,
+8653,25,neck,ua,,,18,
+9010,26,hair,makawe,,,,
+9367,27,nose,ihu,,,1,1
+9724,28,"to breathe",whakataa,,,11,
+10081,29,"to sniff, smell",hongi,,,9,
+10438,30,mouth,waha,,,"1,8",1
+10795,31,tooth,niho,,,1,1
+11152,32,tongue,arero,,,15,
+11509,33,"to laugh",kata,,,7,
+11866,34,"to cry",tangi,,,1,1
+12223,35,"to vomit",ruaki,,,"8,31",
+12580,36,"to spit",tuha,,,"19,34?",
+12937,37,"to eat",kai,,,"1,44",1
+13294,38,"to chew",katikati,,,,
+13651,39,"to cook",tao,,,10,
+14008,40,"to drink",inu,,,1,1
+14365,41,"to bite",ngau,,,7,
+14722,42,"to suck",ngote,,,9,
+15079,43,ear,taringa,,,1,1
+15436,44,"to hear",rongo,,,1,1
+15793,45,eye,mata,,,1,1
+16150,46,"to see",kite,,,1,1
+16507,47,"to yawn",haamama(mama),,,"19,28",
+16864,48,"to sleep",moe,,,10,
+17221,49,"to lie down",takoto,,,7,
+17578,50,"to dream",moemoeaa,,,"7,27",
+17935,51,"to sit",noho,,,16,
+18292,52,"to stand",tuu,,,2,1
+18649,53,"person/human being",tangata,,,"1,66",1
+19006,54,man/male,taane,,,"1,11",1
+19363,55,woman/female,wahine,,,"1,106, 116",1
+19720,56,child,tamaiti,,,"6,64",
+20077,57,husband,taane,,,14,
+20434,58,wife,wahine,,,"5,68",
+20791,59,mother,whaea,,,6,
+21148,60,father,matua,,,"1,9",
+21505,61,house,whare,,,14,
+21862,62,thatch/roof,raurau,,,55?,
+22219,63,name,ingoa,,,6,
+22576,64,"to say",koorero,,,11,
+22933,65,rope,taura,,,9,
+23290,66,"to tie up, fasten",herehere,,,43,
+23647,67,"to sew",tui,,,13,
+24004,68,needle,ngira,(Eng.),L,16,
+24361,69,"to hunt",whaiwhai,,,6,
+24718,70,"to shoot",whana,,,1,1
+25075,71,"to stab, pierce",oka,,,67,
+25432,72,"to hit",patu,,,7,
+25789,73,"to steal",taahae,,,5?,
+26146,74,"to kill",patu,,,9,
+26503,75,"to die, be dead",mate,,,1,1
+26860,76,"to live, be alive",ora,,,6,
+27217,77,"to scratch",rakuraku,(<M),,9,?
+27574,78,"to cut, hack",taa,,,1,1
+27931,79,stick/wood,raa|kau,,,1,1
+28288,80,"to split",waawaahi,,,4,
+28645,81,sharp,koi(koi),,,"14,66",
+29002,82,"dull, blunt",puuhuki,,,18,
+29359,83,"to work",mahi,,,54,
+29716,84,"to plant",too,,,4,
+30073,85,"to choose",whiri,,,1,1
+30430,86,"to grow",tupu,,,1,1
+30787,87,"to swell",puku,,,24,
+31144,88,"to squeeze",kotee,,,,
+31501,89,"to hold",pupuri,,,,
+31858,90,"to dig",keri,,,1,1
+32215,91,"to buy",hoko,,,7,
+32572,92,"to open, uncover",huaki,(<M),,8,1?
+32929,93,"to pound, beat",tuki,,,"20, 2",1
+33286,94,"to throw",panga,,,,
+33643,95,"to fall",makere,,,10,
+34000,96,dog,kurii,,,7,
+34357,97,bird,manu,,,1,1
+89855,98,egg,heeki,"heeki (Eng.)",L,,
+89856,98,egg,"hua manu","hua manu (arch.)",,5,
+35071,99,feather,huru-manu,,,1,1
+35428,100,wing,parirau,,,9,
+35785,101,"to fly",rere,,,11,
+36142,102,rat,kiore,,,12,
+36499,103,meat/flesh,kiko,,,10,
+36856,104,fat/grease,ngako,,,14,
+37213,105,tail,whiore,,,10?,
+37570,106,snake,naakahi,Hebrew,L,,
+37927,107,"worm (earthworm)",noke,,,7,
+38284,108,louse,kutu,,,1,1
+38641,109,mosquito,waeroa,,,54,
+38998,110,spider,pungaawerewere,,,"1,57",
+39355,111,fish,ika,,,1,1
+39712,112,rotten,pirau,,,15,
+40069,113,branch,manga,,,"2,35",
+40426,114,leaf,rau,,,1,1
+40783,115,root,paki|aka,,,2,1?
+41140,116,flower,puaawai,,,1,
+41497,117,fruit,hua,,,1,1
+41854,118,grass,karaaihe,Eng.,L,56,
+42211,119,earth/soil,oneone,"Sand? (POc *qone)",,35,
+134104,119,earth/soil,repo,Dirt,,11,
+134107,119,earth/soil,kere-,"Earth (in compounds only).",,10,
+42568,120,stone,koowhatu,,,"1,39",1
+42925,121,sand,one,,,1,1
+43282,122,water,wai,,,2,1
+43639,123,"to flow",tere,,,10,
+107768,124,sea,moana,,,10,
+107769,124,sea,tai,,,1,
+44353,125,salt,tote,Eng.,L,20?,
+44710,126,lake,roto,,,6,
+45067,127,woods/forest,ngahere,,,16,
+45424,128,sky,rangi,,,1,1
+45781,129,moon,marama,,,7,
+46138,130,star,whetuu,,,1,1
+46495,131,cloud,kapua,,,"12, 67",
+46852,132,fog,kohu,,,"1, 47",1
+47209,133,rain,ua,,,1,1
+47566,134,thunder,whatitiri,,,14,
+47923,135,lightning,uira,,,2,1
+48280,136,wind,hau,,,10,
+78985,137,"to blow",hua,,,5?,
+78986,137,"to blow",pupuhi,,,6,
+48994,138,warm,mahana,,,"1, 72",1
+49351,139,cold,makariri,,,"1,52",1
+49708,140,dry,maroke,,,13,
+50065,141,wet,maakuu,,,10,
+50422,142,heavy,taimaha,,,"46,66",
+50779,143,fire,ahi,,,1,1
+51136,144,"to burn",tahu,,,8,
+51493,145,smoke,au|ahi,,,2,1
+51850,146,ash,pungarehu,,,67,
+52207,147,black,mangu,,,,
+52564,148,white,maa,,,,
+52921,149,red,whero,,,36,
+53278,150,yellow,koowhai,,,,
+53635,151,green,kaakaariki,,,,
+53992,152,small,iti,,,121,?
+54349,153,big,nui,,,11,
+123182,154,short,hakahaka,"hakahaka (height)",,10,
+123183,154,short,poto,"poto (length)",,9,
+55063,155,long,roa,,,12,
+55420,156,thin,rahirahi,,,5,
+55777,157,thick,matotoru,,,3,
+56134,158,narrow,whaaiti,,,84,
+56491,159,wide,whaanui,,,,
+56848,160,"painful, sick",maauiui,,,"1,12",
+57205,161,"shy, ashamed",whaka|maa,,,1,1
+57562,162,old,pakeke,,,,
+57919,163,new,hoou,,,1,1
+58276,164,good,pai,,,76,
+58633,165,"bad, evil",kino,,,9,
+58990,166,"correct, true",tika,,,9,
+59347,167,night,poo,,,1,?
+119455,168,day,ao,"(not night)",,"1, 54",1
+119456,168,day,raa,(period),,7,
+60061,169,year,tau,,,1,1
+60418,170,when?,aahea,"aahea (future)",,5,
+60775,171,"to hide",huna,,,"1,16",
+61132,172,"to climb",piki,,,6,
+122907,173,at,i,,,1,1
+122908,173,at,kei,,,5,
+122909,173,at,hei,,,5,
+61846,174,"in, inside","i roto",,,5,
+62203,175,above,"i runga",,,9,
+62560,176,below,"i raro",,,8,
+62917,177,this,teenei,,,"7,1",1
+123448,178,that,teenaa,,,1,1
+123449,178,that,teeraa,,,,
+63631,179,near,tata,,,9,
+63988,180,far,tawhiti,,,,
+64345,181,where?,whea,,,"3,35",
+64702,182,I,au,,,"1,21",1
+65059,183,thou,koe,,,1,?
+65416,184,he/she,ia,,,1,1
+123450,185,we,taaua,"1 dual incl.",,"1, 29",1
+123451,185,we,taatou,"1 pl. incl.",,"1, 39",1
+123452,185,we,maaua,,,"2, 29",1
+123453,185,we,maatou,,,"2, 39",1
+82041,186,you,koorua,,,x,?
+82042,186,you,koutou,,,16,?
+82137,187,they,raaua,dual,,x,1
+82138,187,they,raatou,,,"1, 72",1
+66844,188,what?,aha,,,1,1
+67201,189,who?,wai,"cf M-F",,"1,19",?
+67558,190,other,atu,"atu (Particle)",,19,
+67915,191,all,katoa,,,13,
+82495,192,and,me,,,"2, 46",1?
+82496,192,and,hoki,'also'?-MW,,,1?
+68629,193,if,"me (hemea)",,,5,
+68986,194,how?,peehea,,,11,
+69343,195,"no, not",kaahore,,,11,
+69700,196,"to count",tatau,,,8,
+70057,197,One,tahi,,,"14,48",
+87871,198,Two,rua,,,1,
+70771,199,Three,toru,,,1,1
+71128,200,Four,whaa,,,"1,66",1
+83762,201,Five,rima,"Five.(Source: Pollex)",,1,
+83729,202,Six,ono,"Six. (Source: Pollex)",,1,
+83664,203,Seven,whitu,"Seven.(Source: Pollex)",,1,
+87872,204,Eight,waru,,,3,
+83539,205,Nine,iwa,"Nine.(Source: Pollex)",,"5,66",
+83427,206,Ten,ngahuru,"Ten (archaic) (Bgs), Ten (Best).(Source: Pollex)",,5,
+83453,206,Ten,hangahuru,"Ten (archaic) (Bgs), Ten (Best).(Source: Pollex)",,5,
+87873,206,Ten,tekau,,,30?,
+83388,207,Twenty,"rua tekau","Twenty (obs.), ten (mod) (Bgs).(Source: Pollex)",,"3,4",
+118270,208,Fifty,"rima tekau",,,,
+83354,209,"One Hundred",rau,"A large number, hundred.(Source: Pollex)",,2,
+83320,210,"One Thousand",mano,"Thousand, multitude.(Source: Pollex)",,2,

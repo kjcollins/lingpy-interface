@@ -1,0 +1,234 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby
+11,"Fijian (Bau)","Blust from: Capell (1968)",fij,fiji1243,"Capell, A. (1968). Lexicostatistical study of the languages of Choiseul Island, British Solomon Islands. Pacific Linguistics, Series A, Occasional Papers, No. 15.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, East Fijian","Simon Greenhill","Simon Greenhill"
+latitude,longitude
+-17.81145608856447282164,177.97851562500000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+11,1,hand,liga-na,"irregular medial C (see Pollex)",,1,1
+368,2,left,"i mawī",,,"1,59",1
+725,3,right,"i matau",,,"5,13",1
+1082,4,leg/foot,yava-na,,,25,
+1439,5,"to walk",lako,,,1,1
+1796,6,road/path,sala,,,1,1
+2153,7,"to come","lako mai",,,"1,85",1
+2510,8,"to turn",gole-a,//,,,
+2867,9,"to swim",qalo,"not \"5\"",,11,
+3224,10,dirty,duka,,,17,
+3581,11,dust,"kuvu ni qele",,,24,
+3938,12,skin,kuli-na,,,1,1
+4295,13,back,daku-na,,,12,
+4652,14,belly,kete-na,,,7,
+5009,15,bone,sui-na,,,52,
+5366,16,intestines,wāwā,,,11,
+5723,17,liver,yate-na,,,1,1
+6080,18,breast,sucu-na,,,1,1
+6437,19,shoulder,"vū ni taba-na",,,,
+6794,20,"to know, be knowledgeable",kila-a,,,18,
+7151,21,"to think",nanu-ma,,,28,
+7508,22,"to fear",rere-vaka,,,29,
+7865,23,blood,drā,,,1,1
+8222,24,head,ulu-na,,,1,1
+8579,25,neck,domo-na,,,46,
+8936,26,hair,"drau ni ulu-na",,,40,
+9293,27,nose,ucu-na,,,1,1
+9650,28,"to breathe",cegu-va,,,40,
+10007,29,"to sniff, smell",regu-ca,,,,
+10364,30,mouth,gusu-na,,,2,
+10721,31,tooth,bati-na,"this set might also be in W. melanesia.BB.",,6,
+11078,32,tongue,yame-na,,,7,?
+11435,33,"to laugh",dredre,,,50,
+11792,34,"to cry",tagi,,,1,1
+12149,35,"to vomit",lua-ca,,,8,
+12506,36,"to spit",kasivi-ta,,,"19, 55",
+12863,37,"to eat",kani-a,,,1,1
+89352,38,"to chew",mama-a,,,1,1
+89353,38,"to chew",namu-ta,,,7?,
+13577,39,"to cook","[vaka] saqa-a",,,2,1
+13934,40,"to drink",gunu-va,,,1,1?
+14291,41,"to bite",kati-a,,,1,1
+73601,42,"to suck",sucu-ma,,,51,1
+73602,42,"to suck",domi-ca,,,50,1
+15005,43,ear,daliga-na,,,1,1
+15362,44,"to hear",rogo-ca,,,1,1
+15719,45,eye,mata-na,,,1,1
+16076,46,"to see",rai-ca,,,37,
+16433,47,"to yawn",[vaka]lāmawa,,,19,1
+16790,48,"to sleep",moce,,,10,
+17147,49,"to lie down",davo,,,40,
+17504,50,"to dream",tadra-a,,,16,
+17861,51,"to sit",dabe-ca,,,62,
+18218,52,"to stand",tū,,,2,1
+18575,53,"person/human being",tamata,,,"1,66",1
+18932,54,man/male,tagane,,,"1,11?",1
+19289,55,woman/female,yalewa,,,55,
+19646,56,child,gone,,,27,
+20003,57,husband,wati-na,,,,
+20360,58,wife,wati-na,,,30,
+20717,59,mother,tina-na,,,1,1
+21074,60,father,tama-na,,,1,1
+21431,61,house,vale,,,14,
+21788,62,thatch/roof,"i tibitibi",,,,
+22145,63,name,yaca-na,,,"1,18",1
+22502,64,"to say",kaya,,,,
+22859,65,rope,dali,,,1,1
+343585,65,rope,tàly,,,,
+74947,66,"to tie up, fasten",vau-ca,,,11,
+74948,66,"to tie up, fasten",buki-a,,,41,
+23573,67,"to sew",cula-a,,,31,
+75143,68,needle,i-cula,,,21,1?
+75144,68,needle,sau[laca],,,1,1?
+24287,69,"to hunt",vaka-sasa-a,,,,
+24644,70,"to shoot",vana,,,1,1
+25001,71,"to stab, pierce",sua-ka,,,54,
+75358,72,"to hit",vacu-a,,,,
+75359,72,"to hit",yavi-ta,,,,
+25715,73,"to steal",butako-ca,,,1,?
+91836,74,"to kill",moku-ta,,,,
+91837,74,"to kill",vaka-mate-a,,,2,
+26429,75,"to die, be dead",mate,,,1,1
+26786,76,"to live, be alive",bula,,,28,
+75609,77,"to scratch",kadru-va,,,44,?
+75610,77,"to scratch",mila-a,,,31,?
+27500,78,"to cut, hack",tatā,,,1,
+27857,79,stick/wood,kau,,,1,1
+28214,80,"to split",tase-a,,,,
+28571,81,sharp,gata,,,36,
+28928,82,"dull, blunt",[mucu]mucu,,,10?,
+29285,83,"to work",cakacaka,,,33,
+343392,83,"to work",mi-àsa,,,,
+29642,84,"to plant",te-a,,,,
+29999,85,"to choose",digi-a,,,41,
+30356,86,"to grow",tubu,,,1,1
+30713,87,"to swell",vuce,,,,
+90436,88,"to squeeze",boo,"Pollex 06: Boo. :Squeeze.",,42,
+31427,89,"to hold",taura,,,35,
+31784,90,"to dig",keli-a,,,1,1
+32141,91,"to buy",voli-a,,,1,1
+32498,92,"to open, uncover",dola-va,,,35,
+32855,93,"to pound, beat",tuki-a,,,"20, 2",1
+33212,94,"to throw",viri-taka,,,30,
+33569,95,"to fall",lutu-ka,,,58,
+33926,96,dog,koli,,,7,
+34283,97,bird,manumanu,,,1,1
+34640,98,egg,yaloka,,,30,
+34997,99,feather,vuti-na,,,,
+35354,100,wing,taba-na,,,35,
+35711,101,"to fly",vuka,,,45,
+36068,102,rat,kalavo,,,1,1
+36425,103,meat/flesh,viciko,,,10,
+36782,104,fat/grease,uro,,,44,
+37139,105,tail,bui-na,,,38,
+37496,106,snake,gata,,,12,
+37853,107,"worm (earthworm)","baca ni qele",,,16,
+38210,108,louse,kutu,,,1,1
+38567,109,mosquito,namu,,,1,1
+38924,110,spider,"tina ni viritālawalawa",,,1,1
+39281,111,fish,ika,,,1,1
+77628,112,rotten,vuca,,,9,
+77629,112,rotten,midra,,,,
+39995,113,branch,taba-na,,,13,
+40352,114,leaf,"drau ni kau",,,1,1
+77825,115,root,vū-na,,,,1
+77826,115,root,waka-na,,,2,1
+41066,116,flower,"sē ni kau",,,"9,18,14",
+41423,117,fruit,vua-na,,,1,1
+41780,118,grass,cō,,,,
+42137,119,earth/soil,qele,,,10,
+42494,120,stone,vatu,,,1,1
+42851,121,sand,nuku,,,41,
+43208,122,water,wai,,,2,1
+43565,123,"to flow",drōdrō-va,,,32,
+43922,124,sea,wasawasa,,,12,
+44279,125,salt,māsima,,,47,
+44636,126,lake,drano,,,1,1
+44993,127,woods/forest,veikau,,,13,
+45350,128,sky,lomālagi,,,1,1
+45707,129,moon,vula,,,1,1
+46064,130,star,kalokalo,,,28,
+46421,131,cloud,ō,,,12,
+46778,132,fog,kabukabu,,,"1, 54",1
+47135,133,rain,uca,,,1,1
+47492,134,thunder,kurukuru,,,"2, 63",1
+47849,135,lightning,livaliva,,,35,
+48206,136,wind,cagi,,,1,1
+78964,137,"to blow",uvu-ca,,,"4,57",
+78965,137,"to blow",liwa,,,36,
+48920,138,warm,katakata,,,36,
+49277,139,cold,batabatā,,,42,
+49634,140,dry,maca,,,11,1
+49991,141,wet,suasua,,,11,
+50348,142,heavy,bībī,,,37,
+50705,143,fire,bukawaqa,,,17,
+51062,144,"to burn",vaka-caudre-va,,,,
+51419,145,smoke,kubou,,,57,
+51776,146,ash,dravu,,,67,?
+52133,147,black,loaloa,,,40,
+52490,148,white,vulavula,,,42,1?
+52847,149,red,damudamu,,,,
+53204,150,yellow,dromodromoa,,,46,
+53561,151,green,karakarawa,,,"13, 52",
+53918,152,small,lailai,,,32,
+54275,153,big,levu,"(cognacy - John Lynch)",,10,
+54632,154,short,lekaleka,,,8,
+54989,155,long,balavu,"(cognacy - John Lynch)",,16,
+55346,156,thin,mamare,,,13,
+55703,157,thick,vāvaku,,,36,
+56060,158,narrow,qiqō,,,27,
+56417,159,wide,raba,,,51,1
+56774,160,"painful, sick",rarawa,,,,
+57131,161,"shy, ashamed",māduā,,,31,
+57488,162,old,qase,,,53,
+57845,163,new,vou,,,1,1
+58202,164,good,vinaka,,,21,
+58559,165,"bad, evil",cā,,,1,1
+80721,166,"correct, true",dina,,,40,
+80722,166,"correct, true",donu,,,8,
+59273,167,night,bogi,,,1,1
+59630,168,day,siga,,,23,
+59987,169,year,yabaki,,,27,
+60344,170,when?,ninaica,,,"1,43",1
+60701,171,"to hide",vuni-a,,,1,1
+61058,172,"to climb",cabe,,,2,
+61415,173,at,e,,,1,
+61772,174,"in, inside","e loɭma",,,1,1?
+62129,175,above,"e cake",,,25,
+62486,176,below,"e rā",,,8,
+62843,177,this,oqō,,,17,
+81428,178,that,oqori,,,,
+81429,178,that,koyā,,,,
+81430,178,that,ayā,,,,
+63557,179,near,vōleka,,,38,
+63914,180,far,yawa,,,4,
+64271,181,where?,"e vei",,,3,
+64628,182,I,iau,,,"1,21",1
+64985,183,thou,iko,,,1,1
+65342,184,he/she,koya,,,1,1
+111914,185,we,e[da],,,1,1
+111915,185,we,keda,,,1,1
+111916,185,we,keimami,,,2,
+66056,186,you,kemunī,,,1?,1
+66413,187,they,ira,,,"1, 70",1
+66770,188,what?,cava,,,1,1
+67127,189,who?,"[k]o cei",,,1,1
+67484,190,other,"dua tale",,,,
+67841,191,all,kece,,,48,
+82472,192,and,kei,,,1,1
+82473,192,and,ka,,,1,1
+82570,193,if,ke,,,1,1
+82571,193,if,se,,,,1
+68912,194,how?,vaka-cava,,,35,
+69269,195,"no, not",sega,,,42,
+69626,196,"to count",oka-ta,,,,
+69983,197,One,"e dua",,,18,
+70340,198,Two,"e rua",,,1,1
+70697,199,Three,"e tolu",,,1,1
+71054,200,Four,"e vā",,,"1,66",1
+90437,201,Five,lima,"Pollex 06: Lima. :Five.",,1,
+125633,202,Six,ono,,,1,
+125634,203,Seven,vitu,,,1,
+90438,204,Eight,walu,"Pollex 06: Walu. :Eight.",,3,
+90439,205,Nine,ciwa,"Pollex 06: Ciwa. :Nine.",,5,
+90440,206,Ten,sagavulu,"Pollex 06: Sagavulu. :Ten.",,5,
+125635,207,Twenty,rua-sagavulu,,,"3,6",
+125636,208,Fifty,lima-sagavulu,,,"1, 2",
+90608,209,"One Hundred",drau,"Pollex 06: Drau. :Hundred.",,2,
+129022,210,"One Thousand","dua na dolu",,,12,
