@@ -18,7 +18,7 @@ Also in this repository are files for work presented in "An Interface and Case S
 
 Start with Anaconda installation instructions for your system at [the Anaconda documentation link](https://docs.anaconda.com/anaconda/install/).
 
-Once Anaconda is installed, you can use pip to install new packages into the Anaconda Python distribution. Install lingpy according to the instructions at the [repository](https://github.com/lingpy/lingpy). To install with pip, open a terminal and type in the following:
+Once Anaconda is installed, you can use pip to install new packages into the Anaconda Python distribution. Install LingPy according to the instructions at its [repository, here](https://github.com/lingpy/lingpy). To install with pip, open a terminal and type in the following:
 ```bash
 $ pip install lingpy
 ```
